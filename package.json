@@ -1,0 +1,13 @@
+{
+  "name": "english-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node bot.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "grammy": "^1.45.1"
+  }
+}

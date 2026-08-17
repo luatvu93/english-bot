@@ -1,0 +1,43 @@
+name: Send a word
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: # lets you trigger a run by hand from the Actions tab
+
+# Needed so the job can commit the updated state file back to the repository.
+permissions:
+  contents: write
+
+# If a previous run is still going, let it finish rather than sending twice.
+concurrency:
+  group: send-a-word
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - run: node bot.js --once
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          MYMEMORY_EMAIL: ${{ secrets.MYMEMORY_EMAIL }}
+
+      # state.json holds the learner's position and the cache of looked-up words,
+      # so it has to survive between runs.
+      - name: Save progress
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state.json
+          git diff --staged --quiet || git commit -m "progress: $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
