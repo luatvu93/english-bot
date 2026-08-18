@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 6,
-      "learned": 6,
-      "lastPush": 1787086423090
+      "index": 7,
+      "learned": 7,
+      "lastPush": 1787093624498
     }
   },
   "cache": {
@@ -54,6 +54,14 @@
       "pos": "noun",
       "en": "A person other than a family member, spouse or lover whose company one enjoys and towards whom one feels affection.",
       "vi": "người bạn"
+    },
+    "family": {
+      "word": "family",
+      "ipa": "/ˈfɛm(ɘ)li/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/family-uk.mp3",
+      "pos": "noun",
+      "en": "A group of people who are closely related to one another (by blood, marriage or adoption); kin; for example, a set of parents and their children; an immediate family.",
+      "vi": "family"
     }
   },
   "offset": 425651725
