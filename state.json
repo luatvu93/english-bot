@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 5,
-      "learned": 5,
-      "lastPush": 1787080709977
+      "index": 6,
+      "learned": 6,
+      "lastPush": 1787086423090
     }
   },
   "cache": {
@@ -46,6 +46,14 @@
       "pos": "noun",
       "en": "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
       "vi": "sách; ghi chép"
+    },
+    "friend": {
+      "word": "friend",
+      "ipa": "/fɹɛnd/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/friend-uk.mp3",
+      "pos": "noun",
+      "en": "A person other than a family member, spouse or lover whose company one enjoys and towards whom one feels affection.",
+      "vi": "người bạn"
     }
   },
   "offset": 425651725
