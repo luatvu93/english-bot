@@ -3,7 +3,7 @@ import assert from "node:assert/strict";
 
 process.env.TELEGRAM_TOKEN ??= "test-token"; // grammy refuses an empty token
 process.env.INTERVAL_MIN ??= "60";
-const { DECK, nextCard, levelStart, isDue } = await import("./bot.js");
+const { DECK, nextCard, levelStart, isDue, recentCards } = await import("./bot.js");
 
 // A word must never appear twice, or the learner sees the same card again mid-cycle.
 const seen = new Set();
@@ -46,5 +46,9 @@ const now = Date.parse("2026-01-01T12:00:00Z");
 assert.ok(isDue({}, now), "a subscriber that never got a word is due");
 assert.ok(!isDue({ lastPush: now - 10 * 60_000 }, now), "10 minutes in is not due");
 assert.ok(isDue({ lastPush: now - 60 * 60_000 }, now), "an hour later is due");
+
+// /review looks backwards from the current position, oldest first, and wraps past 0.
+assert.deepEqual(recentCards(3, 2).map((c) => c.word), [DECK[1].word, DECK[2].word]);
+assert.deepEqual(recentCards(0, 2).map((c) => c.word), [DECK[DECK.length - 2].word, DECK[DECK.length - 1].word]);
 
 console.log(`ok - ${DECK.length} words`);

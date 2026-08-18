@@ -2,8 +2,11 @@
 // Free end to end: Telegram Bot API, dictionaryapi.dev (IPA + audio), MyMemory (Vietnamese).
 // Env: TELEGRAM_TOKEN (required), INTERVAL_MIN (default 30), MYMEMORY_EMAIL (optional, raises the free quota)
 
+import { spawnSync } from "node:child_process";
 import fs from "node:fs";
-import { Bot } from "grammy";
+import os from "node:os";
+import path from "node:path";
+import { Bot, InputFile } from "grammy";
 
 const LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2"];
 const STATE_FILE = new URL("./state.json", import.meta.url);
@@ -25,6 +28,13 @@ function save() {
 // Where a level starts in the flat deck; used by /level to jump.
 export function levelStart(level) {
   return DECK.findIndex((card) => card.level === level);
+}
+
+// The cards already served, oldest first, so they can be replayed.
+export function recentCards(index, count) {
+  const cards = [];
+  for (let i = count; i >= 1; i--) cards.push(DECK[(((index - i) % DECK.length) + DECK.length) % DECK.length]);
+  return cards;
 }
 
 // Advance one card and wrap around at the end of the deck.
@@ -66,6 +76,36 @@ async function lookup(word) {
   state.cache[word] = entry;
   save();
   return entry;
+}
+
+// Telegram clients stop after one file, so a review is stitched into a single mp3
+// with a second of silence between words. Returns null when ffmpeg is unavailable.
+async function joinAudio(entries) {
+  const dir = fs.mkdtempSync(path.join(os.tmpdir(), "review-"));
+  const parts = [];
+  for (const [i, entry] of entries.entries()) {
+    const response = await fetch(entry.audio).catch(() => null);
+    if (!response?.ok) continue;
+    const file = path.join(dir, i + ".mp3");
+    fs.writeFileSync(file, Buffer.from(await response.arrayBuffer()));
+    parts.push(file);
+  }
+  if (!parts.length) return null;
+
+  const gap = path.join(dir, "gap.mp3");
+  spawnSync("ffmpeg", ["-y", "-f", "lavfi", "-i", "anullsrc=r=44100:cl=mono", "-t", "1", gap], { stdio: "ignore" });
+  const sequence = fs.existsSync(gap) ? parts.flatMap((file) => [file, gap]) : parts;
+
+  const list = path.join(dir, "list.txt");
+  fs.writeFileSync(list, sequence.map((file) => "file '" + file.split("\\").join("/") + "'").join("\n"));
+  const out = path.join(dir, "review.mp3");
+  // Re-encoded instead of stream-copied: the source files differ in sample rate.
+  const ffmpeg = spawnSync(
+    "ffmpeg",
+    ["-y", "-f", "concat", "-safe", "0", "-i", list, "-ar", "44100", "-ac", "1", "-b:a", "64k", out],
+    { stdio: "ignore" },
+  );
+  return ffmpeg.status === 0 ? out : null;
 }
 
 function format(card, entry) {
@@ -114,6 +154,7 @@ bot.command("start", async (ctx) => {
     `Da bat thong bao. Cu ${process.env.INTERVAL_MIN || 30} phut mot tu moi.\n` +
       "/next - lay tu tiep theo ngay\n" +
       `/level ${LEVELS.join(" | ")} - nhay den trinh do khac\n` +
+      "/review 10 - nghe lai 10 tu gan nhat trong 1 file audio\n" +
       "/status - xem tien do\n" +
       "/stop - tat thong bao",
   );
@@ -138,6 +179,39 @@ bot.command("level", async (ctx) => {
   save();
   await ctx.reply(`Da chuyen sang trinh do ${level}.`);
   await push(chatId);
+});
+
+// Replays the last N words as one audio file, for listening straight through.
+bot.command("review", async (ctx) => {
+  const chatId = String(ctx.chat.id);
+  const subscriber = state.subscribers[chatId];
+  if (!subscriber) return ctx.reply("Chua bat thong bao. Gui /start.");
+
+  // Capped at 20: a longer stitch outgrows the runner's time and the learner's patience.
+  const asked = Number(ctx.match.trim()) || 10;
+  const count = Math.min(Math.max(asked, 1), 20, subscriber.learned ?? 0);
+  if (count < 1) return ctx.reply("Chua hoc tu nao. Gui /next.");
+
+  const cards = recentCards(subscriber.index, count);
+  const entries = [];
+  for (const card of cards) entries.push(await lookup(card.word));
+  await ctx.reply("On lai " + count + " tu: " + cards.map((card) => card.word).join(", "));
+
+  const withAudio = entries.filter((entry) => entry.audio);
+  const joined = withAudio.length ? await joinAudio(withAudio) : null;
+  if (joined) {
+    await bot.api.sendAudio(chatId, new InputFile(joined), {
+      title: "On lai " + count + " tu",
+      performer: "one word at a time",
+    });
+    return;
+  }
+  // No ffmpeg: fall back to one file per word, which plays one at a time.
+  for (const entry of withAudio) {
+    await bot.api
+      .sendAudio(chatId, entry.audio, { title: entry.word, performer: "one word at a time" })
+      .catch(() => {});
+  }
 });
 
 bot.command("status", (ctx) => {
