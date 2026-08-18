@@ -1,5 +1,19 @@
 {
-  "subscribers": {},
-  "cache": {},
-  "offset": 425651722
+  "subscribers": {
+    "7583091901": {
+      "index": 1,
+      "learned": 1
+    }
+  },
+  "cache": {
+    "water": {
+      "word": "water",
+      "ipa": "/ˈwoːtə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/water-uk.mp3",
+      "pos": "noun",
+      "en": "A substance (of molecular formula H₂O) found at room temperature and pressure as a clear liquid; it is present naturally as rain, and found in rivers, lakes and seas; its solid form is ice and its gaseous form is steam.",
+      "vi": "nước"
+    }
+  },
+  "offset": 425651723
 }
