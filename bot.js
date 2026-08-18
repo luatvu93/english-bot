@@ -2,7 +2,6 @@
 // Free end to end: Telegram Bot API, dictionaryapi.dev (IPA + audio), MyMemory (Vietnamese).
 // Env: TELEGRAM_TOKEN (required), INTERVAL_MIN (default 30), MYMEMORY_EMAIL (optional, raises the free quota)
 
-import { spawnSync } from "node:child_process";
 import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
@@ -78,34 +77,22 @@ async function lookup(word) {
   return entry;
 }
 
-// Telegram clients stop after one file, so a review is stitched into a single mp3
-// with a second of silence between words. Returns null when ffmpeg is unavailable.
+// Telegram clients stop after one file, so a review is stitched into a single mp3.
+// The parts are just concatenated: every source comes from the same Wiktionary
+// pipeline, and players read the stream frame by frame. Telegram may show an odd
+// duration for the result, but it plays straight through.
 async function joinAudio(entries) {
-  const dir = fs.mkdtempSync(path.join(os.tmpdir(), "review-"));
   const parts = [];
-  for (const [i, entry] of entries.entries()) {
+  for (const entry of entries) {
     const response = await fetch(entry.audio).catch(() => null);
     if (!response?.ok) continue;
-    const file = path.join(dir, i + ".mp3");
-    fs.writeFileSync(file, Buffer.from(await response.arrayBuffer()));
-    parts.push(file);
+    parts.push(Buffer.from(await response.arrayBuffer()));
   }
   if (!parts.length) return null;
 
-  const gap = path.join(dir, "gap.mp3");
-  spawnSync("ffmpeg", ["-y", "-f", "lavfi", "-i", "anullsrc=r=44100:cl=mono", "-t", "1", gap], { stdio: "ignore" });
-  const sequence = fs.existsSync(gap) ? parts.flatMap((file) => [file, gap]) : parts;
-
-  const list = path.join(dir, "list.txt");
-  fs.writeFileSync(list, sequence.map((file) => "file '" + file.split("\\").join("/") + "'").join("\n"));
-  const out = path.join(dir, "review.mp3");
-  // Re-encoded instead of stream-copied: the source files differ in sample rate.
-  const ffmpeg = spawnSync(
-    "ffmpeg",
-    ["-y", "-f", "concat", "-safe", "0", "-i", list, "-ar", "44100", "-ac", "1", "-b:a", "64k", out],
-    { stdio: "ignore" },
-  );
-  return ffmpeg.status === 0 ? out : null;
+  const file = path.join(fs.mkdtempSync(path.join(os.tmpdir(), "review-")), "review.mp3");
+  fs.writeFileSync(file, Buffer.concat(parts));
+  return file;
 }
 
 function format(card, entry) {
@@ -206,7 +193,7 @@ bot.command("review", async (ctx) => {
     });
     return;
   }
-  // No ffmpeg: fall back to one file per word, which plays one at a time.
+  // Every download failed: fall back to one file per word.
   for (const entry of withAudio) {
     await bot.api
       .sendAudio(chatId, entry.audio, { title: entry.word, performer: "one word at a time" })
