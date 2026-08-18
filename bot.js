@@ -158,6 +158,7 @@ async function tick({ skipAlreadyPushed = false } = {}) {
 async function runOnce() {
   await bot.init();
   const updates = await bot.api.getUpdates({ offset: state.offset ?? 0, timeout: 0 });
+  console.log(`@${bot.botInfo.username}: ${updates.length} update(s), ${Object.keys(state.subscribers).length} subscriber(s)`);
   for (const update of updates) {
     await bot.handleUpdate(update).catch((error) => console.error("update:", error));
     state.offset = update.update_id + 1;
