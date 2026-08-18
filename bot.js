@@ -98,7 +98,11 @@ async function push(chatId) {
   await bot.api.sendMessage(chatId, format(card, entry));
   if (entry.audio) {
     // Telegram fetches the mp3 itself, so nothing is downloaded on this machine.
-    await bot.api.sendAudio(chatId, entry.audio, { title: entry.word }).catch(() => {});
+    // One performer for every file, so Telegram queues them as a single playlist
+    // and keeps playing down the chat instead of stopping after one word.
+    await bot.api
+      .sendAudio(chatId, entry.audio, { title: entry.word, performer: "one word at a time" })
+      .catch(() => {});
   }
 }
 
