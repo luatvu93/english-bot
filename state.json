@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 4,
-      "learned": 4,
-      "lastPush": 1787076012045
+      "index": 5,
+      "learned": 5,
+      "lastPush": 1787080709977
     }
   },
   "cache": {
@@ -38,6 +38,14 @@
       "pos": "noun",
       "en": "(collective) A group of fish or a group of marine mammals such as porpoises, dolphins, or whales.",
       "vi": "đàn cá"
+    },
+    "book": {
+      "word": "book",
+      "ipa": "/buːk/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/book-uk.mp3",
+      "pos": "noun",
+      "en": "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+      "vi": "sách; ghi chép"
     }
   },
   "offset": 425651725
