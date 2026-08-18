@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 3,
-      "learned": 3,
-      "lastPush": 1787069265416
+      "index": 4,
+      "learned": 4,
+      "lastPush": 1787076012045
     }
   },
   "cache": {
@@ -30,6 +30,14 @@
       "pos": "noun",
       "en": "A structure built or serving as an abode of human beings.",
       "vi": "nhà, căn nhà, toàn nhà"
+    },
+    "school": {
+      "word": "school",
+      "ipa": "/skuːl/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/school-uk.mp3",
+      "pos": "noun",
+      "en": "(collective) A group of fish or a group of marine mammals such as porpoises, dolphins, or whales.",
+      "vi": "đàn cá"
     }
   },
   "offset": 425651725
