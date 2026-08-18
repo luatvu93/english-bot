@@ -2,7 +2,7 @@ name: Send a word
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "*/5 * * * *" # runs often so /next answers fast; a word still only goes out once INTERVAL_MIN has passed
   workflow_dispatch: # lets you trigger a run by hand from the Actions tab
 
 # Needed so the job can commit the updated state file back to the repository.
@@ -29,7 +29,7 @@ jobs:
 
       - run: node bot.js --once
         env:
-          INTERVAL_MIN: 60 # only affects the text in /start
+          INTERVAL_MIN: 60
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           MYMEMORY_EMAIL: ${{ secrets.MYMEMORY_EMAIL }}
 

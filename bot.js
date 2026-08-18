@@ -91,6 +91,7 @@ async function push(chatId) {
   const { card, next } = nextCard(subscriber.index);
   subscriber.index = next;
   subscriber.learned = (subscriber.learned ?? 0) + 1;
+  subscriber.lastPush = Date.now();
   save();
 
   const entry = await lookup(card.word);
@@ -146,9 +147,17 @@ bot.command("status", (ctx) => {
 
 bot.catch((error) => console.error("Bot error:", error));
 
-async function tick({ skipAlreadyPushed = false } = {}) {
-  for (const chatId of Object.keys(state.subscribers)) {
+// Scheduled runs are more frequent than the word interval, so commands get answered
+// quickly without burying the learner in words.
+export function isDue(subscriber, now = Date.now()) {
+  // A minute of slack, else a run landing just before the hour delays the word a full cycle.
+  return now - (subscriber.lastPush ?? 0) >= INTERVAL_MS - 60_000;
+}
+
+async function tick({ skipAlreadyPushed = false, onlyIfDue = false } = {}) {
+  for (const [chatId, subscriber] of Object.entries(state.subscribers)) {
     if (skipAlreadyPushed && pushedThisRun.has(chatId)) continue;
+    if (onlyIfDue && !isDue(subscriber)) continue;
     await push(chatId).catch((error) => console.error(`push ${chatId}:`, error));
   }
 }
@@ -164,7 +173,7 @@ async function runOnce() {
     state.offset = update.update_id + 1;
   }
   save();
-  await tick({ skipAlreadyPushed: true });
+  await tick({ skipAlreadyPushed: true, onlyIfDue: true });
 }
 
 if (import.meta.main) {

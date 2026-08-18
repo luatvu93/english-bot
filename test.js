@@ -2,7 +2,8 @@
 import assert from "node:assert/strict";
 
 process.env.TELEGRAM_TOKEN ??= "test-token"; // grammy refuses an empty token
-const { DECK, nextCard, levelStart } = await import("./bot.js");
+process.env.INTERVAL_MIN ??= "60";
+const { DECK, nextCard, levelStart, isDue } = await import("./bot.js");
 
 // A word must never appear twice, or the learner sees the same card again mid-cycle.
 const seen = new Set();
@@ -38,5 +39,12 @@ assert.equal(new Set(walked).size, DECK.length);
 
 // A stored index past the end still resolves instead of crashing.
 assert.equal(nextCard(DECK.length).card.word, DECK[0].word);
+
+// A word is due only once the interval has passed, so five-minute runs answer commands
+// without pushing five words an hour.
+const now = Date.parse("2026-01-01T12:00:00Z");
+assert.ok(isDue({}, now), "a subscriber that never got a word is due");
+assert.ok(!isDue({ lastPush: now - 10 * 60_000 }, now), "10 minutes in is not due");
+assert.ok(isDue({ lastPush: now - 60 * 60_000 }, now), "an hour later is due");
 
 console.log(`ok - ${DECK.length} words`);
