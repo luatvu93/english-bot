@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 14,
-      "learned": 14,
-      "lastPush": 1787140397410
+      "index": 15,
+      "learned": 15,
+      "lastPush": 1787148283020
     }
   },
   "cache": {
@@ -118,6 +118,14 @@
       "pos": "noun",
       "en": "Any period of seven consecutive days.",
       "vi": "thứ hai"
+    },
+    "month": {
+      "word": "month",
+      "ipa": "/mʌnθ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/month-uk.mp3",
+      "pos": "noun",
+      "en": "A period into which a year is divided, historically based on the phases of the moon.",
+      "vi": "tháng"
     }
   },
   "offset": 425651725
