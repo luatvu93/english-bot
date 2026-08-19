@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 16,
-      "learned": 16,
-      "lastPush": 1787152621262
+      "index": 17,
+      "learned": 17,
+      "lastPush": 1787158342319
     }
   },
   "cache": {
@@ -134,6 +134,14 @@
       "pos": "noun",
       "en": "A solar year, the time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).",
       "vi": "năm"
+    },
+    "city": {
+      "word": "city",
+      "ipa": "/sɪtɪ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/city-au.mp3",
+      "pos": "noun",
+      "en": "A large settlement, bigger than a town; sometimes with a specific legal definition, depending on the place.",
+      "vi": "thành phố,quận,huyện"
     }
   },
   "offset": 425651725
