@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 10,
-      "learned": 10,
-      "lastPush": 1787119303856
+      "index": 11,
+      "learned": 11,
+      "lastPush": 1787126326570
     }
   },
   "cache": {
@@ -86,6 +86,14 @@
       "pos": "noun",
       "en": "The part of the day from dawn to noon.",
       "vi": "buổi sáng"
+    },
+    "night": {
+      "word": "night",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "đêm"
     }
   },
   "offset": 425651725
