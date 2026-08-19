@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 11,
-      "learned": 11,
-      "lastPush": 1787126326570
+      "index": 12,
+      "learned": 12,
+      "lastPush": 1787131684112
     }
   },
   "cache": {
@@ -94,6 +94,14 @@
       "pos": "",
       "en": "",
       "vi": "đêm"
+    },
+    "today": {
+      "word": "today",
+      "ipa": "/təˈdeɪ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/today-uk.mp3",
+      "pos": "noun",
+      "en": "A current day or date.",
+      "vi": "hôm nay"
     }
   },
   "offset": 425651725
