@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 18,
-      "learned": 18,
-      "lastPush": 1787161983039
+      "index": 19,
+      "learned": 19,
+      "lastPush": 1787183199944
     }
   },
   "cache": {
@@ -150,6 +150,14 @@
       "pos": "noun",
       "en": "(chiefly British) An area of land; a district, region.",
       "vi": "Nhập quốc gia"
+    },
+    "work": {
+      "word": "work",
+      "ipa": "/wɜːk/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/work-uk.mp3",
+      "pos": "noun",
+      "en": "(heading) Employment.",
+      "vi": "Hoạt động"
     }
   },
   "offset": 425651725
