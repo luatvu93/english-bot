@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 13,
-      "learned": 13,
-      "lastPush": 1787136652091
+      "index": 14,
+      "learned": 14,
+      "lastPush": 1787140397410
     }
   },
   "cache": {
@@ -110,6 +110,14 @@
       "pos": "noun",
       "en": "The day after the present day.",
       "vi": "ngày mai"
+    },
+    "week": {
+      "word": "week",
+      "ipa": "/wiːk/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/week-uk.mp3",
+      "pos": "noun",
+      "en": "Any period of seven consecutive days.",
+      "vi": "thứ hai"
     }
   },
   "offset": 425651725
