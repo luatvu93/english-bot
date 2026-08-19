@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 12,
-      "learned": 12,
-      "lastPush": 1787131684112
+      "index": 13,
+      "learned": 13,
+      "lastPush": 1787136652091
     }
   },
   "cache": {
@@ -102,6 +102,14 @@
       "pos": "noun",
       "en": "A current day or date.",
       "vi": "hôm nay"
+    },
+    "tomorrow": {
+      "word": "tomorrow",
+      "ipa": "/təˈmɔɹoʊ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tomorrow-uk.mp3",
+      "pos": "noun",
+      "en": "The day after the present day.",
+      "vi": "ngày mai"
     }
   },
   "offset": 425651725
