@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 9,
-      "learned": 9,
-      "lastPush": 1787115750856
+      "index": 10,
+      "learned": 10,
+      "lastPush": 1787119303856
     }
   },
   "cache": {
@@ -78,6 +78,14 @@
       "pos": "noun",
       "en": "A person who studies or learns about a particular subject.",
       "vi": "sinh viên"
+    },
+    "morning": {
+      "word": "morning",
+      "ipa": "/ˈmɔːnɪŋ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/morning-uk.mp3",
+      "pos": "noun",
+      "en": "The part of the day from dawn to noon.",
+      "vi": "buổi sáng"
     }
   },
   "offset": 425651725
