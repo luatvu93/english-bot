@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 15,
-      "learned": 15,
-      "lastPush": 1787148283020
+      "index": 16,
+      "learned": 16,
+      "lastPush": 1787152621262
     }
   },
   "cache": {
@@ -126,6 +126,14 @@
       "pos": "noun",
       "en": "A period into which a year is divided, historically based on the phases of the moon.",
       "vi": "tháng"
+    },
+    "year": {
+      "word": "year",
+      "ipa": "/jɪə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/year-1-uk.mp3",
+      "pos": "noun",
+      "en": "A solar year, the time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).",
+      "vi": "năm"
     }
   },
   "offset": 425651725
