@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 8,
-      "learned": 8,
-      "lastPush": 1787109049701
+      "index": 9,
+      "learned": 9,
+      "lastPush": 1787115750856
     }
   },
   "cache": {
@@ -70,6 +70,14 @@
       "pos": "noun",
       "en": "A person who teaches, especially one employed in a school.",
       "vi": "giáo viên"
+    },
+    "student": {
+      "word": "student",
+      "ipa": "/ˈstjuː.dənt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/student-uk.mp3",
+      "pos": "noun",
+      "en": "A person who studies or learns about a particular subject.",
+      "vi": "sinh viên"
     }
   },
   "offset": 425651725
