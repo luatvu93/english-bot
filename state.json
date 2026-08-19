@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 7,
-      "learned": 7,
-      "lastPush": 1787093624498
+      "index": 8,
+      "learned": 8,
+      "lastPush": 1787109049701
     }
   },
   "cache": {
@@ -62,6 +62,14 @@
       "pos": "noun",
       "en": "A group of people who are closely related to one another (by blood, marriage or adoption); kin; for example, a set of parents and their children; an immediate family.",
       "vi": "family"
+    },
+    "teacher": {
+      "word": "teacher",
+      "ipa": "/ˈtiːt͡ʃə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/teacher-uk.mp3",
+      "pos": "noun",
+      "en": "A person who teaches, especially one employed in a school.",
+      "vi": "giáo viên"
     }
   },
   "offset": 425651725
