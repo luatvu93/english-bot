@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 26,
-      "learned": 26,
-      "lastPush": 1787241188935
+      "index": 27,
+      "learned": 27,
+      "lastPush": 1787245550982
     }
   },
   "cache": {
@@ -214,6 +214,14 @@
       "pos": "noun",
       "en": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation.",
       "vi": "xe"
+    },
+    "bus": {
+      "word": "bus",
+      "ipa": "/bɐs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bus-uk.mp3",
+      "pos": "noun",
+      "en": "A motor vehicle for transporting large numbers of people along roads.",
+      "vi": "xe buýt"
     }
   },
   "offset": 425651725
