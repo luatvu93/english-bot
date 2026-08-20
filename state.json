@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 25,
-      "learned": 25,
-      "lastPush": 1787235013463
+      "index": 26,
+      "learned": 26,
+      "lastPush": 1787241188935
     }
   },
   "cache": {
@@ -206,6 +206,14 @@
       "pos": "noun",
       "en": "The inedible parts of a grain-producing plant.",
       "vi": "cửa số"
+    },
+    "car": {
+      "word": "car",
+      "ipa": "/kɑː/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/car-uk.mp3",
+      "pos": "noun",
+      "en": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation.",
+      "vi": "xe"
     }
   },
   "offset": 425651725
