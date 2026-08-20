@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 19,
-      "learned": 19,
-      "lastPush": 1787183199944
+      "index": 20,
+      "learned": 20,
+      "lastPush": 1787195407570
     }
   },
   "cache": {
@@ -158,6 +158,14 @@
       "pos": "noun",
       "en": "(heading) Employment.",
       "vi": "Hoạt động"
+    },
+    "money": {
+      "word": "money",
+      "ipa": "/ˈmʌni/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/money-uk.mp3",
+      "pos": "noun",
+      "en": "A legally or socially binding conceptual contract of entitlement to wealth, void of intrinsic value, payable for all debts and taxes, and regulated in supply.",
+      "vi": "tiền"
     }
   },
   "offset": 425651725
