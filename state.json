@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 27,
-      "learned": 27,
-      "lastPush": 1787245550982
+      "index": 28,
+      "learned": 28,
+      "lastPush": 1787269965478
     }
   },
   "cache": {
@@ -222,6 +222,14 @@
       "pos": "noun",
       "en": "A motor vehicle for transporting large numbers of people along roads.",
       "vi": "xe buýt"
+    },
+    "train": {
+      "word": "train",
+      "ipa": "/tɹeɪn/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/train-1-au.mp3",
+      "pos": "noun",
+      "en": "Elongated portion.",
+      "vi": "xe lửa; rèn luyện, đào tạo"
     }
   },
   "offset": 425651725
