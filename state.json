@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 24,
-      "learned": 24,
-      "lastPush": 1787223721328
+      "index": 25,
+      "learned": 25,
+      "lastPush": 1787235013463
     }
   },
   "cache": {
@@ -198,6 +198,14 @@
       "pos": "noun",
       "en": "A portal of entry into a building, room, or vehicle, consisting of a rigid plane movable on a hinge. Doors are frequently made of wood or metal. May have a handle to help open and close, a latch to hold the door closed and a lock that ensures the door cannot be opened without the key.",
       "vi": "cửa "
+    },
+    "window": {
+      "word": "window",
+      "ipa": "/ˈwɪndəʊ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/window-uk.mp3",
+      "pos": "noun",
+      "en": "The inedible parts of a grain-producing plant.",
+      "vi": "cửa số"
     }
   },
   "offset": 425651725
