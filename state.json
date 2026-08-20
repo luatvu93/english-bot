@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 23,
-      "learned": 23,
-      "lastPush": 1787219682793
+      "index": 24,
+      "learned": 24,
+      "lastPush": 1787223721328
     }
   },
   "cache": {
@@ -190,6 +190,14 @@
       "pos": "noun",
       "en": "An item of furniture used to sit on or in, comprising a seat, legs, back, and sometimes arm rests, for use by one person. Compare stool, couch, sofa, settee, loveseat and bench.",
       "vi": "ghế"
+    },
+    "door": {
+      "word": "door",
+      "ipa": "/dɔː/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/door-uk.mp3",
+      "pos": "noun",
+      "en": "A portal of entry into a building, room, or vehicle, consisting of a rigid plane movable on a hinge. Doors are frequently made of wood or metal. May have a handle to help open and close, a latch to hold the door closed and a lock that ensures the door cannot be opened without the key.",
+      "vi": "cửa "
     }
   },
   "offset": 425651725
