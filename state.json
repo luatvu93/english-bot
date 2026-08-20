@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 22,
-      "learned": 22,
-      "lastPush": 1787213179018
+      "index": 23,
+      "learned": 23,
+      "lastPush": 1787219682793
     }
   },
   "cache": {
@@ -182,6 +182,14 @@
       "pos": "noun",
       "en": "Furniture with a top surface to accommodate a variety of uses.",
       "vi": "bảng"
+    },
+    "chair": {
+      "word": "chair",
+      "ipa": "/t͡ʃɛə(ɹ)/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chair-uk.mp3",
+      "pos": "noun",
+      "en": "An item of furniture used to sit on or in, comprising a seat, legs, back, and sometimes arm rests, for use by one person. Compare stool, couch, sofa, settee, loveseat and bench.",
+      "vi": "ghế"
     }
   },
   "offset": 425651725
