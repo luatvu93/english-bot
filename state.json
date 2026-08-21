@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 31,
-      "learned": 31,
-      "lastPush": 1787297478199
+      "index": 32,
+      "learned": 32,
+      "lastPush": 1787304026773
     }
   },
   "cache": {
@@ -254,6 +254,14 @@
       "pos": "",
       "en": "",
       "vi": "chợ, thị trường"
+    },
+    "hospital": {
+      "word": "hospital",
+      "ipa": "/ˈhɒs.pɪ.tl̩/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hospital-uk.mp3",
+      "pos": "noun",
+      "en": "A large medical facility, usually in a building with multiple floors, where seriously ill or injured patients are given extensive medical and/or surgical treatment.",
+      "vi": "bệnh viện"
     }
   },
   "offset": 425651725
