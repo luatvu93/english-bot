@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 33,
-      "learned": 33,
-      "lastPush": 1787309795709
+      "index": 34,
+      "learned": 34,
+      "lastPush": 1787313411965
     }
   },
   "cache": {
@@ -270,6 +270,14 @@
       "pos": "noun",
       "en": "A physician; a member of the medical profession; one who is trained and licensed to heal the sick or injured. The final examination and qualification may award a doctor degree in which case the post-nominal letters are D.O., DPM, M.D., DMD, DDS, in the US or MBBS in the UK.",
       "vi": "bác sĩ y khoa, tiến sĩ"
+    },
+    "name": {
+      "word": "name",
+      "ipa": "/neɪm/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/name-1-au.mp3",
+      "pos": "noun",
+      "en": "Any nounal word or phrase which indicates a particular person, place, class, or thing.",
+      "vi": "name"
     }
   },
   "offset": 425651725
