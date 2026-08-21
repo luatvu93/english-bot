@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 29,
-      "learned": 29,
-      "lastPush": 1787283032388
+      "index": 30,
+      "learned": 30,
+      "lastPush": 1787288923956
     }
   },
   "cache": {
@@ -238,6 +238,14 @@
       "pos": "noun",
       "en": "A paved part of road, usually in a village or a town.",
       "vi": "đường phố"
+    },
+    "shop": {
+      "word": "shop",
+      "ipa": "/ʃɒp/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/shop-us.mp3",
+      "pos": "noun",
+      "en": "An establishment that sells goods or services to the public; originally only a physical location, but now a virtual establishment as well.",
+      "vi": "du-an"
     }
   },
   "offset": 425651725
