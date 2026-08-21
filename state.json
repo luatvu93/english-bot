@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 30,
-      "learned": 30,
-      "lastPush": 1787288923956
+      "index": 31,
+      "learned": 31,
+      "lastPush": 1787297478199
     }
   },
   "cache": {
@@ -246,6 +246,14 @@
       "pos": "noun",
       "en": "An establishment that sells goods or services to the public; originally only a physical location, but now a virtual establishment as well.",
       "vi": "du-an"
+    },
+    "market": {
+      "word": "market",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "chợ, thị trường"
     }
   },
   "offset": 425651725
