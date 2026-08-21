@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 35,
-      "learned": 35,
-      "lastPush": 1787321157948
+      "index": 36,
+      "learned": 36,
+      "lastPush": 1787327574878
     }
   },
   "cache": {
@@ -286,6 +286,14 @@
       "pos": "noun",
       "en": "The inevitable progression into the future with the passing of present and past events.",
       "vi": "thời gian"
+    },
+    "day": {
+      "word": "day",
+      "ipa": "/deɪ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/day-us.mp3",
+      "pos": "noun",
+      "en": "Any period of 24 hours.",
+      "vi": "ngày"
     }
   },
   "offset": 425651725
