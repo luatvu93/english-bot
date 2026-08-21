@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 36,
-      "learned": 36,
-      "lastPush": 1787327574878
+      "index": 37,
+      "learned": 37,
+      "lastPush": 1787331935073
     }
   },
   "cache": {
@@ -294,6 +294,14 @@
       "pos": "noun",
       "en": "Any period of 24 hours.",
       "vi": "ngày"
+    },
+    "room": {
+      "word": "room",
+      "ipa": "/ɹuːm/",
+      "audio": "",
+      "pos": "noun",
+      "en": "Opportunity or scope (to do something).",
+      "vi": "phòng"
     }
   },
   "offset": 425651725
