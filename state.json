@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 28,
-      "learned": 28,
-      "lastPush": 1787269965478
+      "index": 29,
+      "learned": 29,
+      "lastPush": 1787283032388
     }
   },
   "cache": {
@@ -230,6 +230,14 @@
       "pos": "noun",
       "en": "Elongated portion.",
       "vi": "xe lửa; rèn luyện, đào tạo"
+    },
+    "street": {
+      "word": "street",
+      "ipa": "/stɹiːt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/street-uk.mp3",
+      "pos": "noun",
+      "en": "A paved part of road, usually in a village or a town.",
+      "vi": "đường phố"
     }
   },
   "offset": 425651725
