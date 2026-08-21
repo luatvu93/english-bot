@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 34,
-      "learned": 34,
-      "lastPush": 1787313411965
+      "index": 35,
+      "learned": 35,
+      "lastPush": 1787321157948
     }
   },
   "cache": {
@@ -278,6 +278,14 @@
       "pos": "noun",
       "en": "Any nounal word or phrase which indicates a particular person, place, class, or thing.",
       "vi": "name"
+    },
+    "time": {
+      "word": "time",
+      "ipa": "/tɑem/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/time-au.mp3",
+      "pos": "noun",
+      "en": "The inevitable progression into the future with the passing of present and past events.",
+      "vi": "thời gian"
     }
   },
   "offset": 425651725
