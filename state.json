@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 37,
-      "learned": 37,
-      "lastPush": 1787331935073
+      "index": 38,
+      "learned": 38,
+      "lastPush": 1787356239742
     }
   },
   "cache": {
@@ -302,6 +302,14 @@
       "pos": "noun",
       "en": "Opportunity or scope (to do something).",
       "vi": "phòng"
+    },
+    "kitchen": {
+      "word": "kitchen",
+      "ipa": "/ˈkɪt͡ʃən/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kitchen-uk.mp3",
+      "pos": "noun",
+      "en": "A room or area for preparing food.",
+      "vi": "bếp"
     }
   },
   "offset": 425651725
