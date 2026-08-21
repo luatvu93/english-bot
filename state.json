@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 32,
-      "learned": 32,
-      "lastPush": 1787304026773
+      "index": 33,
+      "learned": 33,
+      "lastPush": 1787309795709
     }
   },
   "cache": {
@@ -262,6 +262,14 @@
       "pos": "noun",
       "en": "A large medical facility, usually in a building with multiple floors, where seriously ill or injured patients are given extensive medical and/or surgical treatment.",
       "vi": "bệnh viện"
+    },
+    "doctor": {
+      "word": "doctor",
+      "ipa": "/ˈdɒktə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/doctor-uk.mp3",
+      "pos": "noun",
+      "en": "A physician; a member of the medical profession; one who is trained and licensed to heal the sick or injured. The final examination and qualification may award a doctor degree in which case the post-nominal letters are D.O., DPM, M.D., DMD, DDS, in the US or MBBS in the UK.",
+      "vi": "bác sĩ y khoa, tiến sĩ"
     }
   },
   "offset": 425651725
