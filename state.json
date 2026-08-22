@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 38,
-      "learned": 38,
-      "lastPush": 1787356239742
+      "index": 39,
+      "learned": 39,
+      "lastPush": 1787367989987
     }
   },
   "cache": {
@@ -310,6 +310,14 @@
       "pos": "noun",
       "en": "A room or area for preparing food.",
       "vi": "bếp"
+    },
+    "garden": {
+      "word": "garden",
+      "ipa": "/ˈɡɑːdn̩/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/garden-au.mp3",
+      "pos": "noun",
+      "en": "An outdoor area containing one or more types of plants, usually plants grown for food or ornamental purposes.",
+      "vi": "vườn"
     }
   },
   "offset": 425651725
