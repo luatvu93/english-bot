@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 41,
-      "learned": 41,
-      "lastPush": 1787378253041
+      "index": 42,
+      "learned": 42,
+      "lastPush": 1787384761455
     }
   },
   "cache": {
@@ -334,6 +334,14 @@
       "pos": "noun",
       "en": "A colorful, conspicuous structure associated with angiosperms, frequently scented and attracting various insects, and which may or may not be used for sexual reproduction.",
       "vi": "hoa"
+    },
+    "animal": {
+      "word": "animal",
+      "ipa": "/ˈænɪməl/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/animal-us.mp3",
+      "pos": "noun",
+      "en": "In scientific usage, a multicellular organism that is usually mobile, whose cells are not encased in a rigid cell wall (distinguishing it from plants and fungi) and which derives energy solely from the consumption of other organisms (distinguishing it from plants).",
+      "vi": "động vật, thủ vật"
     }
   },
   "offset": 425651725
