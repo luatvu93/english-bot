@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 47,
-      "learned": 47,
-      "lastPush": 1787413235811
+      "index": 48,
+      "learned": 48,
+      "lastPush": 1787417746941
     }
   },
   "cache": {
@@ -382,6 +382,14 @@
       "pos": "noun",
       "en": "A white liquid produced by the mammary glands of female mammals to nourish their young. From certain animals, especially cows, it is also called dairy milk and is a common food for humans as a beverage or used to produce various dairy products such as butter, cheese, and yogurt.",
       "vi": "sữa"
+    },
+    "bread": {
+      "word": "bread",
+      "ipa": "/bɹeːd/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bread-uk.mp3",
+      "pos": "noun",
+      "en": "A foodstuff made by baking dough made from cereals.",
+      "vi": "bánh mỳ"
     }
   },
   "offset": 425651725
