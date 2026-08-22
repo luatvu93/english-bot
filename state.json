@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 40,
-      "learned": 40,
-      "lastPush": 1787374626713
+      "index": 41,
+      "learned": 41,
+      "lastPush": 1787378253041
     }
   },
   "cache": {
@@ -326,6 +326,14 @@
       "pos": "",
       "en": "",
       "vi": "cây"
+    },
+    "flower": {
+      "word": "flower",
+      "ipa": "/ˈflaʊ.ə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/flower-1-au.mp3",
+      "pos": "noun",
+      "en": "A colorful, conspicuous structure associated with angiosperms, frequently scented and attracting various insects, and which may or may not be used for sexual reproduction.",
+      "vi": "hoa"
     }
   },
   "offset": 425651725
