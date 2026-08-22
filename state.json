@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 42,
-      "learned": 42,
-      "lastPush": 1787384761455
+      "index": 43,
+      "learned": 43,
+      "lastPush": 1787389210089
     }
   },
   "cache": {
@@ -342,6 +342,14 @@
       "pos": "noun",
       "en": "In scientific usage, a multicellular organism that is usually mobile, whose cells are not encased in a rigid cell wall (distinguishing it from plants and fungi) and which derives energy solely from the consumption of other organisms (distinguishing it from plants).",
       "vi": "động vật, thủ vật"
+    },
+    "dog": {
+      "word": "dog",
+      "ipa": "/dɑɡ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dog-uk.mp3",
+      "pos": "noun",
+      "en": "A mammal, Canis familiaris or Canis lupus familiaris, that has been domesticated for thousands of years, of highly variable appearance due to human breeding.",
+      "vi": "con chó"
     }
   },
   "offset": 425651725
