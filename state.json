@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 43,
-      "learned": 43,
-      "lastPush": 1787389210089
+      "index": 44,
+      "learned": 44,
+      "lastPush": 1787395923892
     }
   },
   "cache": {
@@ -350,6 +350,14 @@
       "pos": "noun",
       "en": "A mammal, Canis familiaris or Canis lupus familiaris, that has been domesticated for thousands of years, of highly variable appearance due to human breeding.",
       "vi": "con chó"
+    },
+    "cat": {
+      "word": "cat",
+      "ipa": "/kat/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cat-uk.mp3",
+      "pos": "noun",
+      "en": "An animal of the family Felidae:",
+      "vi": "con mèo"
     }
   },
   "offset": 425651725
