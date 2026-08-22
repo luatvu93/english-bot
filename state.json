@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 48,
-      "learned": 48,
-      "lastPush": 1787417746941
+      "index": 49,
+      "learned": 49,
+      "lastPush": 1787442072400
     }
   },
   "cache": {
@@ -390,6 +390,14 @@
       "pos": "noun",
       "en": "A foodstuff made by baking dough made from cereals.",
       "vi": "bánh mỳ"
+    },
+    "rice": {
+      "word": "rice",
+      "ipa": "/ɹaɪs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/rice-uk.mp3",
+      "pos": "noun",
+      "en": "Cereal plants, Oryza sativa of the grass family whose seeds are used as food.",
+      "vi": "gạo"
     }
   },
   "offset": 425651725
