@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 44,
-      "learned": 44,
-      "lastPush": 1787395923892
+      "index": 45,
+      "learned": 45,
+      "lastPush": 1787400093469
     }
   },
   "cache": {
@@ -358,6 +358,14 @@
       "pos": "noun",
       "en": "An animal of the family Felidae:",
       "vi": "con mèo"
+    },
+    "bird": {
+      "word": "bird",
+      "ipa": "/bɜd/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bird-us.mp3",
+      "pos": "noun",
+      "en": "A member of the class of animals Aves in the phylum Chordata, characterized by being warm-blooded, having feathers and wings usually capable of flight, and laying eggs.",
+      "vi": "chim"
     }
   },
   "offset": 425651725
