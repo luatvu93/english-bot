@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 46,
-      "learned": 46,
-      "lastPush": 1787406278300
+      "index": 47,
+      "learned": 47,
+      "lastPush": 1787413235811
     }
   },
   "cache": {
@@ -374,6 +374,14 @@
       "pos": "noun",
       "en": "A cold-blooded vertebrate animal that lives in water, moving with the help of fins and breathing with gills.",
       "vi": "cá"
+    },
+    "milk": {
+      "word": "milk",
+      "ipa": "[mɛlk]",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/milk-uk.mp3",
+      "pos": "noun",
+      "en": "A white liquid produced by the mammary glands of female mammals to nourish their young. From certain animals, especially cows, it is also called dairy milk and is a common food for humans as a beverage or used to produce various dairy products such as butter, cheese, and yogurt.",
+      "vi": "sữa"
     }
   },
   "offset": 425651725
