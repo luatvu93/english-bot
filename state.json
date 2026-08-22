@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 39,
-      "learned": 39,
-      "lastPush": 1787367989987
+      "index": 40,
+      "learned": 40,
+      "lastPush": 1787374626713
     }
   },
   "cache": {
@@ -318,6 +318,14 @@
       "pos": "noun",
       "en": "An outdoor area containing one or more types of plants, usually plants grown for food or ornamental purposes.",
       "vi": "vườn"
+    },
+    "tree": {
+      "word": "tree",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "cây"
     }
   },
   "offset": 425651725
