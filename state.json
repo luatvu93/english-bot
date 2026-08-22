@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 45,
-      "learned": 45,
-      "lastPush": 1787400093469
+      "index": 46,
+      "learned": 46,
+      "lastPush": 1787406278300
     }
   },
   "cache": {
@@ -366,6 +366,14 @@
       "pos": "noun",
       "en": "A member of the class of animals Aves in the phylum Chordata, characterized by being warm-blooded, having feathers and wings usually capable of flight, and laying eggs.",
       "vi": "chim"
+    },
+    "fish": {
+      "word": "fish",
+      "ipa": "/fɪʃ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fish-au.mp3",
+      "pos": "noun",
+      "en": "A cold-blooded vertebrate animal that lives in water, moving with the help of fins and breathing with gills.",
+      "vi": "cá"
     }
   },
   "offset": 425651725
