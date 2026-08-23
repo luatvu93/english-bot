@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 56,
-      "learned": 56,
-      "lastPush": 1787492790588
+      "index": 57,
+      "learned": 57,
+      "lastPush": 1787496455312
     }
   },
   "cache": {
@@ -454,6 +454,14 @@
       "pos": "",
       "en": "",
       "vi": "cây trà"
+    },
+    "sugar": {
+      "word": "sugar",
+      "ipa": "/ˈʃʊɡə(ɹ)/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sugar-uk.mp3",
+      "pos": "noun",
+      "en": "Sucrose in the form of small crystals, obtained from sugar cane or sugar beet and used to sweeten food and drink.",
+      "vi": "đường"
     }
   },
   "offset": 425651725
