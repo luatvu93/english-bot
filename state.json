@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 54,
-      "learned": 54,
-      "lastPush": 1787482378644
+      "index": 55,
+      "learned": 55,
+      "lastPush": 1787486533233
     }
   },
   "cache": {
@@ -438,6 +438,14 @@
       "pos": "noun",
       "en": "An elongated curved tropical fruit that grows in bunches and has a creamy flesh and a smooth skin.",
       "vi": "quả chuối"
+    },
+    "coffee": {
+      "word": "coffee",
+      "ipa": "/ˈkɑ.fi/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/coffee-uk.mp3",
+      "pos": "noun",
+      "en": "A beverage made by infusing the beans of the coffee plant in hot water.",
+      "vi": "cà phê"
     }
   },
   "offset": 425651725
