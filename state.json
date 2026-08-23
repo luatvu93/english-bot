@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 53,
-      "learned": 53,
-      "lastPush": 1787475687378
+      "index": 54,
+      "learned": 54,
+      "lastPush": 1787482378644
     }
   },
   "cache": {
@@ -430,6 +430,14 @@
       "pos": "noun",
       "en": "An evergreen tree of the genus Citrus such as Citrus sinensis.",
       "vi": "cam"
+    },
+    "banana": {
+      "word": "banana",
+      "ipa": "/bəˈnɑːnə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/banana-uk.mp3",
+      "pos": "noun",
+      "en": "An elongated curved tropical fruit that grows in bunches and has a creamy flesh and a smooth skin.",
+      "vi": "quả chuối"
     }
   },
   "offset": 425651725
