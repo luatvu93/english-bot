@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 57,
-      "learned": 57,
-      "lastPush": 1787496455312
+      "index": 58,
+      "learned": 58,
+      "lastPush": 1787503998200
     }
   },
   "cache": {
@@ -462,6 +462,14 @@
       "pos": "noun",
       "en": "Sucrose in the form of small crystals, obtained from sugar cane or sugar beet and used to sweeten food and drink.",
       "vi": "đường"
+    },
+    "salt": {
+      "word": "salt",
+      "ipa": "/sɔlt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/salt-uk.mp3",
+      "pos": "noun",
+      "en": "A common substance, chemically consisting mainly of sodium chloride (NaCl), used extensively as a condiment and preservative.",
+      "vi": "muối"
     }
   },
   "offset": 425651725
