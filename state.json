@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 55,
-      "learned": 55,
-      "lastPush": 1787486533233
+      "index": 56,
+      "learned": 56,
+      "lastPush": 1787492790588
     }
   },
   "cache": {
@@ -446,6 +446,14 @@
       "pos": "noun",
       "en": "A beverage made by infusing the beans of the coffee plant in hot water.",
       "vi": "cà phê"
+    },
+    "tea": {
+      "word": "tea",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "cây trà"
     }
   },
   "offset": 425651725
