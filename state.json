@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 51,
-      "learned": 51,
-      "lastPush": 1787461481559
+      "index": 52,
+      "learned": 52,
+      "lastPush": 1787471348287
     }
   },
   "cache": {
@@ -414,6 +414,14 @@
       "pos": "noun",
       "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
       "vi": "trứng"
+    },
+    "apple": {
+      "word": "apple",
+      "ipa": "/ˈæp.əl/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/apple-uk.mp3",
+      "pos": "noun",
+      "en": "A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.",
+      "vi": "táo"
     }
   },
   "offset": 425651725
