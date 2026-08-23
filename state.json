@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 49,
-      "learned": 49,
-      "lastPush": 1787442072400
+      "index": 50,
+      "learned": 50,
+      "lastPush": 1787455876665
     }
   },
   "cache": {
@@ -398,6 +398,14 @@
       "pos": "noun",
       "en": "Cereal plants, Oryza sativa of the grass family whose seeds are used as food.",
       "vi": "gạo"
+    },
+    "meat": {
+      "word": "meat",
+      "ipa": "/miːt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/meat-uk.mp3",
+      "pos": "noun",
+      "en": "The flesh (muscle tissue) of an animal used as food.",
+      "vi": "thịt"
     }
   },
   "offset": 425651725
