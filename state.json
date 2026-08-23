@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 50,
-      "learned": 50,
-      "lastPush": 1787455876665
+      "index": 51,
+      "learned": 51,
+      "lastPush": 1787461481559
     }
   },
   "cache": {
@@ -406,6 +406,14 @@
       "pos": "noun",
       "en": "The flesh (muscle tissue) of an animal used as food.",
       "vi": "thịt"
+    },
+    "egg": {
+      "word": "egg",
+      "ipa": "/eɪɡ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/egg-us.mp3",
+      "pos": "noun",
+      "en": "An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.",
+      "vi": "trứng"
     }
   },
   "offset": 425651725
