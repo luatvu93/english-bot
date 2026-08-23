@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 52,
-      "learned": 52,
-      "lastPush": 1787471348287
+      "index": 53,
+      "learned": 53,
+      "lastPush": 1787475687378
     }
   },
   "cache": {
@@ -422,6 +422,14 @@
       "pos": "noun",
       "en": "A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.",
       "vi": "táo"
+    },
+    "orange": {
+      "word": "orange",
+      "ipa": "/ˈɔɹɪ̈nd͡ʒ/",
+      "audio": "",
+      "pos": "noun",
+      "en": "An evergreen tree of the genus Citrus such as Citrus sinensis.",
+      "vi": "cam"
     }
   },
   "offset": 425651725
