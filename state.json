@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 62,
-      "learned": 62,
-      "lastPush": 1787558903350
+      "index": 63,
+      "learned": 63,
+      "lastPush": 1787566906707
     }
   },
   "cache": {
@@ -502,6 +502,14 @@
       "pos": "noun",
       "en": "Any part of something that is smaller or slimmer than the rest, now usually with anatomical reference to the back.",
       "vi": "nhỏ, bé"
+    },
+    "good": {
+      "word": "good",
+      "ipa": "/ɡʊ(d)/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/good-uk.mp3",
+      "pos": "adjective",
+      "en": "(of people)",
+      "vi": "tốt, hay, tuyệt; điểu tốt, điều thiện"
     }
   },
   "offset": 425651725
