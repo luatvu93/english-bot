@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 61,
-      "learned": 61,
-      "lastPush": 1787549187182
+      "index": 62,
+      "learned": 62,
+      "lastPush": 1787558903350
     }
   },
   "cache": {
@@ -494,6 +494,14 @@
       "pos": "noun",
       "en": "Someone or something that is large in stature",
       "vi": "to, lớn"
+    },
+    "small": {
+      "word": "small",
+      "ipa": "/smoːl/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/small-uk.mp3",
+      "pos": "noun",
+      "en": "Any part of something that is smaller or slimmer than the rest, now usually with anatomical reference to the back.",
+      "vi": "nhỏ, bé"
     }
   },
   "offset": 425651725
