@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 64,
-      "learned": 64,
-      "lastPush": 1787572106516
+      "index": 65,
+      "learned": 65,
+      "lastPush": 1787580721216
     }
   },
   "cache": {
@@ -518,6 +518,14 @@
       "pos": "noun",
       "en": "Error, mistake.",
       "vi": "tệ"
+    },
+    "happy": {
+      "word": "happy",
+      "ipa": "/ˈhæpiː/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/happy-au.mp3",
+      "pos": "noun",
+      "en": "A happy event, thing, person, etc.",
+      "vi": "Vui"
     }
   },
   "offset": 425651725
