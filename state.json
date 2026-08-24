@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 67,
-      "learned": 67,
-      "lastPush": 1787593821731
+      "index": 68,
+      "learned": 68,
+      "lastPush": 1787615153985
     }
   },
   "cache": {
@@ -542,6 +542,14 @@
       "pos": "noun",
       "en": "Things that are new.",
       "vi": "Cấp mới"
+    },
+    "old": {
+      "word": "old",
+      "ipa": "/ˈɒʊld/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/old-uk.mp3",
+      "pos": "noun",
+      "en": "(with the, invariable plural only) People who are old; old beings; the older generation, taken as a group.",
+      "vi": "già"
     }
   },
   "offset": 425651725
