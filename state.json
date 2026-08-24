@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 60,
-      "learned": 60,
-      "lastPush": 1787542447360
+      "index": 61,
+      "learned": 61,
+      "lastPush": 1787549187182
     }
   },
   "cache": {
@@ -486,6 +486,14 @@
       "pos": "adjective",
       "en": "(of a thing) Having a low temperature.",
       "vi": "lạnh lẽo, lạnh nhạt"
+    },
+    "big": {
+      "word": "big",
+      "ipa": "/bɪɡ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/big-uk.mp3",
+      "pos": "noun",
+      "en": "Someone or something that is large in stature",
+      "vi": "to, lớn"
     }
   },
   "offset": 425651725
