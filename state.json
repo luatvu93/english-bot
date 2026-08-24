@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 66,
-      "learned": 66,
-      "lastPush": 1787587570529
+      "index": 67,
+      "learned": 67,
+      "lastPush": 1787593821731
     }
   },
   "cache": {
@@ -534,6 +534,14 @@
       "pos": "verb",
       "en": "To make melancholy; to sadden or grieve (someone).",
       "vi": "buồn"
+    },
+    "new": {
+      "word": "new",
+      "ipa": "/njʉː/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/new-au.mp3",
+      "pos": "noun",
+      "en": "Things that are new.",
+      "vi": "Cấp mới"
     }
   },
   "offset": 425651725
