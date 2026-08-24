@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 65,
-      "learned": 65,
-      "lastPush": 1787580721216
+      "index": 66,
+      "learned": 66,
+      "lastPush": 1787587570529
     }
   },
   "cache": {
@@ -526,6 +526,14 @@
       "pos": "noun",
       "en": "A happy event, thing, person, etc.",
       "vi": "Vui"
+    },
+    "sad": {
+      "word": "sad",
+      "ipa": "/sæd/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sad-1-us.mp3",
+      "pos": "verb",
+      "en": "To make melancholy; to sadden or grieve (someone).",
+      "vi": "buồn"
     }
   },
   "offset": 425651725
