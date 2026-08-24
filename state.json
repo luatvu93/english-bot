@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 63,
-      "learned": 63,
-      "lastPush": 1787566906707
+      "index": 64,
+      "learned": 64,
+      "lastPush": 1787572106516
     }
   },
   "cache": {
@@ -510,6 +510,14 @@
       "pos": "adjective",
       "en": "(of people)",
       "vi": "tốt, hay, tuyệt; điểu tốt, điều thiện"
+    },
+    "bad": {
+      "word": "bad",
+      "ipa": "/bæːd/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bad-uk.mp3",
+      "pos": "noun",
+      "en": "Error, mistake.",
+      "vi": "tệ"
     }
   },
   "offset": 425651725
