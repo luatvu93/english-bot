@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 59,
-      "learned": 59,
-      "lastPush": 1787528476786
+      "index": 60,
+      "learned": 60,
+      "lastPush": 1787542447360
     }
   },
   "cache": {
@@ -478,6 +478,14 @@
       "pos": "verb",
       "en": "(with up) To heat; to make or become hot.",
       "vi": "nóng"
+    },
+    "cold": {
+      "word": "cold",
+      "ipa": "/kɔʊld/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/cold-uk.mp3",
+      "pos": "adjective",
+      "en": "(of a thing) Having a low temperature.",
+      "vi": "lạnh lẽo, lạnh nhạt"
     }
   },
   "offset": 425651725
