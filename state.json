@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 71,
-      "learned": 71,
-      "lastPush": 1787646134317
+      "index": 72,
+      "learned": 72,
+      "lastPush": 1787652190676
     }
   },
   "cache": {
@@ -574,6 +574,14 @@
       "pos": "noun",
       "en": "A short circuit.",
       "vi": "ngắn, cụt"
+    },
+    "fast": {
+      "word": "fast",
+      "ipa": "/fɑːst/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fast-uk.mp3",
+      "pos": "noun",
+      "en": "A train that calls at only some stations it passes between its origin and destination, typically just the principal stations",
+      "vi": "nhanh"
     }
   },
   "offset": 425651725
