@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 76,
-      "learned": 76,
-      "lastPush": 1787680192845
+      "index": 77,
+      "learned": 77,
+      "lastPush": 1787701820562
     }
   },
   "cache": {
@@ -614,6 +614,14 @@
       "pos": "adjective",
       "en": "Not closed",
       "vi": "mở, ngỏ; bắt đầu, khai mạc"
+    },
+    "close": {
+      "word": "close",
+      "ipa": "/kləʊz/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/close-1-us.mp3",
+      "pos": "noun",
+      "en": "An end or conclusion.",
+      "vi": "đóng"
     }
   },
   "offset": 425651725
