@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 74,
-      "learned": 74,
-      "lastPush": 1787668147170
+      "index": 75,
+      "learned": 75,
+      "lastPush": 1787674749959
     }
   },
   "cache": {
@@ -598,6 +598,14 @@
       "pos": "noun",
       "en": "Something that is easy",
       "vi": "dễ"
+    },
+    "hard": {
+      "word": "hard",
+      "ipa": "/hɑːd/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hard-us.mp3",
+      "pos": "noun",
+      "en": "A firm or paved beach or slope convenient for hauling vessels out of the water.",
+      "vi": "cứng, rắn, hà khắc; hết sức cố gắng, tích cực"
     }
   },
   "offset": 425651725
