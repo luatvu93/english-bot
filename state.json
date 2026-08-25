@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 72,
-      "learned": 72,
-      "lastPush": 1787652190676
+      "index": 73,
+      "learned": 73,
+      "lastPush": 1787655909637
     }
   },
   "cache": {
@@ -582,6 +582,14 @@
       "pos": "noun",
       "en": "A train that calls at only some stations it passes between its origin and destination, typically just the principal stations",
       "vi": "nhanh"
+    },
+    "slow": {
+      "word": "slow",
+      "ipa": "/sləʊ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/slow-uk.mp3",
+      "pos": "noun",
+      "en": "Someone who is slow; a sluggard.",
+      "vi": "chậm"
     }
   },
   "offset": 425651725
