@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 70,
-      "learned": 70,
-      "lastPush": 1787634468250
+      "index": 71,
+      "learned": 71,
+      "lastPush": 1787646134317
     }
   },
   "cache": {
@@ -566,6 +566,14 @@
       "pos": "noun",
       "en": "(possibly nonstandard) Someone or something that is tall.",
       "vi": "cao"
+    },
+    "short": {
+      "word": "short",
+      "ipa": "/ʃoːt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/short-au.mp3",
+      "pos": "noun",
+      "en": "A short circuit.",
+      "vi": "ngắn, cụt"
     }
   },
   "offset": 425651725
