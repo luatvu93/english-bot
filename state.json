@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 75,
-      "learned": 75,
-      "lastPush": 1787674749959
+      "index": 76,
+      "learned": 76,
+      "lastPush": 1787680192845
     }
   },
   "cache": {
@@ -606,6 +606,14 @@
       "pos": "noun",
       "en": "A firm or paved beach or slope convenient for hauling vessels out of the water.",
       "vi": "cứng, rắn, hà khắc; hết sức cố gắng, tích cực"
+    },
+    "open": {
+      "word": "open",
+      "ipa": "/ˈəʊ.pən/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/open-au.mp3",
+      "pos": "adjective",
+      "en": "Not closed",
+      "vi": "mở, ngỏ; bắt đầu, khai mạc"
     }
   },
   "offset": 425651725
