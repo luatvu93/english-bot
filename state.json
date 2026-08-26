@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 83,
-      "learned": 83,
-      "lastPush": 1787753314297
+      "index": 84,
+      "learned": 84,
+      "lastPush": 1787763406970
     }
   },
   "cache": {
@@ -670,6 +670,14 @@
       "pos": "noun",
       "en": "A reading or an act of reading, especially an actor's part of a play.",
       "vi": "đọc"
+    },
+    "write": {
+      "word": "write",
+      "ipa": "/ɹaɪt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/write-uk.mp3",
+      "pos": "noun",
+      "en": "The act or style of writing.",
+      "vi": "viết"
     }
   },
   "offset": 425651725
