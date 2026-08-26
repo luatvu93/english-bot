@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 81,
-      "learned": 81,
-      "lastPush": 1787738720447
+      "index": 82,
+      "learned": 82,
+      "lastPush": 1787743014521
     }
   },
   "cache": {
@@ -654,6 +654,14 @@
       "pos": "verb",
       "en": "To consume (a liquid) through the mouth.",
       "vi": "đồ uống; uống"
+    },
+    "sleep": {
+      "word": "sleep",
+      "ipa": "/sliːp/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sleep-us.mp3",
+      "pos": "verb",
+      "en": "To rest in a state of reduced consciousness.",
+      "vi": "ngủ"
     }
   },
   "offset": 425651725
