@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 79,
-      "learned": 79,
-      "lastPush": 1787721446005
+      "index": 80,
+      "learned": 80,
+      "lastPush": 1787731103571
     }
   },
   "cache": {
@@ -638,6 +638,14 @@
       "pos": "verb",
       "en": "To run.",
       "vi": "chạy"
+    },
+    "eat": {
+      "word": "eat",
+      "ipa": "/iːt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eat-uk.mp3",
+      "pos": "noun",
+      "en": "Something to be eaten; a meal; a food item.",
+      "vi": "ăn"
     }
   },
   "offset": 425651725
