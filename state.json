@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 82,
-      "learned": 82,
-      "lastPush": 1787743014521
+      "index": 83,
+      "learned": 83,
+      "lastPush": 1787753314297
     }
   },
   "cache": {
@@ -662,6 +662,14 @@
       "pos": "verb",
       "en": "To rest in a state of reduced consciousness.",
       "vi": "ngủ"
+    },
+    "read": {
+      "word": "read",
+      "ipa": "/ɹiːd/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/read-1-uk.mp3",
+      "pos": "noun",
+      "en": "A reading or an act of reading, especially an actor's part of a play.",
+      "vi": "đọc"
     }
   },
   "offset": 425651725
