@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 78,
-      "learned": 78,
-      "lastPush": 1787715260055
+      "index": 79,
+      "learned": 79,
+      "lastPush": 1787721446005
     }
   },
   "cache": {
@@ -630,6 +630,14 @@
       "pos": "verb",
       "en": "To move on the feet by alternately setting each foot (or pair or group of feet, in the case of animals with four or more feet) forward, with at least one foot on the ground at all times. Compare run.",
       "vi": "đi bộ, đi dạo"
+    },
+    "run": {
+      "word": "run",
+      "ipa": "/ɹʊn/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/run-au.mp3",
+      "pos": "verb",
+      "en": "To run.",
+      "vi": "chạy"
     }
   },
   "offset": 425651725
