@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 80,
-      "learned": 80,
-      "lastPush": 1787731103571
+      "index": 81,
+      "learned": 81,
+      "lastPush": 1787738720447
     }
   },
   "cache": {
@@ -646,6 +646,14 @@
       "pos": "noun",
       "en": "Something to be eaten; a meal; a food item.",
       "vi": "ăn"
+    },
+    "drink": {
+      "word": "drink",
+      "ipa": "/dɹɪŋk/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/drink-us.mp3",
+      "pos": "verb",
+      "en": "To consume (a liquid) through the mouth.",
+      "vi": "đồ uống; uống"
     }
   },
   "offset": 425651725
