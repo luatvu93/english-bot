@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 85,
-      "learned": 85,
-      "lastPush": 1787897260332
+      "index": 86,
+      "learned": 86,
+      "lastPush": 1787954184766
     }
   },
   "cache": {
@@ -686,6 +686,14 @@
       "pos": "noun",
       "en": "A low class bar, a speakeasy.",
       "vi": "nói"
+    },
+    "listen": {
+      "word": "listen",
+      "ipa": "/ˈlɪs.ən/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/listen-au.mp3",
+      "pos": "noun",
+      "en": "An instance of listening.",
+      "vi": "nghe, lắng nghe"
     }
   },
   "offset": 425651725
