@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 86,
-      "learned": 86,
-      "lastPush": 1787954184766
+      "index": 87,
+      "learned": 87,
+      "lastPush": 1787958118139
     }
   },
   "cache": {
@@ -694,6 +694,14 @@
       "pos": "noun",
       "en": "An instance of listening.",
       "vi": "nghe, lắng nghe"
+    },
+    "watch": {
+      "word": "watch",
+      "ipa": "/wɒt͡ʃ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/watch-uk.mp3",
+      "pos": "noun",
+      "en": "A portable or wearable timepiece.",
+      "vi": "nhìn"
     }
   },
   "offset": 425651725
