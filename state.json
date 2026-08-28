@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 84,
-      "learned": 84,
-      "lastPush": 1787763406970
+      "index": 85,
+      "learned": 85,
+      "lastPush": 1787897260332
     }
   },
   "cache": {
@@ -678,6 +678,14 @@
       "pos": "noun",
       "en": "The act or style of writing.",
       "vi": "viết"
+    },
+    "speak": {
+      "word": "speak",
+      "ipa": "/spiːk/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/speak-uk.mp3",
+      "pos": "noun",
+      "en": "A low class bar, a speakeasy.",
+      "vi": "nói"
     }
   },
   "offset": 425651725
