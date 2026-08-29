@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 92,
-      "learned": 92,
-      "lastPush": 1787976258219
+      "index": 93,
+      "learned": 93,
+      "lastPush": 1787979940289
     }
   },
   "cache": {
@@ -742,6 +742,14 @@
       "pos": "noun",
       "en": "Strong affection.",
       "vi": "yêu"
+    },
+    "like": {
+      "word": "like",
+      "ipa": "/laɪk/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/like-us.mp3",
+      "pos": "noun",
+      "en": "(usually in the plural) Something that a person likes (prefers).",
+      "vi": "thích"
     }
   },
   "offset": 425651725
