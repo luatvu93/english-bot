@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 87,
-      "learned": 87,
-      "lastPush": 1787958118139
+      "index": 88,
+      "learned": 88,
+      "lastPush": 1787961734899
     }
   },
   "cache": {
@@ -702,6 +702,14 @@
       "pos": "noun",
       "en": "A portable or wearable timepiece.",
       "vi": "nhìn"
+    },
+    "play": {
+      "word": "play",
+      "ipa": "/pleɪ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/play-us.mp3",
+      "pos": "noun",
+      "en": "Activity for amusement only, especially among the young.",
+      "vi": "chơi ; trò chơi, trận đấu"
     }
   },
   "offset": 425651725
