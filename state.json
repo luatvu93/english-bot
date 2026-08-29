@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 90,
-      "learned": 90,
-      "lastPush": 1787968973889
+      "index": 91,
+      "learned": 91,
+      "lastPush": 1787972592239
     }
   },
   "cache": {
@@ -726,6 +726,14 @@
       "pos": "noun",
       "en": "An act of selling.",
       "vi": "bán"
+    },
+    "help": {
+      "word": "help",
+      "ipa": "/hɛlp/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/help-us.mp3",
+      "pos": "noun",
+      "en": "Action given to provide assistance; aid.",
+      "vi": "giúp đỡ"
     }
   },
   "offset": 425651725
