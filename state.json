@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 98,
-      "learned": 98,
-      "lastPush": 1787998396143
+      "index": 99,
+      "learned": 99,
+      "lastPush": 1788002125194
     }
   },
   "cache": {
@@ -790,6 +790,14 @@
       "pos": "",
       "en": "",
       "vi": "cho, biếu, tặng"
+    },
+    "take": {
+      "word": "take",
+      "ipa": "/teɪk/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/take-au.mp3",
+      "pos": "noun",
+      "en": "The or an act of taking.",
+      "vi": "chở; tiếp quản"
     }
   },
   "offset": 425651725
