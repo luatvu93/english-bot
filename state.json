@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 102,
-      "learned": 102,
-      "lastPush": 1788013070648
+      "index": 103,
+      "learned": 103,
+      "lastPush": 1788016707724
     }
   },
   "cache": {
@@ -822,6 +822,14 @@
       "pos": "noun",
       "en": "A pass entitling the holder to admission to a show, concert, etc.",
       "vi": "vé"
+    },
+    "holiday": {
+      "word": "holiday",
+      "ipa": "/ˈhɒlɪdeɪ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/holiday-us.mp3",
+      "pos": "noun",
+      "en": "A day on which a festival, religious event, or national celebration is traditionally observed.",
+      "vi": "ngày lễ, ngày nghỉ"
     }
   },
   "offset": 425651725
