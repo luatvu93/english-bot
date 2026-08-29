@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 104,
-      "learned": 104,
-      "lastPush": 1788020365772
+      "index": 105,
+      "learned": 105,
+      "lastPush": 1788044519003
     }
   },
   "cache": {
@@ -838,6 +838,14 @@
       "pos": "noun",
       "en": "The short term state of the atmosphere at a specific time and place, including the temperature, relative humidity, cloud cover, precipitation, wind, etc.",
       "vi": "thời tiết"
+    },
+    "umbrella": {
+      "word": "umbrella",
+      "ipa": "/ʌmˈbɹɛlə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/umbrella-us.mp3",
+      "pos": "noun",
+      "en": "Cloth-covered frame used for protection against rain or sun.",
+      "vi": "ô, dù"
     }
   },
   "offset": 425651725
