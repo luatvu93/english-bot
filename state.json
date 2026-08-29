@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 100,
-      "learned": 100,
-      "lastPush": 1788005776819
+      "index": 101,
+      "learned": 101,
+      "lastPush": 1788009429167
     }
   },
   "cache": {
@@ -806,6 +806,14 @@
       "pos": "noun",
       "en": "Brand or kind; model.",
       "vi": "làm thành, cấu thành, gộp thành"
+    },
+    "airport": {
+      "word": "airport",
+      "ipa": "/ˈɛə.pɔːt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/airport-uk.mp3",
+      "pos": "noun",
+      "en": "An airfield (an area designated for the takeoff and landing of aircraft), including one or more runways and (for commercial airports) one or more passenger terminals.",
+      "vi": "sân bay"
     }
   },
   "offset": 425651725
