@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 96,
-      "learned": 96,
-      "lastPush": 1787990988995
+      "index": 97,
+      "learned": 97,
+      "lastPush": 1787994731789
     }
   },
   "cache": {
@@ -774,6 +774,14 @@
       "pos": "noun",
       "en": "The act of going.",
       "vi": "đi"
+    },
+    "come": {
+      "word": "come",
+      "ipa": "/kʌm/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/come-1-uk.mp3",
+      "pos": "noun",
+      "en": "Coming, arrival; approach.",
+      "vi": "đến, tới, đi đến, đi tới"
     }
   },
   "offset": 425651725
