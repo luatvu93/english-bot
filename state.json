@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 94,
-      "learned": 94,
-      "lastPush": 1787983627907
+      "index": 95,
+      "learned": 95,
+      "lastPush": 1787987316358
     }
   },
   "cache": {
@@ -758,6 +758,14 @@
       "pos": "noun",
       "en": "A desire, wish, longing.",
       "vi": "muốn"
+    },
+    "need": {
+      "word": "need",
+      "ipa": "/niːd/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/need-us.mp3",
+      "pos": "noun",
+      "en": "A requirement for something; something needed.",
+      "vi": "cần, đòi hỏi"
     }
   },
   "offset": 425651725
