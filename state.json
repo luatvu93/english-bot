@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 97,
-      "learned": 97,
-      "lastPush": 1787994731789
+      "index": 98,
+      "learned": 98,
+      "lastPush": 1787998396143
     }
   },
   "cache": {
@@ -782,6 +782,14 @@
       "pos": "noun",
       "en": "Coming, arrival; approach.",
       "vi": "đến, tới, đi đến, đi tới"
+    },
+    "give": {
+      "word": "give",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "cho, biếu, tặng"
     }
   },
   "offset": 425651725
