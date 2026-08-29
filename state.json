@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 93,
-      "learned": 93,
-      "lastPush": 1787979940289
+      "index": 94,
+      "learned": 94,
+      "lastPush": 1787983627907
     }
   },
   "cache": {
@@ -750,6 +750,14 @@
       "pos": "noun",
       "en": "(usually in the plural) Something that a person likes (prefers).",
       "vi": "thích"
+    },
+    "want": {
+      "word": "want",
+      "ipa": "/wɔnt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/want-uk.mp3",
+      "pos": "noun",
+      "en": "A desire, wish, longing.",
+      "vi": "muốn"
     }
   },
   "offset": 425651725
