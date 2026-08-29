@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 89,
-      "learned": 89,
-      "lastPush": 1787965388339
+      "index": 90,
+      "learned": 90,
+      "lastPush": 1787968973889
     }
   },
   "cache": {
@@ -718,6 +718,14 @@
       "pos": "noun",
       "en": "Something which is bought; a purchase.",
       "vi": "mua"
+    },
+    "sell": {
+      "word": "sell",
+      "ipa": "/sɛl/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/sell-us.mp3",
+      "pos": "noun",
+      "en": "An act of selling.",
+      "vi": "bán"
     }
   },
   "offset": 425651725
