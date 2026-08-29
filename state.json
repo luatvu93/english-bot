@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 103,
-      "learned": 103,
-      "lastPush": 1788016707724
+      "index": 104,
+      "learned": 104,
+      "lastPush": 1788020365772
     }
   },
   "cache": {
@@ -830,6 +830,14 @@
       "pos": "noun",
       "en": "A day on which a festival, religious event, or national celebration is traditionally observed.",
       "vi": "ngày lễ, ngày nghỉ"
+    },
+    "weather": {
+      "word": "weather",
+      "ipa": "/ˈwɛðə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/weather-us.mp3",
+      "pos": "noun",
+      "en": "The short term state of the atmosphere at a specific time and place, including the temperature, relative humidity, cloud cover, precipitation, wind, etc.",
+      "vi": "thời tiết"
     }
   },
   "offset": 425651725
