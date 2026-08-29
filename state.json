@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 88,
-      "learned": 88,
-      "lastPush": 1787961734899
+      "index": 89,
+      "learned": 89,
+      "lastPush": 1787965388339
     }
   },
   "cache": {
@@ -710,6 +710,14 @@
       "pos": "noun",
       "en": "Activity for amusement only, especially among the young.",
       "vi": "chơi ; trò chơi, trận đấu"
+    },
+    "buy": {
+      "word": "buy",
+      "ipa": "/baɪ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/buy-uk.mp3",
+      "pos": "noun",
+      "en": "Something which is bought; a purchase.",
+      "vi": "mua"
     }
   },
   "offset": 425651725
