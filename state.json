@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 91,
-      "learned": 91,
-      "lastPush": 1787972592239
+      "index": 92,
+      "learned": 92,
+      "lastPush": 1787976258219
     }
   },
   "cache": {
@@ -734,6 +734,14 @@
       "pos": "noun",
       "en": "Action given to provide assistance; aid.",
       "vi": "giúp đỡ"
+    },
+    "love": {
+      "word": "love",
+      "ipa": "/lʊv/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/love-uk.mp3",
+      "pos": "noun",
+      "en": "Strong affection.",
+      "vi": "yêu"
     }
   },
   "offset": 425651725
