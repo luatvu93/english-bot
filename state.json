@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 99,
-      "learned": 99,
-      "lastPush": 1788002125194
+      "index": 100,
+      "learned": 100,
+      "lastPush": 1788005776819
     }
   },
   "cache": {
@@ -798,6 +798,14 @@
       "pos": "noun",
       "en": "The or an act of taking.",
       "vi": "chở; tiếp quản"
+    },
+    "make": {
+      "word": "make",
+      "ipa": "/meɪk/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/make-uk.mp3",
+      "pos": "noun",
+      "en": "Brand or kind; model.",
+      "vi": "làm thành, cấu thành, gộp thành"
     }
   },
   "offset": 425651725
