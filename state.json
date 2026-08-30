@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 106,
-      "learned": 106,
-      "lastPush": 1788048187395
+      "index": 107,
+      "learned": 107,
+      "lastPush": 1788051944737
     }
   },
   "cache": {
@@ -854,6 +854,14 @@
       "pos": "",
       "en": "",
       "vi": "áo vét"
+    },
+    "shoes": {
+      "word": "shoes",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "giày dép"
     }
   },
   "offset": 425651725
