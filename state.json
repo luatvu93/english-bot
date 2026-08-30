@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 122,
-      "learned": 122,
-      "lastPush": 1788107192532
+      "index": 123,
+      "learned": 123,
+      "lastPush": 1788130923903
     }
   },
   "cache": {
@@ -982,6 +982,14 @@
       "pos": "",
       "en": "",
       "vi": "tai nạn"
+    },
+    "police": {
+      "word": "police",
+      "ipa": "[pəˈliːs]",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/police-uk.mp3",
+      "pos": "noun",
+      "en": "A civil force granted the legal authority for law enforcement and maintaining public order.",
+      "vi": "cảnh sát, công an"
     }
   },
   "offset": 425651725
