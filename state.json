@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 112,
-      "learned": 112,
-      "lastPush": 1788070457102
+      "index": 113,
+      "learned": 113,
+      "lastPush": 1788074109729
     }
   },
   "cache": {
@@ -902,6 +902,14 @@
       "pos": "",
       "en": "",
       "vi": "menu"
+    },
+    "waiter": {
+      "word": "waiter",
+      "ipa": "/ˈweɪtə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/waiter-us.mp3",
+      "pos": "noun",
+      "en": "A male or female attendant who serves customers at their tables in a restaurant, café or similar.",
+      "vi": "bồi bàn"
     }
   },
   "offset": 425651725
