@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 119,
-      "learned": 119,
-      "lastPush": 1788096148121
+      "index": 120,
+      "learned": 120,
+      "lastPush": 1788099817777
     }
   },
   "cache": {
@@ -958,6 +958,14 @@
       "pos": "noun",
       "en": "Any activity designed to develop or hone a skill or ability.",
       "vi": "tập thể dục"
+    },
+    "health": {
+      "word": "health",
+      "ipa": "/hɛlθ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/health-1-uk.mp3",
+      "pos": "noun",
+      "en": "The state of being free from physical or psychological disease, illness, or malfunction; wellness.",
+      "vi": "sức khỏe, thế chất"
     }
   },
   "offset": 425651725
