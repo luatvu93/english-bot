@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 110,
-      "learned": 110,
-      "lastPush": 1788063101144
+      "index": 111,
+      "learned": 111,
+      "lastPush": 1788066760778
     }
   },
   "cache": {
@@ -886,6 +886,14 @@
       "pos": "noun",
       "en": "A large town house or mansion; a grand private residence, especially in France.",
       "vi": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  04 HOURS 48 MINUTES 19 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    },
+    "restaurant": {
+      "word": "restaurant",
+      "ipa": "/ˈɹɛs.t(ə).ɹ(ə)nt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/restaurant-uk.mp3",
+      "pos": "noun",
+      "en": "An eating establishment in which diners are served food, usually by waiters at their tables but sometimes (as in a fast food restaurant) at a counter.",
+      "vi": "nhà hàng , hiệu ăn"
     }
   },
   "offset": 425651725
