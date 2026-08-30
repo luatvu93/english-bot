@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 113,
-      "learned": 113,
-      "lastPush": 1788074109729
+      "index": 114,
+      "learned": 114,
+      "lastPush": 1788077743594
     }
   },
   "cache": {
@@ -910,6 +910,14 @@
       "pos": "noun",
       "en": "A male or female attendant who serves customers at their tables in a restaurant, café or similar.",
       "vi": "bồi bàn"
+    },
+    "recipe": {
+      "word": "recipe",
+      "ipa": "/ˈɹɛs.ə.pi/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/recipe-us.mp3",
+      "pos": "noun",
+      "en": "A formula for preparing or using a medicine; a prescription; also, a medicine prepared from such instructions.",
+      "vi": "cong-thuc"
     }
   },
   "offset": 425651725
