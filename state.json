@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 107,
-      "learned": 107,
-      "lastPush": 1788051944737
+      "index": 108,
+      "learned": 108,
+      "lastPush": 1788055729172
     }
   },
   "cache": {
@@ -862,6 +862,14 @@
       "pos": "",
       "en": "",
       "vi": "giày dép"
+    },
+    "wallet": {
+      "word": "wallet",
+      "ipa": "/ˈwɒlɪt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/wallet-au.mp3",
+      "pos": "noun",
+      "en": "A small case, often flat and often made of leather, for keeping money (especially paper money), credit cards, etc.",
+      "vi": "Ví tiền"
     }
   },
   "offset": 425651725
