@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 105,
-      "learned": 105,
-      "lastPush": 1788044519003
+      "index": 106,
+      "learned": 106,
+      "lastPush": 1788048187395
     }
   },
   "cache": {
@@ -846,6 +846,14 @@
       "pos": "noun",
       "en": "Cloth-covered frame used for protection against rain or sun.",
       "vi": "ô, dù"
+    },
+    "jacket": {
+      "word": "jacket",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "áo vét"
     }
   },
   "offset": 425651725
