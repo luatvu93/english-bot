@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 115,
-      "learned": 115,
-      "lastPush": 1788081386535
+      "index": 116,
+      "learned": 116,
+      "lastPush": 1788085047762
     }
   },
   "cache": {
@@ -926,6 +926,14 @@
       "pos": "",
       "en": "",
       "vi": "bữa điếm tâm, bữa sáng"
+    },
+    "lunch": {
+      "word": "lunch",
+      "ipa": "/lʌnt͡ʃ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lunch-au.mp3",
+      "pos": "noun",
+      "en": "A light meal usually eaten around midday, notably when not as main meal of the day.",
+      "vi": "bữa ăn trưa"
     }
   },
   "offset": 425651725
