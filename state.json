@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 108,
-      "learned": 108,
-      "lastPush": 1788055729172
+      "index": 109,
+      "learned": 109,
+      "lastPush": 1788059425964
     }
   },
   "cache": {
@@ -870,6 +870,14 @@
       "pos": "noun",
       "en": "A small case, often flat and often made of leather, for keeping money (especially paper money), credit cards, etc.",
       "vi": "Ví tiền"
+    },
+    "bicycle": {
+      "word": "bicycle",
+      "ipa": "/ˈbaɪsɪkl̩/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bicycle-au.mp3",
+      "pos": "noun",
+      "en": "A vehicle that has two wheels, one behind the other, a steering handle, and a saddle seat or seats and is usually propelled by the action of a rider’s feet upon pedals.",
+      "vi": "xe đạp"
     }
   },
   "offset": 425651725
