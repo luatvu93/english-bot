@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 116,
-      "learned": 116,
-      "lastPush": 1788085047762
+      "index": 117,
+      "learned": 117,
+      "lastPush": 1788088778750
     }
   },
   "cache": {
@@ -934,6 +934,14 @@
       "pos": "noun",
       "en": "A light meal usually eaten around midday, notably when not as main meal of the day.",
       "vi": "bữa ăn trưa"
+    },
+    "dinner": {
+      "word": "dinner",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "bữa trưa"
     }
   },
   "offset": 425651725
