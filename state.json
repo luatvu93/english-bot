@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 118,
-      "learned": 118,
-      "lastPush": 1788092501426
+      "index": 119,
+      "learned": 119,
+      "lastPush": 1788096148121
     }
   },
   "cache": {
@@ -950,6 +950,14 @@
       "pos": "noun",
       "en": "An activity that one enjoys doing in one's spare time.",
       "vi": "sở thích"
+    },
+    "exercise": {
+      "word": "exercise",
+      "ipa": "/ˈɛk.sə.saɪz/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/exercise-us.mp3",
+      "pos": "noun",
+      "en": "Any activity designed to develop or hone a skill or ability.",
+      "vi": "tập thể dục"
     }
   },
   "offset": 425651725
