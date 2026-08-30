@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 109,
-      "learned": 109,
-      "lastPush": 1788059425964
+      "index": 110,
+      "learned": 110,
+      "lastPush": 1788063101144
     }
   },
   "cache": {
@@ -878,6 +878,14 @@
       "pos": "noun",
       "en": "A vehicle that has two wheels, one behind the other, a steering handle, and a saddle seat or seats and is usually propelled by the action of a rider’s feet upon pedals.",
       "vi": "xe đạp"
+    },
+    "hotel": {
+      "word": "hotel",
+      "ipa": "/(h)əʊˈtɛl/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hotel-us.mp3",
+      "pos": "noun",
+      "en": "A large town house or mansion; a grand private residence, especially in France.",
+      "vi": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  04 HOURS 48 MINUTES 19 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
     }
   },
   "offset": 425651725
