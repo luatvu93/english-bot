@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 121,
-      "learned": 121,
-      "lastPush": 1788103504227
+      "index": 122,
+      "learned": 122,
+      "lastPush": 1788107192532
     }
   },
   "cache": {
@@ -974,6 +974,14 @@
       "pos": "noun",
       "en": "A substance which specifically promotes healing when ingested or consumed in some way.",
       "vi": "Thuốc"
+    },
+    "accident": {
+      "word": "accident",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tai nạn"
     }
   },
   "offset": 425651725
