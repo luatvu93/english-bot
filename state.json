@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 117,
-      "learned": 117,
-      "lastPush": 1788088778750
+      "index": 118,
+      "learned": 118,
+      "lastPush": 1788092501426
     }
   },
   "cache": {
@@ -942,6 +942,14 @@
       "pos": "",
       "en": "",
       "vi": "bữa trưa"
+    },
+    "hobby": {
+      "word": "hobby",
+      "ipa": "/ˈhɒ.bi/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hobby-uk.mp3",
+      "pos": "noun",
+      "en": "An activity that one enjoys doing in one's spare time.",
+      "vi": "sở thích"
     }
   },
   "offset": 425651725
