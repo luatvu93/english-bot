@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 120,
-      "learned": 120,
-      "lastPush": 1788099817777
+      "index": 121,
+      "learned": 121,
+      "lastPush": 1788103504227
     }
   },
   "cache": {
@@ -966,6 +966,14 @@
       "pos": "noun",
       "en": "The state of being free from physical or psychological disease, illness, or malfunction; wellness.",
       "vi": "sức khỏe, thế chất"
+    },
+    "medicine": {
+      "word": "medicine",
+      "ipa": "/ˈmed(ɪ).sn̩/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/medicine-uk.mp3",
+      "pos": "noun",
+      "en": "A substance which specifically promotes healing when ingested or consumed in some way.",
+      "vi": "Thuốc"
     }
   },
   "offset": 425651725
