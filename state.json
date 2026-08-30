@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 114,
-      "learned": 114,
-      "lastPush": 1788077743594
+      "index": 115,
+      "learned": 115,
+      "lastPush": 1788081386535
     }
   },
   "cache": {
@@ -918,6 +918,14 @@
       "pos": "noun",
       "en": "A formula for preparing or using a medicine; a prescription; also, a medicine prepared from such instructions.",
       "vi": "cong-thuc"
+    },
+    "breakfast": {
+      "word": "breakfast",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "bữa điếm tâm, bữa sáng"
     }
   },
   "offset": 425651725
