@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 125,
-      "learned": 125,
-      "lastPush": 1788138436773
+      "index": 126,
+      "learned": 126,
+      "lastPush": 1788142156800
     }
   },
   "cache": {
@@ -1006,6 +1006,14 @@
       "pos": "noun",
       "en": "A rural habitation of size between a hamlet and a town.",
       "vi": "làng, xã"
+    },
+    "mountain": {
+      "word": "mountain",
+      "ipa": "/ˈmaʊntɪn/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mountain-uk.mp3",
+      "pos": "noun",
+      "en": "An elevation of land of considerable dimensions rising more or less abruptly, forming a conspicuous figure in the landscape, usually having a small extent of surface at its summit.",
+      "vi": "núi"
     }
   },
   "offset": 425651725
