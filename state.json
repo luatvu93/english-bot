@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 124,
-      "learned": 124,
-      "lastPush": 1788134599495
+      "index": 125,
+      "learned": 125,
+      "lastPush": 1788138436773
     }
   },
   "cache": {
@@ -998,6 +998,14 @@
       "pos": "",
       "en": "",
       "vi": "hàng xóm"
+    },
+    "village": {
+      "word": "village",
+      "ipa": "/ˈvɪlɪd͡ʒ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/village-au.mp3",
+      "pos": "noun",
+      "en": "A rural habitation of size between a hamlet and a town.",
+      "vi": "làng, xã"
     }
   },
   "offset": 425651725
