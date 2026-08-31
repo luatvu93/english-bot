@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 139,
-      "learned": 139,
-      "lastPush": 1788190510271
+      "index": 140,
+      "learned": 140,
+      "lastPush": 1788194190981
     }
   },
   "cache": {
@@ -1118,6 +1118,14 @@
       "pos": "",
       "en": "",
       "vi": "sạch sẽ"
+    },
+    "dirty": {
+      "word": "dirty",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "dơ bẩn"
     }
   },
   "offset": 425651725
