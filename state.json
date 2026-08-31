@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 128,
-      "learned": 128,
-      "lastPush": 1788149561289
+      "index": 129,
+      "learned": 129,
+      "lastPush": 1788153232879
     }
   },
   "cache": {
@@ -1030,6 +1030,14 @@
       "pos": "noun",
       "en": "The shore of a body of water, especially when sandy or pebbly.",
       "vi": "bãi biến"
+    },
+    "forest": {
+      "word": "forest",
+      "ipa": "/ˈfɒɹɪst/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/forest-uk.mp3",
+      "pos": "noun",
+      "en": "A dense uncultivated tract of trees and undergrowth, larger than woods.",
+      "vi": "rừng"
     }
   },
   "offset": 425651725
