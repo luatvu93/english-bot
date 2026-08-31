@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 130,
-      "learned": 130,
-      "lastPush": 1788157076721
+      "index": 131,
+      "learned": 131,
+      "lastPush": 1788160790658
     }
   },
   "cache": {
@@ -1046,6 +1046,14 @@
       "pos": "noun",
       "en": "A contiguous area of land, smaller than a continent, totally surrounded by water.",
       "vi": "hòn đảo"
+    },
+    "season": {
+      "word": "season",
+      "ipa": "/ˈsiːzən/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/season-au.mp3",
+      "pos": "noun",
+      "en": "Each of the four divisions of a year: spring, summer, autumn (fall) and winter",
+      "vi": "mùa"
     }
   },
   "offset": 425651725
