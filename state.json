@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 126,
-      "learned": 126,
-      "lastPush": 1788142156800
+      "index": 127,
+      "learned": 127,
+      "lastPush": 1788145847856
     }
   },
   "cache": {
@@ -1014,6 +1014,14 @@
       "pos": "noun",
       "en": "An elevation of land of considerable dimensions rising more or less abruptly, forming a conspicuous figure in the landscape, usually having a small extent of surface at its summit.",
       "vi": "núi"
+    },
+    "river": {
+      "word": "river",
+      "ipa": "/ˈɹɪvə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/river-1-uk.mp3",
+      "pos": "noun",
+      "en": "A large and often winding stream which drains a land mass, carrying water down from higher areas to a lower point, oftentimes ending in another body of water, such as an ocean or in an inland sea.",
+      "vi": "sông"
     }
   },
   "offset": 425651725
