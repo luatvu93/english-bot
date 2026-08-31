@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 135,
-      "learned": 135,
-      "lastPush": 1788175673622
+      "index": 136,
+      "learned": 136,
+      "lastPush": 1788179438534
     }
   },
   "cache": {
@@ -1086,6 +1086,14 @@
       "pos": "verb",
       "en": "To weaken, as a joint, ligament, or muscle, by sudden and excessive exertion, as by wrenching; to overstrain, or stretch injuriously, but without luxation",
       "vi": "mùa xuân"
+    },
+    "crowded": {
+      "word": "crowded",
+      "ipa": "/ˈkɹaʊdɪd/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/crowded-us.mp3",
+      "pos": "verb",
+      "en": "To press forward; to advance by pushing.",
+      "vi": "đông đúc"
     }
   },
   "offset": 425651725
