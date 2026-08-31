@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 136,
-      "learned": 136,
-      "lastPush": 1788179438534
+      "index": 137,
+      "learned": 137,
+      "lastPush": 1788183129454
     }
   },
   "cache": {
@@ -1094,6 +1094,14 @@
       "pos": "verb",
       "en": "To press forward; to advance by pushing.",
       "vi": "đông đúc"
+    },
+    "quiet": {
+      "word": "quiet",
+      "ipa": "/ˈkwaɪ.ət/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quiet-us.mp3",
+      "pos": "noun",
+      "en": "The absence of sound; quietness.",
+      "vi": "lặng, yên lặng, yên tĩnh"
     }
   },
   "offset": 425651725
