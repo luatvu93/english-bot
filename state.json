@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 132,
-      "learned": 132,
-      "lastPush": 1788164543103
+      "index": 133,
+      "learned": 133,
+      "lastPush": 1788168250188
     }
   },
   "cache": {
@@ -1062,6 +1062,14 @@
       "pos": "noun",
       "en": "Traditionally the fourth of the four seasons, typically regarded as being from December 23 to March 20 in continental regions of the Northern Hemisphere or the months of June, July and August in the Southern Hemisphere. It is the time when the sun is lowest in the sky, resulting in short days, and the time of year with the lowest atmospheric temperatures for the region.",
       "vi": "mùa đông"
+    },
+    "summer": {
+      "word": "summer",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "mùa hè"
     }
   },
   "offset": 425651725
