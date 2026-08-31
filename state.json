@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 137,
-      "learned": 137,
-      "lastPush": 1788183129454
+      "index": 138,
+      "learned": 138,
+      "lastPush": 1788186836328
     }
   },
   "cache": {
@@ -1102,6 +1102,14 @@
       "pos": "noun",
       "en": "The absence of sound; quietness.",
       "vi": "lặng, yên lặng, yên tĩnh"
+    },
+    "noisy": {
+      "word": "noisy",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "ồn ào, huyên náo"
     }
   },
   "offset": 425651725
