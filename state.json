@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 138,
-      "learned": 138,
-      "lastPush": 1788186836328
+      "index": 139,
+      "learned": 139,
+      "lastPush": 1788190510271
     }
   },
   "cache": {
@@ -1110,6 +1110,14 @@
       "pos": "",
       "en": "",
       "vi": "ồn ào, huyên náo"
+    },
+    "clean": {
+      "word": "clean",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "sạch sẽ"
     }
   },
   "offset": 425651725
