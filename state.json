@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 123,
-      "learned": 123,
-      "lastPush": 1788130923903
+      "index": 124,
+      "learned": 124,
+      "lastPush": 1788134599495
     }
   },
   "cache": {
@@ -990,6 +990,14 @@
       "pos": "noun",
       "en": "A civil force granted the legal authority for law enforcement and maintaining public order.",
       "vi": "cảnh sát, công an"
+    },
+    "neighbour": {
+      "word": "neighbour",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "hàng xóm"
     }
   },
   "offset": 425651725
