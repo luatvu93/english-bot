@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 127,
-      "learned": 127,
-      "lastPush": 1788145847856
+      "index": 128,
+      "learned": 128,
+      "lastPush": 1788149561289
     }
   },
   "cache": {
@@ -1022,6 +1022,14 @@
       "pos": "noun",
       "en": "A large and often winding stream which drains a land mass, carrying water down from higher areas to a lower point, oftentimes ending in another body of water, such as an ocean or in an inland sea.",
       "vi": "sông"
+    },
+    "beach": {
+      "word": "beach",
+      "ipa": "/biːt͡ʃ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/beach-uk.mp3",
+      "pos": "noun",
+      "en": "The shore of a body of water, especially when sandy or pebbly.",
+      "vi": "bãi biến"
     }
   },
   "offset": 425651725
