@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 133,
-      "learned": 133,
-      "lastPush": 1788168250188
+      "index": 134,
+      "learned": 134,
+      "lastPush": 1788171964887
     }
   },
   "cache": {
@@ -1070,6 +1070,14 @@
       "pos": "",
       "en": "",
       "vi": "mùa hè"
+    },
+    "autumn": {
+      "word": "autumn",
+      "ipa": "/ˈɔːtəm/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/autumn-uk.mp3",
+      "pos": "noun",
+      "en": "Traditionally the third of the four seasons, when deciduous trees lose their leaves; typically regarded as being from September 24 to December 22 in parts of the Northern Hemisphere, and the months of March, April and May in the Southern Hemisphere.",
+      "vi": "mùa thu"
     }
   },
   "offset": 425651725
