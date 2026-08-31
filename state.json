@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 129,
-      "learned": 129,
-      "lastPush": 1788153232879
+      "index": 130,
+      "learned": 130,
+      "lastPush": 1788157076721
     }
   },
   "cache": {
@@ -1038,6 +1038,14 @@
       "pos": "noun",
       "en": "A dense uncultivated tract of trees and undergrowth, larger than woods.",
       "vi": "rừng"
+    },
+    "island": {
+      "word": "island",
+      "ipa": "/ˈaɪ̯lənd/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/island-uk.mp3",
+      "pos": "noun",
+      "en": "A contiguous area of land, smaller than a continent, totally surrounded by water.",
+      "vi": "hòn đảo"
     }
   },
   "offset": 425651725
