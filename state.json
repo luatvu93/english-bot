@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 154,
-      "learned": 154,
-      "lastPush": 1788267308667
+      "index": 155,
+      "learned": 155,
+      "lastPush": 1788271144369
     }
   },
   "cache": {
@@ -1238,6 +1238,14 @@
       "pos": "adjective",
       "en": "Displaying or feeling anger.",
       "vi": "Giận"
+    },
+    "nervous": {
+      "word": "nervous",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "hoảng sợ, dễ bị kích thích, hay lo lắng"
     }
   },
   "offset": 425651725
