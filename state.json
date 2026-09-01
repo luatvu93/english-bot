@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 147,
-      "learned": 147,
-      "lastPush": 1788240294478
+      "index": 148,
+      "learned": 148,
+      "lastPush": 1788244341328
     }
   },
   "cache": {
@@ -1182,6 +1182,14 @@
       "pos": "adjective",
       "en": "Taking care; attentive to potential danger, error or harm; cautious.",
       "vi": "cần thận, cần trọng"
+    },
+    "polite": {
+      "word": "polite",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "lễ phép, lịch sự"
     }
   },
   "offset": 425651725
