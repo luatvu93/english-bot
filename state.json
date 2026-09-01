@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 142,
-      "learned": 142,
-      "lastPush": 1788221306064
+      "index": 143,
+      "learned": 143,
+      "lastPush": 1788225102520
     }
   },
   "cache": {
@@ -1142,6 +1142,14 @@
       "pos": "adjective",
       "en": "Given to expending a lot of money; profligate, lavish.",
       "vi": "đắt"
+    },
+    "comfortable": {
+      "word": "comfortable",
+      "ipa": "/ˈkʌm.fə.tə.bəl/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/comfortable-us.mp3",
+      "pos": "noun",
+      "en": "A stuffed or quilted coverlet for a bed; a comforter.",
+      "vi": "thoải mái, tiện nghi, đầy đủ"
     }
   },
   "offset": 425651725
