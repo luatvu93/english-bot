@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 151,
-      "learned": 151,
-      "lastPush": 1788256151167
+      "index": 152,
+      "learned": 152,
+      "lastPush": 1788259713719
     }
   },
   "cache": {
@@ -1214,6 +1214,14 @@
       "pos": "",
       "en": "",
       "vi": "mệt ,nhàm chán"
+    },
+    "hungry": {
+      "word": "hungry",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "đói"
     }
   },
   "offset": 425651725
