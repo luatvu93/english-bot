@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 141,
-      "learned": 141,
-      "lastPush": 1788217309391
+      "index": 142,
+      "learned": 142,
+      "lastPush": 1788221306064
     }
   },
   "cache": {
@@ -1134,6 +1134,14 @@
       "pos": "noun",
       "en": "Trade; traffic; chaffer; chaffering.",
       "vi": "rẻ"
+    },
+    "expensive": {
+      "word": "expensive",
+      "ipa": "/ɛkˈspɛnsɪv/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/expensive-uk.mp3",
+      "pos": "adjective",
+      "en": "Given to expending a lot of money; profligate, lavish.",
+      "vi": "đắt"
     }
   },
   "offset": 425651725
