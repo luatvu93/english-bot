@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 146,
-      "learned": 146,
-      "lastPush": 1788236728679
+      "index": 147,
+      "learned": 147,
+      "lastPush": 1788240294478
     }
   },
   "cache": {
@@ -1174,6 +1174,14 @@
       "pos": "adjective",
       "en": "Full of danger.",
       "vi": "Cá voi"
+    },
+    "careful": {
+      "word": "careful",
+      "ipa": "/ˈkɛːfəl/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/careful-us.mp3",
+      "pos": "adjective",
+      "en": "Taking care; attentive to potential danger, error or harm; cautious.",
+      "vi": "cần thận, cần trọng"
     }
   },
   "offset": 425651725
