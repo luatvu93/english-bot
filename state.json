@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 144,
-      "learned": 144,
-      "lastPush": 1788229254388
+      "index": 145,
+      "learned": 145,
+      "lastPush": 1788232952256
     }
   },
   "cache": {
@@ -1158,6 +1158,14 @@
       "pos": "verb",
       "en": "To inspire boredom in somebody.",
       "vi": "Chán"
+    },
+    "exciting": {
+      "word": "exciting",
+      "ipa": "/ɪkˈsaɪtɪŋ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/exciting-us.mp3",
+      "pos": "verb",
+      "en": "To stir the emotions of.",
+      "vi": "hứng thú, thú vị"
     }
   },
   "offset": 425651725
