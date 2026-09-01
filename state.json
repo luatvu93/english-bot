@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 157,
-      "learned": 157,
-      "lastPush": 1788280107609
+      "index": 158,
+      "learned": 158,
+      "lastPush": 1788303771923
     }
   },
   "cache": {
@@ -1262,6 +1262,14 @@
       "pos": "",
       "en": "",
       "vi": "vay, mượn"
+    },
+    "lend": {
+      "word": "lend",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Cho mượn"
     }
   },
   "offset": 425651725
