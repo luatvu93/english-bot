@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 156,
-      "learned": 156,
-      "lastPush": 1788274805798
+      "index": 157,
+      "learned": 157,
+      "lastPush": 1788280107609
     }
   },
   "cache": {
@@ -1254,6 +1254,14 @@
       "pos": "verb",
       "en": "To cause (someone) to feel unusually alarmed or delighted by something unexpected.",
       "vi": "ngạc nhiên"
+    },
+    "borrow": {
+      "word": "borrow",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "vay, mượn"
     }
   },
   "offset": 425651725
