@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 152,
-      "learned": 152,
-      "lastPush": 1788259713719
+      "index": 153,
+      "learned": 153,
+      "lastPush": 1788263384939
     }
   },
   "cache": {
@@ -1222,6 +1222,14 @@
       "pos": "",
       "en": "",
       "vi": "đói"
+    },
+    "thirsty": {
+      "word": "thirsty",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "khát"
     }
   },
   "offset": 425651725
