@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 153,
-      "learned": 153,
-      "lastPush": 1788263384939
+      "index": 154,
+      "learned": 154,
+      "lastPush": 1788267308667
     }
   },
   "cache": {
@@ -1230,6 +1230,14 @@
       "pos": "",
       "en": "",
       "vi": "khát"
+    },
+    "angry": {
+      "word": "angry",
+      "ipa": "/ˈæŋ.ɡɹi/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/angry-us.mp3",
+      "pos": "adjective",
+      "en": "Displaying or feeling anger.",
+      "vi": "Giận"
     }
   },
   "offset": 425651725
