@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 148,
-      "learned": 148,
-      "lastPush": 1788244341328
+      "index": 149,
+      "learned": 149,
+      "lastPush": 1788248024092
     }
   },
   "cache": {
@@ -1190,6 +1190,14 @@
       "pos": "",
       "en": "",
       "vi": "lễ phép, lịch sự"
+    },
+    "friendly": {
+      "word": "friendly",
+      "ipa": "/ˈfɹɛndli/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/friendly-us.mp3",
+      "pos": "noun",
+      "en": "A game which is of no consequence in terms of ranking, betting etc.",
+      "vi": "thân thiện, thân mật"
     }
   },
   "offset": 425651725
