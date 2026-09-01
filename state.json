@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 155,
-      "learned": 155,
-      "lastPush": 1788271144369
+      "index": 156,
+      "learned": 156,
+      "lastPush": 1788274805798
     }
   },
   "cache": {
@@ -1246,6 +1246,14 @@
       "pos": "",
       "en": "",
       "vi": "hoảng sợ, dễ bị kích thích, hay lo lắng"
+    },
+    "surprised": {
+      "word": "surprised",
+      "ipa": "/səˈpɹaɪzd/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/surprised-us.mp3",
+      "pos": "verb",
+      "en": "To cause (someone) to feel unusually alarmed or delighted by something unexpected.",
+      "vi": "ngạc nhiên"
     }
   },
   "offset": 425651725
