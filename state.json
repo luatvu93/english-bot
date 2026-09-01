@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 145,
-      "learned": 145,
-      "lastPush": 1788232952256
+      "index": 146,
+      "learned": 146,
+      "lastPush": 1788236728679
     }
   },
   "cache": {
@@ -1166,6 +1166,14 @@
       "pos": "verb",
       "en": "To stir the emotions of.",
       "vi": "hứng thú, thú vị"
+    },
+    "dangerous": {
+      "word": "dangerous",
+      "ipa": "/ˈdeɪnd͡ʒ(ə)ɹəs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dangerous-uk.mp3",
+      "pos": "adjective",
+      "en": "Full of danger.",
+      "vi": "Cá voi"
     }
   },
   "offset": 425651725
