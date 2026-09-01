@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 149,
-      "learned": 149,
-      "lastPush": 1788248024092
+      "index": 150,
+      "learned": 150,
+      "lastPush": 1788252179883
     }
   },
   "cache": {
@@ -1198,6 +1198,14 @@
       "pos": "noun",
       "en": "A game which is of no consequence in terms of ranking, betting etc.",
       "vi": "thân thiện, thân mật"
+    },
+    "lazy": {
+      "word": "lazy",
+      "ipa": "/ˈleɪzi/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lazy-us.mp3",
+      "pos": "noun",
+      "en": "A lazy person.",
+      "vi": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  00 HOURS 17 MINUTES 00 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
     }
   },
   "offset": 425651725
