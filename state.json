@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 150,
-      "learned": 150,
-      "lastPush": 1788252179883
+      "index": 151,
+      "learned": 151,
+      "lastPush": 1788256151167
     }
   },
   "cache": {
@@ -1206,6 +1206,14 @@
       "pos": "noun",
       "en": "A lazy person.",
       "vi": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  00 HOURS 17 MINUTES 00 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    },
+    "tired": {
+      "word": "tired",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "mệt ,nhàm chán"
     }
   },
   "offset": 425651725
