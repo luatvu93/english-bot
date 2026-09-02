@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 174,
-      "learned": 174,
-      "lastPush": 1788367014622
+      "index": 175,
+      "learned": 175,
+      "lastPush": 1788390186735
     }
   },
   "cache": {
@@ -1398,6 +1398,14 @@
       "pos": "",
       "en": "",
       "vi": "hứa, lời hứa"
+    },
+    "agree": {
+      "word": "agree",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "đồng ý, tán thành"
     }
   },
   "offset": 425651725
