@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 158,
-      "learned": 158,
-      "lastPush": 1788303771923
+      "index": 159,
+      "learned": 159,
+      "lastPush": 1788307723904
     }
   },
   "cache": {
@@ -1270,6 +1270,14 @@
       "pos": "",
       "en": "",
       "vi": "Cho mượn"
+    },
+    "repair": {
+      "word": "repair",
+      "ipa": "/ɹɪˈpɛə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/repair-us.mp3",
+      "pos": "noun",
+      "en": "The act of repairing something.",
+      "vi": "sửa chữa (đồng)"
     }
   },
   "offset": 425651725
