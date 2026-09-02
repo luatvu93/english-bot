@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 172,
-      "learned": 172,
-      "lastPush": 1788359399324
+      "index": 173,
+      "learned": 173,
+      "lastPush": 1788363449542
     }
   },
   "cache": {
@@ -1382,6 +1382,14 @@
       "pos": "verb",
       "en": "To lose remembrance of.",
       "vi": "lãng quên"
+    },
+    "remember": {
+      "word": "remember",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "nhớ, nhớ lại"
     }
   },
   "offset": 425651725
