@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 163,
-      "learned": 163,
-      "lastPush": 1788324306202
+      "index": 164,
+      "learned": 164,
+      "lastPush": 1788328083091
     }
   },
   "cache": {
@@ -1310,6 +1310,14 @@
       "pos": "noun",
       "en": "Comparison.",
       "vi": "so sánh, đối chiếu"
+    },
+    "decide": {
+      "word": "decide",
+      "ipa": "/dɪˈsaɪd/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/decide-us.mp3",
+      "pos": "verb",
+      "en": "To resolve (a contest, problem, dispute, etc.); to choose, determine, or settle",
+      "vi": "quyết định"
     }
   },
   "offset": 425651725
