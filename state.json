@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 171,
-      "learned": 171,
-      "lastPush": 1788355415168
+      "index": 172,
+      "learned": 172,
+      "lastPush": 1788359399324
     }
   },
   "cache": {
@@ -1374,6 +1374,14 @@
       "pos": "noun",
       "en": "The act of returning.",
       "vi": "Trở lại"
+    },
+    "forget": {
+      "word": "forget",
+      "ipa": "/fəˈɡɛt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/forget-us.mp3",
+      "pos": "verb",
+      "en": "To lose remembrance of.",
+      "vi": "lãng quên"
     }
   },
   "offset": 425651725
