@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 164,
-      "learned": 164,
-      "lastPush": 1788328083091
+      "index": 165,
+      "learned": 165,
+      "lastPush": 1788332203240
     }
   },
   "cache": {
@@ -1318,6 +1318,14 @@
       "pos": "verb",
       "en": "To resolve (a contest, problem, dispute, etc.); to choose, determine, or settle",
       "vi": "quyết định"
+    },
+    "choose": {
+      "word": "choose",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "lựa chọn"
     }
   },
   "offset": 425651725
