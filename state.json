@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 167,
-      "learned": 167,
-      "lastPush": 1788339721040
+      "index": 168,
+      "learned": 168,
+      "lastPush": 1788343639843
     }
   },
   "cache": {
@@ -1342,6 +1342,14 @@
       "pos": "",
       "en": "",
       "vi": "thực hành, tập luyện"
+    },
+    "travel": {
+      "word": "travel",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "du lịch"
     }
   },
   "offset": 425651725
