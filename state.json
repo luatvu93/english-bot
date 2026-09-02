@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 170,
-      "learned": 170,
-      "lastPush": 1788351310793
+      "index": 171,
+      "learned": 171,
+      "lastPush": 1788355415168
     }
   },
   "cache": {
@@ -1366,6 +1366,14 @@
       "pos": "verb",
       "en": "To have a consequence or remnant.",
       "vi": "thai sản"
+    },
+    "return": {
+      "word": "return",
+      "ipa": "/ɹɪˈtɜːn/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/return-au.mp3",
+      "pos": "noun",
+      "en": "The act of returning.",
+      "vi": "Trở lại"
     }
   },
   "offset": 425651725
