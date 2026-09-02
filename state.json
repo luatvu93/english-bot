@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 162,
-      "learned": 162,
-      "lastPush": 1788320556348
+      "index": 163,
+      "learned": 163,
+      "lastPush": 1788324306202
     }
   },
   "cache": {
@@ -1302,6 +1302,14 @@
       "pos": "",
       "en": "",
       "vi": "mô tả"
+    },
+    "compare": {
+      "word": "compare",
+      "ipa": "/kəmˈpɛə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/compare-us.mp3",
+      "pos": "noun",
+      "en": "Comparison.",
+      "vi": "so sánh, đối chiếu"
     }
   },
   "offset": 425651725
