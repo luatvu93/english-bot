@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 165,
-      "learned": 165,
-      "lastPush": 1788332203240
+      "index": 166,
+      "learned": 166,
+      "lastPush": 1788335862027
     }
   },
   "cache": {
@@ -1326,6 +1326,14 @@
       "pos": "",
       "en": "",
       "vi": "lựa chọn"
+    },
+    "improve": {
+      "word": "improve",
+      "ipa": "/ɪmˈpɹuːv/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/improve-us.mp3",
+      "pos": "verb",
+      "en": "To make (something) better; to increase the value or productivity (of something).",
+      "vi": "cải thiện, cái tiến, mở mang"
     }
   },
   "offset": 425651725
