@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 160,
-      "learned": 160,
-      "lastPush": 1788311744369
+      "index": 161,
+      "learned": 161,
+      "lastPush": 1788316466820
     }
   },
   "cache": {
@@ -1286,6 +1286,14 @@
       "pos": "verb",
       "en": "To ask for the presence or participation of someone or something.",
       "vi": "mời"
+    },
+    "explain": {
+      "word": "explain",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "giải nghĩa, giải thích"
     }
   },
   "offset": 425651725
