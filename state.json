@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 173,
-      "learned": 173,
-      "lastPush": 1788363449542
+      "index": 174,
+      "learned": 174,
+      "lastPush": 1788367014622
     }
   },
   "cache": {
@@ -1390,6 +1390,14 @@
       "pos": "",
       "en": "",
       "vi": "nhớ, nhớ lại"
+    },
+    "promise": {
+      "word": "promise",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "hứa, lời hứa"
     }
   },
   "offset": 425651725
