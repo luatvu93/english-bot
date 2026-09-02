@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 168,
-      "learned": 168,
-      "lastPush": 1788343639843
+      "index": 169,
+      "learned": 169,
+      "lastPush": 1788347523449
     }
   },
   "cache": {
@@ -1350,6 +1350,14 @@
       "pos": "",
       "en": "",
       "vi": "du lịch"
+    },
+    "arrive": {
+      "word": "arrive",
+      "ipa": "/əˈɹaɪv/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arrive-us.mp3",
+      "pos": "verb",
+      "en": "To reach; to get to a certain place.",
+      "vi": "đến, tới nơi"
     }
   },
   "offset": 425651725
