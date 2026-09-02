@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 159,
-      "learned": 159,
-      "lastPush": 1788307723904
+      "index": 160,
+      "learned": 160,
+      "lastPush": 1788311744369
     }
   },
   "cache": {
@@ -1278,6 +1278,14 @@
       "pos": "noun",
       "en": "The act of repairing something.",
       "vi": "sửa chữa (đồng)"
+    },
+    "invite": {
+      "word": "invite",
+      "ipa": "/ɪnˈvaɪt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/invite-1-uk.mp3",
+      "pos": "verb",
+      "en": "To ask for the presence or participation of someone or something.",
+      "vi": "mời"
     }
   },
   "offset": 425651725
