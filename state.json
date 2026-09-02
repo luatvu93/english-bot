@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 169,
-      "learned": 169,
-      "lastPush": 1788347523449
+      "index": 170,
+      "learned": 170,
+      "lastPush": 1788351310793
     }
   },
   "cache": {
@@ -1358,6 +1358,14 @@
       "pos": "verb",
       "en": "To reach; to get to a certain place.",
       "vi": "đến, tới nơi"
+    },
+    "leave": {
+      "word": "leave",
+      "ipa": "/liːv/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/leave-au.mp3",
+      "pos": "verb",
+      "en": "To have a consequence or remnant.",
+      "vi": "thai sản"
     }
   },
   "offset": 425651725
