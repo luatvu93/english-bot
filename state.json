@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 185,
-      "learned": 185,
-      "lastPush": 1788436675801
+      "index": 186,
+      "learned": 186,
+      "lastPush": 1788440278245
     }
   },
   "cache": {
@@ -1486,6 +1486,14 @@
       "pos": "noun",
       "en": "Amount of money spent (during a period); expenditure.",
       "vi": "tiêu, xài"
+    },
+    "earn": {
+      "word": "earn",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "kiếm (tiền), giành (phần thưởng)"
     }
   },
   "offset": 425651725
