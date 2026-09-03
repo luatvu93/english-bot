@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 178,
-      "learned": 178,
-      "lastPush": 1788401131324
+      "index": 179,
+      "learned": 179,
+      "lastPush": 1788413291368
     }
   },
   "cache": {
@@ -1430,6 +1430,14 @@
       "pos": "",
       "en": "",
       "vi": "để nghị, để xuất; gợi"
+    },
+    "prepare": {
+      "word": "prepare",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "sửa soạn, chuẩn bị"
     }
   },
   "offset": 425651725
