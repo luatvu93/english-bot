@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 175,
-      "learned": 175,
-      "lastPush": 1788390186735
+      "index": 176,
+      "learned": 176,
+      "lastPush": 1788393986002
     }
   },
   "cache": {
@@ -1406,6 +1406,14 @@
       "pos": "",
       "en": "",
       "vi": "đồng ý, tán thành"
+    },
+    "disagree": {
+      "word": "disagree",
+      "ipa": "/dɪsəˈɡɹiː/",
+      "audio": "",
+      "pos": "verb",
+      "en": "To fail to agree; to have a different opinion or belief.",
+      "vi": "bất đồng, không hợp"
     }
   },
   "offset": 425651725
