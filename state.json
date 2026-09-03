@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 187,
-      "learned": 187,
-      "lastPush": 1788444099715
+      "index": 188,
+      "learned": 188,
+      "lastPush": 1788448291392
     }
   },
   "cache": {
@@ -1502,6 +1502,14 @@
       "pos": "",
       "en": "",
       "vi": "cho thuê, thuê"
+    },
+    "share": {
+      "word": "share",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "chia sẻ"
     }
   },
   "offset": 425651725
