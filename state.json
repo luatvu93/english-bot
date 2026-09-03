@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 188,
-      "learned": 188,
-      "lastPush": 1788448291392
+      "index": 189,
+      "learned": 189,
+      "lastPush": 1788452414351
     }
   },
   "cache": {
@@ -1510,6 +1510,14 @@
       "pos": "",
       "en": "",
       "vi": "chia sẻ"
+    },
+    "join": {
+      "word": "join",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "gia nhập, tham gia; nối, chắp, ghép"
     }
   },
   "offset": 425651725
