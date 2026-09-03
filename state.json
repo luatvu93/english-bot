@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 183,
-      "learned": 183,
-      "lastPush": 1788429206794
+      "index": 184,
+      "learned": 184,
+      "lastPush": 1788432798746
     }
   },
   "cache": {
@@ -1470,6 +1470,14 @@
       "pos": "",
       "en": "",
       "vi": "trả, thanh toán, nộp; tiền lương"
+    },
+    "save": {
+      "word": "save",
+      "ipa": "/seɪv/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/save-us.mp3",
+      "pos": "noun",
+      "en": "In various sports, a block that prevents an opponent from scoring.",
+      "vi": "lưu"
     }
   },
   "offset": 425651725
