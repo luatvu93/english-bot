@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 180,
-      "learned": 180,
-      "lastPush": 1788417524754
+      "index": 181,
+      "learned": 181,
+      "lastPush": 1788421128589
     }
   },
   "cache": {
@@ -1446,6 +1446,14 @@
       "pos": "",
       "en": "",
       "vi": "nhận, lĩnh, thu"
+    },
+    "deliver": {
+      "word": "deliver",
+      "ipa": "/dɪˈlɪvə(ɹ)/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/deliver-us.mp3",
+      "pos": "verb",
+      "en": "To set free from restraint or danger.",
+      "vi": "bày tỏ, giãi bày"
     }
   },
   "offset": 425651725
