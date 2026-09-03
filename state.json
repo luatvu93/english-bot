@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 179,
-      "learned": 179,
-      "lastPush": 1788413291368
+      "index": 180,
+      "learned": 180,
+      "lastPush": 1788417524754
     }
   },
   "cache": {
@@ -1438,6 +1438,14 @@
       "pos": "",
       "en": "",
       "vi": "sửa soạn, chuẩn bị"
+    },
+    "receive": {
+      "word": "receive",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "nhận, lĩnh, thu"
     }
   },
   "offset": 425651725
