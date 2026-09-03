@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 177,
-      "learned": 177,
-      "lastPush": 1788397566523
+      "index": 178,
+      "learned": 178,
+      "lastPush": 1788401131324
     }
   },
   "cache": {
@@ -1422,6 +1422,14 @@
       "pos": "verb",
       "en": "To express feelings of pain, dissatisfaction, or resentment.",
       "vi": "phàn nàn"
+    },
+    "suggest": {
+      "word": "suggest",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "để nghị, để xuất; gợi"
     }
   },
   "offset": 425651725
