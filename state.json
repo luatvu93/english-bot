@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 182,
-      "learned": 182,
-      "lastPush": 1788425247726
+      "index": 183,
+      "learned": 183,
+      "lastPush": 1788429206794
     }
   },
   "cache": {
@@ -1462,6 +1462,14 @@
       "pos": "noun",
       "en": "Arrangement, disposition, or sequence.",
       "vi": "đặt hàng"
+    },
+    "pay": {
+      "word": "pay",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "trả, thanh toán, nộp; tiền lương"
     }
   },
   "offset": 425651725
