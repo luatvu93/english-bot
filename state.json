@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 184,
-      "learned": 184,
-      "lastPush": 1788432798746
+      "index": 185,
+      "learned": 185,
+      "lastPush": 1788436675801
     }
   },
   "cache": {
@@ -1478,6 +1478,14 @@
       "pos": "noun",
       "en": "In various sports, a block that prevents an opponent from scoring.",
       "vi": "lưu"
+    },
+    "spend": {
+      "word": "spend",
+      "ipa": "/spɛnd/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/spend-us.mp3",
+      "pos": "noun",
+      "en": "Amount of money spent (during a period); expenditure.",
+      "vi": "tiêu, xài"
     }
   },
   "offset": 425651725
