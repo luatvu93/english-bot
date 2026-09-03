@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 176,
-      "learned": 176,
-      "lastPush": 1788393986002
+      "index": 177,
+      "learned": 177,
+      "lastPush": 1788397566523
     }
   },
   "cache": {
@@ -1414,6 +1414,14 @@
       "pos": "verb",
       "en": "To fail to agree; to have a different opinion or belief.",
       "vi": "bất đồng, không hợp"
+    },
+    "complain": {
+      "word": "complain",
+      "ipa": "/kəmˈpleɪn/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/complain-us.mp3",
+      "pos": "verb",
+      "en": "To express feelings of pain, dissatisfaction, or resentment.",
+      "vi": "phàn nàn"
     }
   },
   "offset": 425651725
