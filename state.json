@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 181,
-      "learned": 181,
-      "lastPush": 1788421128589
+      "index": 182,
+      "learned": 182,
+      "lastPush": 1788425247726
     }
   },
   "cache": {
@@ -1454,6 +1454,14 @@
       "pos": "verb",
       "en": "To set free from restraint or danger.",
       "vi": "bày tỏ, giãi bày"
+    },
+    "order": {
+      "word": "order",
+      "ipa": "/ˈɔːdə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/order-au.mp3",
+      "pos": "noun",
+      "en": "Arrangement, disposition, or sequence.",
+      "vi": "đặt hàng"
     }
   },
   "offset": 425651725
