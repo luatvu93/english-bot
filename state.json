@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 186,
-      "learned": 186,
-      "lastPush": 1788440278245
+      "index": 187,
+      "learned": 187,
+      "lastPush": 1788444099715
     }
   },
   "cache": {
@@ -1494,6 +1494,14 @@
       "pos": "",
       "en": "",
       "vi": "kiếm (tiền), giành (phần thưởng)"
+    },
+    "rent": {
+      "word": "rent",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "cho thuê, thuê"
     }
   },
   "offset": 425651725
