@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 189,
-      "learned": 189,
-      "lastPush": 1788452414351
+      "index": 190,
+      "learned": 190,
+      "lastPush": 1788476597166
     }
   },
   "cache": {
@@ -1518,6 +1518,14 @@
       "pos": "",
       "en": "",
       "vi": "gia nhập, tham gia; nối, chắp, ghép"
+    },
+    "belong": {
+      "word": "belong",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "thuộc về, của, thuộc quyển sở hữu"
     }
   },
   "offset": 425651725
