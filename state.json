@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 195,
-      "learned": 195,
-      "lastPush": 1788496450469
+      "index": 196,
+      "learned": 196,
+      "lastPush": 1788500359588
     }
   },
   "cache": {
@@ -1566,6 +1566,14 @@
       "pos": "verb",
       "en": "To receive pleasure or satisfaction from something",
       "vi": "thưởng thức"
+    },
+    "hope": {
+      "word": "hope",
+      "ipa": "/həʊp/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hope-us.mp3",
+      "pos": "verb",
+      "en": "To want something to happen, with a sense of expectation that it might.",
+      "vi": "mong"
     }
   },
   "offset": 425651725
