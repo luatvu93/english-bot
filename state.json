@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 193,
-      "learned": 193,
-      "lastPush": 1788488164091
+      "index": 194,
+      "learned": 194,
+      "lastPush": 1788492338985
     }
   },
   "cache": {
@@ -1550,6 +1550,14 @@
       "pos": "verb",
       "en": "To conquer, defeat.",
       "vi": "thắng"
+    },
+    "lose": {
+      "word": "lose",
+      "ipa": "/luːz/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lose-1-uk.mp3",
+      "pos": "verb",
+      "en": "To cause (something) to cease to be in one's possession or capability due to unfortunate or unknown circumstances, events or reasons.",
+      "vi": "mất, thua, lạc"
     }
   },
   "offset": 425651725
