@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 201,
-      "learned": 201,
-      "lastPush": 1788519690021
+      "index": 202,
+      "learned": 202,
+      "lastPush": 1788523547451
     }
   },
   "cache": {
@@ -1614,6 +1614,14 @@
       "pos": "",
       "en": "",
       "vi": "sự thuận lợi, lợi ích, lợi thế"
+    },
+    "disadvantage": {
+      "word": "disadvantage",
+      "ipa": "/ˌdɪsədˈvɑːntɪdʒ/",
+      "audio": "",
+      "pos": "noun",
+      "en": "A weakness or undesirable characteristic; a con.",
+      "vi": "bất lợi, thiệt hại"
     }
   },
   "offset": 425651725
