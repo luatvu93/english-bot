@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 198,
-      "learned": 198,
-      "lastPush": 1788508265267
+      "index": 199,
+      "learned": 199,
+      "lastPush": 1788512321461
     }
   },
   "cache": {
@@ -1590,6 +1590,14 @@
       "pos": "noun",
       "en": "A strong feeling of anxiety.",
       "vi": "lo lắng, suy nghĩ"
+    },
+    "relax": {
+      "word": "relax",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "giải trí, nghỉ ngơi"
     }
   },
   "offset": 425651725
