@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 194,
-      "learned": 194,
-      "lastPush": 1788492338985
+      "index": 195,
+      "learned": 195,
+      "lastPush": 1788496450469
     }
   },
   "cache": {
@@ -1558,6 +1558,14 @@
       "pos": "verb",
       "en": "To cause (something) to cease to be in one's possession or capability due to unfortunate or unknown circumstances, events or reasons.",
       "vi": "mất, thua, lạc"
+    },
+    "enjoy": {
+      "word": "enjoy",
+      "ipa": "/ənˈd͡ʒɔɪ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/enjoy-us.mp3",
+      "pos": "verb",
+      "en": "To receive pleasure or satisfaction from something",
+      "vi": "thưởng thức"
     }
   },
   "offset": 425651725
