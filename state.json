@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 202,
-      "learned": 202,
-      "lastPush": 1788523547451
+      "index": 203,
+      "learned": 203,
+      "lastPush": 1788527579795
     }
   },
   "cache": {
@@ -1622,6 +1622,14 @@
       "pos": "noun",
       "en": "A weakness or undesirable characteristic; a con.",
       "vi": "bất lợi, thiệt hại"
+    },
+    "opportunity": {
+      "word": "opportunity",
+      "ipa": "/ˌɒp.əˈtjuː.nɪ.tɪ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/opportunity-us.mp3",
+      "pos": "noun",
+      "en": "A chance for advancement, progress or profit.",
+      "vi": "cơ hội, thời cơ"
     }
   },
   "offset": 425651725
