@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 191,
-      "learned": 191,
-      "lastPush": 1788480199998
+      "index": 192,
+      "learned": 192,
+      "lastPush": 1788484111470
     }
   },
   "cache": {
@@ -1534,6 +1534,14 @@
       "pos": "verb",
       "en": "To follow in order; to come next after; hence, to take the place of.",
       "vi": "nối tiếp,kế vị"
+    },
+    "fail": {
+      "word": "fail",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "sai, thất bại"
     }
   },
   "offset": 425651725
