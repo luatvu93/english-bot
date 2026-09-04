@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 203,
-      "learned": 203,
-      "lastPush": 1788527579795
+      "index": 204,
+      "learned": 204,
+      "lastPush": 1788531532006
     }
   },
   "cache": {
@@ -1630,6 +1630,14 @@
       "pos": "noun",
       "en": "A chance for advancement, progress or profit.",
       "vi": "cơ hội, thời cơ"
+    },
+    "responsibility": {
+      "word": "responsibility",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "trách nhiệm, chịu trách nhiệm"
     }
   },
   "offset": 425651725
