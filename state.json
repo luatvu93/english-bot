@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 199,
-      "learned": 199,
-      "lastPush": 1788512321461
+      "index": 200,
+      "learned": 200,
+      "lastPush": 1788516061515
     }
   },
   "cache": {
@@ -1598,6 +1598,14 @@
       "pos": "",
       "en": "",
       "vi": "giải trí, nghỉ ngơi"
+    },
+    "celebrate": {
+      "word": "celebrate",
+      "ipa": "/ˈsɛl.ə.bɹeɪt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/celebrate-us.mp3",
+      "pos": "verb",
+      "en": "To extol or honour in a solemn manner.",
+      "vi": "Ăn mừng "
     }
   },
   "offset": 425651725
