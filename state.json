@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 200,
-      "learned": 200,
-      "lastPush": 1788516061515
+      "index": 201,
+      "learned": 201,
+      "lastPush": 1788519690021
     }
   },
   "cache": {
@@ -1606,6 +1606,14 @@
       "pos": "verb",
       "en": "To extol or honour in a solemn manner.",
       "vi": "Ăn mừng "
+    },
+    "advantage": {
+      "word": "advantage",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "sự thuận lợi, lợi ích, lợi thế"
     }
   },
   "offset": 425651725
