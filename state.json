@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 192,
-      "learned": 192,
-      "lastPush": 1788484111470
+      "index": 193,
+      "learned": 193,
+      "lastPush": 1788488164091
     }
   },
   "cache": {
@@ -1542,6 +1542,14 @@
       "pos": "",
       "en": "",
       "vi": "sai, thất bại"
+    },
+    "win": {
+      "word": "win",
+      "ipa": "/wɪn/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/win-uk.mp3",
+      "pos": "verb",
+      "en": "To conquer, defeat.",
+      "vi": "thắng"
     }
   },
   "offset": 425651725
