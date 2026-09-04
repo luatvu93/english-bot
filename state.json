@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 190,
-      "learned": 190,
-      "lastPush": 1788476597166
+      "index": 191,
+      "learned": 191,
+      "lastPush": 1788480199998
     }
   },
   "cache": {
@@ -1526,6 +1526,14 @@
       "pos": "",
       "en": "",
       "vi": "thuộc về, của, thuộc quyển sở hữu"
+    },
+    "succeed": {
+      "word": "succeed",
+      "ipa": "/səkˈsiːd/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/succeed-us.mp3",
+      "pos": "verb",
+      "en": "To follow in order; to come next after; hence, to take the place of.",
+      "vi": "nối tiếp,kế vị"
     }
   },
   "offset": 425651725
