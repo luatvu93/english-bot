@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 197,
-      "learned": 197,
-      "lastPush": 1788504629331
+      "index": 198,
+      "learned": 198,
+      "lastPush": 1788508265267
     }
   },
   "cache": {
@@ -1582,6 +1582,14 @@
       "pos": "noun",
       "en": "A desire, hope, or longing for something or for something to happen.",
       "vi": "ước, mong muốn"
+    },
+    "worry": {
+      "word": "worry",
+      "ipa": "/ˈwɒɹi/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/worry-us.mp3",
+      "pos": "noun",
+      "en": "A strong feeling of anxiety.",
+      "vi": "lo lắng, suy nghĩ"
     }
   },
   "offset": 425651725
