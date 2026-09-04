@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 204,
-      "learned": 204,
-      "lastPush": 1788531532006
+      "index": 205,
+      "learned": 205,
+      "lastPush": 1788535461384
     }
   },
   "cache": {
@@ -1638,6 +1638,14 @@
       "pos": "",
       "en": "",
       "vi": "trách nhiệm, chịu trách nhiệm"
+    },
+    "achievement": {
+      "word": "achievement",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "thành tích"
     }
   },
   "offset": 425651725
