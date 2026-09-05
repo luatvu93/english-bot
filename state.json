@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 213,
-      "learned": 213,
-      "lastPush": 1788586709247
+      "index": 214,
+      "learned": 214,
+      "lastPush": 1788590393998
     }
   },
   "cache": {
@@ -1710,6 +1710,14 @@
       "pos": "noun",
       "en": "An individual who provides labor to a company or another person.",
       "vi": "người lao động, người làm công"
+    },
+    "colleague": {
+      "word": "colleague",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "bạn đồng nghiệp"
     }
   },
   "offset": 425651725
