@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 220,
-      "learned": 220,
-      "lastPush": 1788612964873
+      "index": 221,
+      "learned": 221,
+      "lastPush": 1788616913633
     }
   },
   "cache": {
@@ -1766,6 +1766,14 @@
       "pos": "noun",
       "en": "Total income or cash flow minus expenditures. The money or other benefit a non-governmental organization or individual receives in exchange for products and services sold at an advertised price.",
       "vi": "thuận lợi, lợi ích, lợi nhuận"
+    },
+    "advertisement": {
+      "word": "advertisement",
+      "ipa": "/ədˈvɜːtɪsmənt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/advertisement-us.mp3",
+      "pos": "noun",
+      "en": "A commercial solicitation designed to sell some commodity, service or similar.",
+      "vi": "quảng cáo"
     }
   },
   "offset": 425651725
