@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 209,
-      "learned": 209,
-      "lastPush": 1788571065757
+      "index": 210,
+      "learned": 210,
+      "lastPush": 1788574870329
     }
   },
   "cache": {
@@ -1678,6 +1678,14 @@
       "pos": "",
       "en": "",
       "vi": "nghề nghiệp"
+    },
+    "salary": {
+      "word": "salary",
+      "ipa": "/ˈsælɚi/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/salary-us.mp3",
+      "pos": "noun",
+      "en": "A fixed amount of money paid to a worker, usually calculated on a monthly or annual basis, not hourly, as wages. Implies a degree of professionalism and/or autonomy.",
+      "vi": "lương"
     }
   },
   "offset": 425651725
