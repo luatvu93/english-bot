@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 218,
-      "learned": 218,
-      "lastPush": 1788605217357
+      "index": 219,
+      "learned": 219,
+      "lastPush": 1788609083097
     }
   },
   "cache": {
@@ -1750,6 +1750,14 @@
       "pos": "noun",
       "en": "Level of excellence.",
       "vi": "chất lượng"
+    },
+    "budget": {
+      "word": "budget",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "ngân sách"
     }
   },
   "offset": 425651725
