@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 208,
-      "learned": 208,
-      "lastPush": 1788567239540
+      "index": 209,
+      "learned": 209,
+      "lastPush": 1788571065757
     }
   },
   "cache": {
@@ -1670,6 +1670,14 @@
       "pos": "",
       "en": "",
       "vi": "kỹ năng"
+    },
+    "career": {
+      "word": "career",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "nghề nghiệp"
     }
   },
   "offset": 425651725
