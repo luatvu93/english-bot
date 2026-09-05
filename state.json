@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 211,
-      "learned": 211,
-      "lastPush": 1788579041380
+      "index": 212,
+      "learned": 212,
+      "lastPush": 1788583027124
     }
   },
   "cache": {
@@ -1694,6 +1694,14 @@
       "pos": "noun",
       "en": "An official face-to-face meeting of monarchs or other important figures.",
       "vi": "cuộc phỏng vấn, nói chuyện riêng "
+    },
+    "employer": {
+      "word": "employer",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "chủ, người sử dụng lao động"
     }
   },
   "offset": 425651725
