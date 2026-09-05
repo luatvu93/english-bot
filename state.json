@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 219,
-      "learned": 219,
-      "lastPush": 1788609083097
+      "index": 220,
+      "learned": 220,
+      "lastPush": 1788612964873
     }
   },
   "cache": {
@@ -1758,6 +1758,14 @@
       "pos": "",
       "en": "",
       "vi": "ngân sách"
+    },
+    "profit": {
+      "word": "profit",
+      "ipa": "/ˈpɹɒfɪt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/profit-us.mp3",
+      "pos": "noun",
+      "en": "Total income or cash flow minus expenditures. The money or other benefit a non-governmental organization or individual receives in exchange for products and services sold at an advertised price.",
+      "vi": "thuận lợi, lợi ích, lợi nhuận"
     }
   },
   "offset": 425651725
