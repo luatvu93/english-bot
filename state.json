@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 221,
-      "learned": 221,
-      "lastPush": 1788616913633
+      "index": 222,
+      "learned": 222,
+      "lastPush": 1788620473051
     }
   },
   "cache": {
@@ -1774,6 +1774,14 @@
       "pos": "noun",
       "en": "A commercial solicitation designed to sell some commodity, service or similar.",
       "vi": "quảng cáo"
+    },
+    "audience": {
+      "word": "audience",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "khán giả"
     }
   },
   "offset": 425651725
