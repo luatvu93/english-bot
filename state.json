@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 214,
-      "learned": 214,
-      "lastPush": 1788590393998
+      "index": 215,
+      "learned": 215,
+      "lastPush": 1788594133283
     }
   },
   "cache": {
@@ -1718,6 +1718,14 @@
       "pos": "",
       "en": "",
       "vi": "bạn đồng nghiệp"
+    },
+    "customer": {
+      "word": "customer",
+      "ipa": "/ˈkʌstəmə/",
+      "audio": "",
+      "pos": "noun",
+      "en": "A patron, a client; one who purchases or receives a product or service from a business or merchant, or intends to do so.",
+      "vi": "khách hàng"
     }
   },
   "offset": 425651725
