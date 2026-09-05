@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 222,
-      "learned": 222,
-      "lastPush": 1788620473051
+      "index": 223,
+      "learned": 223,
+      "lastPush": 1788624091417
     }
   },
   "cache": {
@@ -1782,6 +1782,14 @@
       "pos": "",
       "en": "",
       "vi": "khán giả"
+    },
+    "society": {
+      "word": "society",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "society"
     }
   },
   "offset": 425651725
