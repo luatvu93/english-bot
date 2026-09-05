@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 217,
-      "learned": 217,
-      "lastPush": 1788601648389
+      "index": 218,
+      "learned": 218,
+      "lastPush": 1788605217357
     }
   },
   "cache": {
@@ -1742,6 +1742,14 @@
       "pos": "noun",
       "en": "An act of being of assistance to someone.",
       "vi": "dịch vụ"
+    },
+    "quality": {
+      "word": "quality",
+      "ipa": "/ˈkwɒlɪti/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/quality-us.mp3",
+      "pos": "noun",
+      "en": "Level of excellence.",
+      "vi": "chất lượng"
     }
   },
   "offset": 425651725
