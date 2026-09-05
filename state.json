@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 216,
-      "learned": 216,
-      "lastPush": 1788598030102
+      "index": 217,
+      "learned": 217,
+      "lastPush": 1788601648389
     }
   },
   "cache": {
@@ -1734,6 +1734,14 @@
       "pos": "",
       "en": "",
       "vi": "sản phẩm"
+    },
+    "service": {
+      "word": "service",
+      "ipa": "/ˈsɜːvɪs/",
+      "audio": "",
+      "pos": "noun",
+      "en": "An act of being of assistance to someone.",
+      "vi": "dịch vụ"
     }
   },
   "offset": 425651725
