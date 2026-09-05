@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 212,
-      "learned": 212,
-      "lastPush": 1788583027124
+      "index": 213,
+      "learned": 213,
+      "lastPush": 1788586709247
     }
   },
   "cache": {
@@ -1702,6 +1702,14 @@
       "pos": "",
       "en": "",
       "vi": "chủ, người sử dụng lao động"
+    },
+    "employee": {
+      "word": "employee",
+      "ipa": "/(ˌ)ɪm-/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/employee-us.mp3",
+      "pos": "noun",
+      "en": "An individual who provides labor to a company or another person.",
+      "vi": "người lao động, người làm công"
     }
   },
   "offset": 425651725
