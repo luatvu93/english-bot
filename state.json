@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 223,
-      "learned": 223,
-      "lastPush": 1788624091417
+      "index": 224,
+      "learned": 224,
+      "lastPush": 1788649391799
     }
   },
   "cache": {
@@ -1790,6 +1790,14 @@
       "pos": "",
       "en": "",
       "vi": "society"
+    },
+    "culture": {
+      "word": "culture",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "văn hóa"
     }
   },
   "offset": 425651725
