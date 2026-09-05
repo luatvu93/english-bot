@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 210,
-      "learned": 210,
-      "lastPush": 1788574870329
+      "index": 211,
+      "learned": 211,
+      "lastPush": 1788579041380
     }
   },
   "cache": {
@@ -1686,6 +1686,14 @@
       "pos": "noun",
       "en": "A fixed amount of money paid to a worker, usually calculated on a monthly or annual basis, not hourly, as wages. Implies a degree of professionalism and/or autonomy.",
       "vi": "lương"
+    },
+    "interview": {
+      "word": "interview",
+      "ipa": "/ˈɪntəvjuː/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/interview-us.mp3",
+      "pos": "noun",
+      "en": "An official face-to-face meeting of monarchs or other important figures.",
+      "vi": "cuộc phỏng vấn, nói chuyện riêng "
     }
   },
   "offset": 425651725
