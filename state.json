@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 232,
-      "learned": 232,
-      "lastPush": 1788680524107
+      "index": 233,
+      "learned": 233,
+      "lastPush": 1788684193222
     }
   },
   "cache": {
@@ -1862,6 +1862,14 @@
       "pos": "",
       "en": "",
       "vi": "ô nhiễm"
+    },
+    "climate": {
+      "word": "climate",
+      "ipa": "/ˈklaɪmɪt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/climate-us.mp3",
+      "pos": "noun",
+      "en": "An area of the earth's surface between two parallels of latitude.",
+      "vi": "khí hậu, thời tiết"
     }
   },
   "offset": 425651725
