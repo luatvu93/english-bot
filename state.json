@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 236,
-      "learned": 236,
-      "lastPush": 1788695502777
+      "index": 237,
+      "learned": 237,
+      "lastPush": 1788699088661
     }
   },
   "cache": {
@@ -1894,6 +1894,14 @@
       "pos": "",
       "en": "",
       "vi": "dân số"
+    },
+    "development": {
+      "word": "development",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "phát triển"
     }
   },
   "offset": 425651725
