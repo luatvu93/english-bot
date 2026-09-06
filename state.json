@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 224,
-      "learned": 224,
-      "lastPush": 1788649391799
+      "index": 225,
+      "learned": 225,
+      "lastPush": 1788653875021
     }
   },
   "cache": {
@@ -1798,6 +1798,14 @@
       "pos": "",
       "en": "",
       "vi": "văn hóa"
+    },
+    "tradition": {
+      "word": "tradition",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "truyền thống"
     }
   },
   "offset": 425651725
