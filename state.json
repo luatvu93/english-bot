@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 231,
-      "learned": 231,
-      "lastPush": 1788676921280
+      "index": 232,
+      "learned": 232,
+      "lastPush": 1788680524107
     }
   },
   "cache": {
@@ -1854,6 +1854,14 @@
       "pos": "noun",
       "en": "The surroundings of, and influences on, a particular item of interest.",
       "vi": "môi trường, hoàn cảnh xung quanh"
+    },
+    "pollution": {
+      "word": "pollution",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "ô nhiễm"
     }
   },
   "offset": 425651725
