@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 229,
-      "learned": 229,
-      "lastPush": 1788669144894
+      "index": 230,
+      "learned": 230,
+      "lastPush": 1788673081825
     }
   },
   "cache": {
@@ -1838,6 +1838,14 @@
       "pos": "",
       "en": "",
       "vi": "công dân"
+    },
+    "community": {
+      "word": "community",
+      "ipa": "/k(ə)ˈmjunəti/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/community-au.mp3",
+      "pos": "noun",
+      "en": "A group sharing a common understanding, and often the same language, law, manners, and/or tradition.",
+      "vi": "community"
     }
   },
   "offset": 425651725
