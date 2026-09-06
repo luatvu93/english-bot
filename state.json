@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 238,
-      "learned": 238,
-      "lastPush": 1788702762597
+      "index": 239,
+      "learned": 239,
+      "lastPush": 1788706477265
     }
   },
   "cache": {
@@ -1910,6 +1910,14 @@
       "pos": "",
       "en": "",
       "vi": "tiến bộ, tiến triển, phát triển"
+    },
+    "solution": {
+      "word": "solution",
+      "ipa": "/səˈl(j)uːʃən/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/solution-us.mp3",
+      "pos": "noun",
+      "en": "A homogeneous mixture, which may be liquid, gas or solid, formed by dissolving one or more substances.",
+      "vi": "dung dịch"
     }
   },
   "offset": 425651725
