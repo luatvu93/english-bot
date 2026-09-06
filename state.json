@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 230,
-      "learned": 230,
-      "lastPush": 1788673081825
+      "index": 231,
+      "learned": 231,
+      "lastPush": 1788676921280
     }
   },
   "cache": {
@@ -1846,6 +1846,14 @@
       "pos": "noun",
       "en": "A group sharing a common understanding, and often the same language, law, manners, and/or tradition.",
       "vi": "community"
+    },
+    "environment": {
+      "word": "environment",
+      "ipa": "/-mɪnt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/environment-uk.mp3",
+      "pos": "noun",
+      "en": "The surroundings of, and influences on, a particular item of interest.",
+      "vi": "môi trường, hoàn cảnh xung quanh"
     }
   },
   "offset": 425651725
