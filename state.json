@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 226,
-      "learned": 226,
-      "lastPush": 1788657926802
+      "index": 227,
+      "learned": 227,
+      "lastPush": 1788661928875
     }
   },
   "cache": {
@@ -1814,6 +1814,14 @@
       "pos": "",
       "en": "",
       "vi": "tôn giáo"
+    },
+    "government": {
+      "word": "government",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "chính phủ, nội các; sự cai trị"
     }
   },
   "offset": 425651725
