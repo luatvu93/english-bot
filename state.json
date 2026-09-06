@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 227,
-      "learned": 227,
-      "lastPush": 1788661928875
+      "index": 228,
+      "learned": 228,
+      "lastPush": 1788665531619
     }
   },
   "cache": {
@@ -1822,6 +1822,14 @@
       "pos": "",
       "en": "",
       "vi": "chính phủ, nội các; sự cai trị"
+    },
+    "election": {
+      "word": "election",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "bỏ phiếu"
     }
   },
   "offset": 425651725
