@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 237,
-      "learned": 237,
-      "lastPush": 1788699088661
+      "index": 238,
+      "learned": 238,
+      "lastPush": 1788702762597
     }
   },
   "cache": {
@@ -1902,6 +1902,14 @@
       "pos": "",
       "en": "",
       "vi": "phát triển"
+    },
+    "progress": {
+      "word": "progress",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tiến bộ, tiến triển, phát triển"
     }
   },
   "offset": 425651725
