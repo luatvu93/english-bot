@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 240,
-      "learned": 240,
-      "lastPush": 1788710232320
+      "index": 241,
+      "learned": 241,
+      "lastPush": 1788735771513
     }
   },
   "cache": {
@@ -1926,6 +1926,14 @@
       "pos": "noun",
       "en": "A difficulty that has to be resolved or dealt with.",
       "vi": "vấn để, điểu khó giải quyết"
+    },
+    "reason": {
+      "word": "reason",
+      "ipa": "/ˈɹiːzən/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reason-us.mp3",
+      "pos": "noun",
+      "en": "A cause:",
+      "vi": "lý do"
     }
   },
   "offset": 425651725
