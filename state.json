@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 234,
-      "learned": 234,
-      "lastPush": 1788688065338
+      "index": 235,
+      "learned": 235,
+      "lastPush": 1788691893218
     }
   },
   "cache": {
@@ -1878,6 +1878,14 @@
       "pos": "",
       "en": "",
       "vi": "năng lượng, nghị lực, sinh lực"
+    },
+    "resource": {
+      "word": "resource",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tài nguyên; kế sách, thủ đoạn "
     }
   },
   "offset": 425651725
