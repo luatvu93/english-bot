@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 228,
-      "learned": 228,
-      "lastPush": 1788665531619
+      "index": 229,
+      "learned": 229,
+      "lastPush": 1788669144894
     }
   },
   "cache": {
@@ -1830,6 +1830,14 @@
       "pos": "",
       "en": "",
       "vi": "bỏ phiếu"
+    },
+    "citizen": {
+      "word": "citizen",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "công dân"
     }
   },
   "offset": 425651725
