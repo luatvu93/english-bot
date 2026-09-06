@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 233,
-      "learned": 233,
-      "lastPush": 1788684193222
+      "index": 234,
+      "learned": 234,
+      "lastPush": 1788688065338
     }
   },
   "cache": {
@@ -1870,6 +1870,14 @@
       "pos": "noun",
       "en": "An area of the earth's surface between two parallels of latitude.",
       "vi": "khí hậu, thời tiết"
+    },
+    "energy": {
+      "word": "energy",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "năng lượng, nghị lực, sinh lực"
     }
   },
   "offset": 425651725
