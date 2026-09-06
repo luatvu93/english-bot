@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 235,
-      "learned": 235,
-      "lastPush": 1788691893218
+      "index": 236,
+      "learned": 236,
+      "lastPush": 1788695502777
     }
   },
   "cache": {
@@ -1886,6 +1886,14 @@
       "pos": "",
       "en": "",
       "vi": "tài nguyên; kế sách, thủ đoạn "
+    },
+    "population": {
+      "word": "population",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "dân số"
     }
   },
   "offset": 425651725
