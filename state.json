@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 242,
-      "learned": 242,
-      "lastPush": 1788739405578
+      "index": 243,
+      "learned": 243,
+      "lastPush": 1788743374088
     }
   },
   "cache": {
@@ -1942,6 +1942,14 @@
       "pos": "noun",
       "en": "That which results; the conclusion or end to which any course or condition of things leads, or which is obtained by any process or operation; consequence or effect.",
       "vi": "kết quả"
+    },
+    "effect": {
+      "word": "effect",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Tác động "
     }
   },
   "offset": 425651725
