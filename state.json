@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 257,
-      "learned": 257,
-      "lastPush": 1788799628741
+      "index": 258,
+      "learned": 258,
+      "lastPush": 1788822219042
     }
   },
   "cache": {
@@ -2062,6 +2062,14 @@
       "pos": "",
       "en": "",
       "vi": "tính kiên nhẫn, sự chịu đựng"
+    },
+    "pressure": {
+      "word": "pressure",
+      "ipa": "[ˈpɹɛʃ.ə(ɹ)]",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pressure-us.mp3",
+      "pos": "noun",
+      "en": "A pressing; a force applied to a surface.",
+      "vi": "áp suất"
     }
   },
   "offset": 425651725
