@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 241,
-      "learned": 241,
-      "lastPush": 1788735771513
+      "index": 242,
+      "learned": 242,
+      "lastPush": 1788739405578
     }
   },
   "cache": {
@@ -1934,6 +1934,14 @@
       "pos": "noun",
       "en": "A cause:",
       "vi": "lý do"
+    },
+    "result": {
+      "word": "result",
+      "ipa": "/ɹɪˈzʌlt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/result-us.mp3",
+      "pos": "noun",
+      "en": "That which results; the conclusion or end to which any course or condition of things leads, or which is obtained by any process or operation; consequence or effect.",
+      "vi": "kết quả"
     }
   },
   "offset": 425651725
