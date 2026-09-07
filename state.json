@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 252,
-      "learned": 252,
-      "lastPush": 1788779081097
+      "index": 253,
+      "learned": 253,
+      "lastPush": 1788783614896
     }
   },
   "cache": {
@@ -2022,6 +2022,14 @@
       "pos": "",
       "en": "",
       "vi": "ý kiến, quan điểm"
+    },
+    "attitude": {
+      "word": "attitude",
+      "ipa": "/ˈætɪˌtjuːd/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/attitude-us.mp3",
+      "pos": "noun",
+      "en": "The position of the body or way of carrying oneself.",
+      "vi": "góc nghiêng"
     }
   },
   "offset": 425651725
