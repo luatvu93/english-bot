@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 249,
-      "learned": 249,
-      "lastPush": 1788767801149
+      "index": 250,
+      "learned": 250,
+      "lastPush": 1788771511234
     }
   },
   "cache": {
@@ -1998,6 +1998,14 @@
       "pos": "",
       "en": "",
       "vi": "điều hiến nhiên, điều rõ ràng"
+    },
+    "example": {
+      "word": "example",
+      "ipa": "/əɡˈzæmpl̩/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/example-us.mp3",
+      "pos": "noun",
+      "en": "Something that is representative of all such things in a group.",
+      "vi": "thí dụ"
     }
   },
   "offset": 425651725
