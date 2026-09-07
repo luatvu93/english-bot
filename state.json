@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 253,
-      "learned": 253,
-      "lastPush": 1788783614896
+      "index": 254,
+      "learned": 254,
+      "lastPush": 1788787897866
     }
   },
   "cache": {
@@ -2030,6 +2030,14 @@
       "pos": "noun",
       "en": "The position of the body or way of carrying oneself.",
       "vi": "góc nghiêng"
+    },
+    "behaviour": {
+      "word": "behaviour",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "hành vi"
     }
   },
   "offset": 425651725
