@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 256,
-      "learned": 256,
-      "lastPush": 1788795724977
+      "index": 257,
+      "learned": 257,
+      "lastPush": 1788799628741
     }
   },
   "cache": {
@@ -2054,6 +2054,14 @@
       "pos": "noun",
       "en": "Self-assurance.",
       "vi": "tin tưởng, tin cậy, tự tin"
+    },
+    "patience": {
+      "word": "patience",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tính kiên nhẫn, sự chịu đựng"
     }
   },
   "offset": 425651725
