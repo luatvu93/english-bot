@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 246,
-      "learned": 246,
-      "lastPush": 1788755558786
+      "index": 247,
+      "learned": 247,
+      "lastPush": 1788759652371
     }
   },
   "cache": {
@@ -1974,6 +1974,14 @@
       "pos": "noun",
       "en": "A series of events which produce a result (the product).",
       "vi": "Quy trình sản xuất"
+    },
+    "system": {
+      "word": "system",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "hệ thống"
     }
   },
   "offset": 425651725
