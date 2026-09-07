@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 243,
-      "learned": 243,
-      "lastPush": 1788743374088
+      "index": 244,
+      "learned": 244,
+      "lastPush": 1788747177923
     }
   },
   "cache": {
@@ -1950,6 +1950,14 @@
       "pos": "",
       "en": "",
       "vi": "Tác động "
+    },
+    "purpose": {
+      "word": "purpose",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "mục đích"
     }
   },
   "offset": 425651725
