@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 254,
-      "learned": 254,
-      "lastPush": 1788787897866
+      "index": 255,
+      "learned": 255,
+      "lastPush": 1788791522068
     }
   },
   "cache": {
@@ -2038,6 +2038,14 @@
       "pos": "",
       "en": "",
       "vi": "hành vi"
+    },
+    "relationship": {
+      "word": "relationship",
+      "ipa": "/ɹɪˈleɪʃ(ə)nʃɪp/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/relationship-us.mp3",
+      "pos": "noun",
+      "en": "Connection or association; the condition of being related.",
+      "vi": "mối quan hệ"
     }
   },
   "offset": 425651725
