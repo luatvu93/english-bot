@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 248,
-      "learned": 248,
-      "lastPush": 1788763899225
+      "index": 249,
+      "learned": 249,
+      "lastPush": 1788767801149
     }
   },
   "cache": {
@@ -1990,6 +1990,14 @@
       "pos": "",
       "en": "",
       "vi": "kết cấu, cấu trúc"
+    },
+    "evidence": {
+      "word": "evidence",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "điều hiến nhiên, điều rõ ràng"
     }
   },
   "offset": 425651725
