@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 251,
-      "learned": 251,
-      "lastPush": 1788775160425
+      "index": 252,
+      "learned": 252,
+      "lastPush": 1788779081097
     }
   },
   "cache": {
@@ -2014,6 +2014,14 @@
       "pos": "",
       "en": "",
       "vi": "lý lẽ"
+    },
+    "opinion": {
+      "word": "opinion",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "ý kiến, quan điểm"
     }
   },
   "offset": 425651725
