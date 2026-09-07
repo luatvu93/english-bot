@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 245,
-      "learned": 245,
-      "lastPush": 1788751259015
+      "index": 246,
+      "learned": 246,
+      "lastPush": 1788755558786
     }
   },
   "cache": {
@@ -1966,6 +1966,14 @@
       "pos": "noun",
       "en": "A process by which a task is completed; a way of doing something (followed by the adposition of, to or for before the purpose of the process):",
       "vi": "phương pháp, cách thức"
+    },
+    "process": {
+      "word": "process",
+      "ipa": "/ˈpɹoʊsɛs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/process-1-uk.mp3",
+      "pos": "noun",
+      "en": "A series of events which produce a result (the product).",
+      "vi": "Quy trình sản xuất"
     }
   },
   "offset": 425651725
