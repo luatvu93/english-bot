@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 244,
-      "learned": 244,
-      "lastPush": 1788747177923
+      "index": 245,
+      "learned": 245,
+      "lastPush": 1788751259015
     }
   },
   "cache": {
@@ -1958,6 +1958,14 @@
       "pos": "",
       "en": "",
       "vi": "mục đích"
+    },
+    "method": {
+      "word": "method",
+      "ipa": "/ˈmɛθəd/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/method-us.mp3",
+      "pos": "noun",
+      "en": "A process by which a task is completed; a way of doing something (followed by the adposition of, to or for before the purpose of the process):",
+      "vi": "phương pháp, cách thức"
     }
   },
   "offset": 425651725
