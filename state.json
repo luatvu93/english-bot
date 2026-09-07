@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 250,
-      "learned": 250,
-      "lastPush": 1788771511234
+      "index": 251,
+      "learned": 251,
+      "lastPush": 1788775160425
     }
   },
   "cache": {
@@ -2006,6 +2006,14 @@
       "pos": "noun",
       "en": "Something that is representative of all such things in a group.",
       "vi": "thí dụ"
+    },
+    "argument": {
+      "word": "argument",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "lý lẽ"
     }
   },
   "offset": 425651725
