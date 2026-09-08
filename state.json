@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 258,
-      "learned": 258,
-      "lastPush": 1788822219042
+      "index": 259,
+      "learned": 259,
+      "lastPush": 1788826147189
     }
   },
   "cache": {
@@ -2070,6 +2070,14 @@
       "pos": "noun",
       "en": "A pressing; a force applied to a surface.",
       "vi": "áp suất"
+    },
+    "stress": {
+      "word": "stress",
+      "ipa": "/stɹɛs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/stress-us.mp3",
+      "pos": "noun",
+      "en": "(Cause of) discomfort.",
+      "vi": "căng thẳng"
     }
   },
   "offset": 425651725
