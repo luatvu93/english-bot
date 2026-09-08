@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 262,
-      "learned": 262,
-      "lastPush": 1788838309898
+      "index": 263,
+      "learned": 263,
+      "lastPush": 1788842580115
     }
   },
   "cache": {
@@ -2102,6 +2102,14 @@
       "pos": "verb",
       "en": "To change with a specific direction, progress.",
       "vi": "phát triển"
+    },
+    "provide": {
+      "word": "provide",
+      "ipa": "/pɹəˈvaɪd/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/provide-us.mp3",
+      "pos": "verb",
+      "en": "To make a living; earn money for necessities.",
+      "vi": ""
     }
   },
   "offset": 425651725
