@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 259,
-      "learned": 259,
-      "lastPush": 1788826147189
+      "index": 260,
+      "learned": 260,
+      "lastPush": 1788829996936
     }
   },
   "cache": {
@@ -2078,6 +2078,14 @@
       "pos": "noun",
       "en": "(Cause of) discomfort.",
       "vi": "căng thẳng"
+    },
+    "challenge": {
+      "word": "challenge",
+      "ipa": "/ˈtʃæl.əndʒ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/challenge-us.mp3",
+      "pos": "noun",
+      "en": "A confrontation; a dare.",
+      "vi": ""
     }
   },
   "offset": 425651725
