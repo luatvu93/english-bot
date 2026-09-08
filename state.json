@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 273,
-      "learned": 273,
-      "lastPush": 1788881476114
+      "index": 274,
+      "learned": 274,
+      "lastPush": 1788885384082
     }
   },
   "cache": {
@@ -2190,6 +2190,14 @@
       "pos": "verb",
       "en": "To think about seriously.",
       "vi": "cân nhắc, xem xét"
+    },
+    "realise": {
+      "word": "realise",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Nhật thức"
     }
   },
   "offset": 425651725
