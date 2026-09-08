@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 270,
-      "learned": 270,
-      "lastPush": 1788869686969
+      "index": 271,
+      "learned": 271,
+      "lastPush": 1788873524394
     }
   },
   "cache": {
@@ -2166,6 +2166,14 @@
       "pos": "verb",
       "en": "To stop (an outcome); to keep from (doing something).",
       "vi": "ngăn cản, ngăn chặn, ngăn ngừa"
+    },
+    "encourage": {
+      "word": "encourage",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "động viên, ủng hộ, giúp đỡ"
     }
   },
   "offset": 425651725
