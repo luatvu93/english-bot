@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 261,
-      "learned": 261,
-      "lastPush": 1788834111356
+      "index": 262,
+      "learned": 262,
+      "lastPush": 1788838309898
     }
   },
   "cache": {
@@ -2094,6 +2094,14 @@
       "pos": "verb",
       "en": "To succeed in something, now especially in academic performance.",
       "vi": "đạt được"
+    },
+    "develop": {
+      "word": "develop",
+      "ipa": "/dɛˈvɛ.ləp/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/develop-us.mp3",
+      "pos": "verb",
+      "en": "To change with a specific direction, progress.",
+      "vi": "phát triển"
     }
   },
   "offset": 425651725
