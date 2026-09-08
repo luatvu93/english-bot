@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 274,
-      "learned": 274,
-      "lastPush": 1788885384082
+      "index": 275,
+      "learned": 275,
+      "lastPush": 1788908598224
     }
   },
   "cache": {
@@ -2198,6 +2198,14 @@
       "pos": "",
       "en": "",
       "vi": "Nhật thức"
+    },
+    "recognise": {
+      "word": "recognise",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Biên lai, giấy chứng nhận"
     }
   },
   "offset": 425651725
