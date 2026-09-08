@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 266,
-      "learned": 266,
-      "lastPush": 1788854164270
+      "index": 267,
+      "learned": 267,
+      "lastPush": 1788857860771
     }
   },
   "cache": {
@@ -2134,6 +2134,14 @@
       "pos": "verb",
       "en": "To influence or alter.",
       "vi": "làm ảnh hưởng, tác động đến"
+    },
+    "increase": {
+      "word": "increase",
+      "ipa": "",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/increase-us.mp3",
+      "pos": "noun",
+      "en": "An amount by which a quantity is increased.",
+      "vi": "Tăng"
     }
   },
   "offset": 425651725
