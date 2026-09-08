@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 267,
-      "learned": 267,
-      "lastPush": 1788857860771
+      "index": 268,
+      "learned": 268,
+      "lastPush": 1788861414904
     }
   },
   "cache": {
@@ -2142,6 +2142,14 @@
       "pos": "noun",
       "en": "An amount by which a quantity is increased.",
       "vi": "Tăng"
+    },
+    "reduce": {
+      "word": "reduce",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "giảm, giảm bớt"
     }
   },
   "offset": 425651725
