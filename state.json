@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 265,
-      "learned": 265,
-      "lastPush": 1788850460932
+      "index": 266,
+      "learned": 266,
+      "lastPush": 1788854164270
     }
   },
   "cache": {
@@ -2126,6 +2126,14 @@
       "pos": "",
       "en": "",
       "vi": "liên quan đến"
+    },
+    "affect": {
+      "word": "affect",
+      "ipa": "/əˈfɛkt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/affect-1-au.mp3",
+      "pos": "verb",
+      "en": "To influence or alter.",
+      "vi": "làm ảnh hưởng, tác động đến"
     }
   },
   "offset": 425651725
