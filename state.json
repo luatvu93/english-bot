@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 272,
-      "learned": 272,
-      "lastPush": 1788877536413
+      "index": 273,
+      "learned": 273,
+      "lastPush": 1788881476114
     }
   },
   "cache": {
@@ -2182,6 +2182,14 @@
       "pos": "",
       "en": "",
       "vi": "khuyến khích"
+    },
+    "consider": {
+      "word": "consider",
+      "ipa": "/kənˈsɪdə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/consider-us.mp3",
+      "pos": "verb",
+      "en": "To think about seriously.",
+      "vi": "cân nhắc, xem xét"
     }
   },
   "offset": 425651725
