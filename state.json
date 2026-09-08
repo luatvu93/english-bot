@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 268,
-      "learned": 268,
-      "lastPush": 1788861414904
+      "index": 269,
+      "learned": 269,
+      "lastPush": 1788865406907
     }
   },
   "cache": {
@@ -2150,6 +2150,14 @@
       "pos": "",
       "en": "",
       "vi": "giảm, giảm bớt"
+    },
+    "avoid": {
+      "word": "avoid",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tránh, tránh xa"
     }
   },
   "offset": 425651725
