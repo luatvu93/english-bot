@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 269,
-      "learned": 269,
-      "lastPush": 1788865406907
+      "index": 270,
+      "learned": 270,
+      "lastPush": 1788869686969
     }
   },
   "cache": {
@@ -2158,6 +2158,14 @@
       "pos": "",
       "en": "",
       "vi": "tránh, tránh xa"
+    },
+    "prevent": {
+      "word": "prevent",
+      "ipa": "/pɹəˈvɛnt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prevent-us.mp3",
+      "pos": "verb",
+      "en": "To stop (an outcome); to keep from (doing something).",
+      "vi": "ngăn cản, ngăn chặn, ngăn ngừa"
     }
   },
   "offset": 425651725
