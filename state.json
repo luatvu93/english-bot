@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 263,
-      "learned": 263,
-      "lastPush": 1788842580115
+      "index": 264,
+      "learned": 264,
+      "lastPush": 1788846454773
     }
   },
   "cache": {
@@ -2110,6 +2110,14 @@
       "pos": "verb",
       "en": "To make a living; earn money for necessities.",
       "vi": ""
+    },
+    "require": {
+      "word": "require",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "yêu cầu"
     }
   },
   "offset": 425651725
