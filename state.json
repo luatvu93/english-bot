@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 287,
-      "learned": 287,
-      "lastPush": 1788958378502
+      "index": 288,
+      "learned": 288,
+      "lastPush": 1788962123124
     }
   },
   "cache": {
@@ -2302,6 +2302,14 @@
       "pos": "",
       "en": "",
       "vi": "Chấp nhận"
+    },
+    "apply": {
+      "word": "apply",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "gắn vào, ghép vào, áp dụng vào"
     }
   },
   "offset": 425651725
