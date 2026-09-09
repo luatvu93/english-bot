@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 290,
-      "learned": 290,
-      "lastPush": 1788969898653
+      "index": 291,
+      "learned": 291,
+      "lastPush": 1788994995316
     }
   },
   "cache": {
@@ -2326,6 +2326,14 @@
       "pos": "",
       "en": "",
       "vi": "Sắp xếp "
+    },
+    "available": {
+      "word": "available",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Còn trống"
     }
   },
   "offset": 425651725
