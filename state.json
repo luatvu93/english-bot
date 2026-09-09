@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 285,
-      "learned": 285,
-      "lastPush": 1788950380898
+      "index": 286,
+      "learned": 286,
+      "lastPush": 1788954332312
     }
   },
   "cache": {
@@ -2286,6 +2286,14 @@
       "pos": "verb",
       "en": "To allow to enter; to grant entrance (to), whether into a place, into the mind, or into consideration",
       "vi": "nhận vào"
+    },
+    "refuse": {
+      "word": "refuse",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "từ chối, khước từ"
     }
   },
   "offset": 425651725
