@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 282,
-      "learned": 282,
-      "lastPush": 1788937272142
+      "index": 283,
+      "learned": 283,
+      "lastPush": 1788941677125
     }
   },
   "cache": {
@@ -2262,6 +2262,14 @@
       "pos": "",
       "en": "",
       "vi": "đề cập"
+    },
+    "discuss": {
+      "word": "discuss",
+      "ipa": "/dɪsˈkʊs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/discuss-us.mp3",
+      "pos": "verb",
+      "en": "To converse or debate concerning a particular topic.",
+      "vi": "thảo luận, tranh luận"
     }
   },
   "offset": 425651725
