@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 284,
-      "learned": 284,
-      "lastPush": 1788946096452
+      "index": 285,
+      "learned": 285,
+      "lastPush": 1788950380898
     }
   },
   "cache": {
@@ -2278,6 +2278,14 @@
       "pos": "",
       "en": "",
       "vi": "thảo luận, bàn luận, lý luận; phán đoán"
+    },
+    "admit": {
+      "word": "admit",
+      "ipa": "/ədˈmɪt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/admit-us.mp3",
+      "pos": "verb",
+      "en": "To allow to enter; to grant entrance (to), whether into a place, into the mind, or into consideration",
+      "vi": "nhận vào"
     }
   },
   "offset": 425651725
