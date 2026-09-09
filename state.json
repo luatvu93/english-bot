@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 288,
-      "learned": 288,
-      "lastPush": 1788962123124
+      "index": 289,
+      "learned": 289,
+      "lastPush": 1788965818263
     }
   },
   "cache": {
@@ -2310,6 +2310,14 @@
       "pos": "",
       "en": "",
       "vi": "gắn vào, ghép vào, áp dụng vào"
+    },
+    "manage": {
+      "word": "manage",
+      "ipa": "/ˈmænɪdʒ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/manage-us.mp3",
+      "pos": "noun",
+      "en": "The act of managing or controlling something.",
+      "vi": "quản lý"
     }
   },
   "offset": 425651725
