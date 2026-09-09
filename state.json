@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 283,
-      "learned": 283,
-      "lastPush": 1788941677125
+      "index": 284,
+      "learned": 284,
+      "lastPush": 1788946096452
     }
   },
   "cache": {
@@ -2270,6 +2270,14 @@
       "pos": "verb",
       "en": "To converse or debate concerning a particular topic.",
       "vi": "thảo luận, tranh luận"
+    },
+    "argue": {
+      "word": "argue",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "thảo luận, bàn luận, lý luận; phán đoán"
     }
   },
   "offset": 425651725
