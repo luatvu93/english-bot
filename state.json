@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 286,
-      "learned": 286,
-      "lastPush": 1788954332312
+      "index": 287,
+      "learned": 287,
+      "lastPush": 1788958378502
     }
   },
   "cache": {
@@ -2294,6 +2294,14 @@
       "pos": "",
       "en": "",
       "vi": "từ chối, khước từ"
+    },
+    "accept": {
+      "word": "accept",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Chấp nhận"
     }
   },
   "offset": 425651725
