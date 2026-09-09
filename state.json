@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 279,
-      "learned": 279,
-      "lastPush": 1788925489902
+      "index": 280,
+      "learned": 280,
+      "lastPush": 1788929567036
     }
   },
   "cache": {
@@ -2238,6 +2238,14 @@
       "pos": "verb",
       "en": "To restore to a former place, position, condition, etc.; to put back",
       "vi": "thay thế"
+    },
+    "introduce": {
+      "word": "introduce",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "giới thiệu"
     }
   },
   "offset": 425651725
