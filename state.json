@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 276,
-      "learned": 276,
-      "lastPush": 1788912958972
+      "index": 277,
+      "learned": 277,
+      "lastPush": 1788917229026
     }
   },
   "cache": {
@@ -2214,6 +2214,14 @@
       "pos": "verb",
       "en": "To find or learn something for the first time.",
       "vi": "khám phá, phát hiện ra, nhận ra"
+    },
+    "support": {
+      "word": "support",
+      "ipa": "/səˈpɔːt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/support-us.mp3",
+      "pos": "noun",
+      "en": "(sometimes attributive) Something which supports.",
+      "vi": "hỗ trợ"
     }
   },
   "offset": 425651725
