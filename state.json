@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 289,
-      "learned": 289,
-      "lastPush": 1788965818263
+      "index": 290,
+      "learned": 290,
+      "lastPush": 1788969898653
     }
   },
   "cache": {
@@ -2318,6 +2318,14 @@
       "pos": "noun",
       "en": "The act of managing or controlling something.",
       "vi": "quản lý"
+    },
+    "organise": {
+      "word": "organise",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Sắp xếp "
     }
   },
   "offset": 425651725
