@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 278,
-      "learned": 278,
-      "lastPush": 1788921300439
+      "index": 279,
+      "learned": 279,
+      "lastPush": 1788925489902
     }
   },
   "cache": {
@@ -2230,6 +2230,14 @@
       "pos": "verb",
       "en": "To keep safe; to defend; to guard; to prevent harm coming to.",
       "vi": "bảo vệ, che chở"
+    },
+    "replace": {
+      "word": "replace",
+      "ipa": "/ɹɪˈpleɪs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/replace-us.mp3",
+      "pos": "verb",
+      "en": "To restore to a former place, position, condition, etc.; to put back",
+      "vi": "thay thế"
     }
   },
   "offset": 425651725
