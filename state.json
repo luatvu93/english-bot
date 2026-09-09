@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 277,
-      "learned": 277,
-      "lastPush": 1788917229026
+      "index": 278,
+      "learned": 278,
+      "lastPush": 1788921300439
     }
   },
   "cache": {
@@ -2222,6 +2222,14 @@
       "pos": "noun",
       "en": "(sometimes attributive) Something which supports.",
       "vi": "hỗ trợ"
+    },
+    "protect": {
+      "word": "protect",
+      "ipa": "/pɹəˈtɛkt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/protect-us.mp3",
+      "pos": "verb",
+      "en": "To keep safe; to defend; to guard; to prevent harm coming to.",
+      "vi": "bảo vệ, che chở"
     }
   },
   "offset": 425651725
