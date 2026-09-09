@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 275,
-      "learned": 275,
-      "lastPush": 1788908598224
+      "index": 276,
+      "learned": 276,
+      "lastPush": 1788912958972
     }
   },
   "cache": {
@@ -2206,6 +2206,14 @@
       "pos": "",
       "en": "",
       "vi": "Biên lai, giấy chứng nhận"
+    },
+    "discover": {
+      "word": "discover",
+      "ipa": "/dɪsˈkʊvə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/discover-us.mp3",
+      "pos": "verb",
+      "en": "To find or learn something for the first time.",
+      "vi": "khám phá, phát hiện ra, nhận ra"
     }
   },
   "offset": 425651725
