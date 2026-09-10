@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 296,
-      "learned": 296,
-      "lastPush": 1789015540694
+      "index": 297,
+      "learned": 297,
+      "lastPush": 1789019454826
     }
   },
   "cache": {
@@ -2374,6 +2374,14 @@
       "pos": "",
       "en": "",
       "vi": "gây tai hại, có hại"
+    },
+    "similar": {
+      "word": "similar",
+      "ipa": "/ˈsɪmələ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/similar-us.mp3",
+      "pos": "noun",
+      "en": "That which is similar to, or resembles, something else, as in quality, form, etc.",
+      "vi": "tương tự như"
     }
   },
   "offset": 425651725
