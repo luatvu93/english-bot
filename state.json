@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 292,
-      "learned": 292,
-      "lastPush": 1788999159884
+      "index": 293,
+      "learned": 293,
+      "lastPush": 1789003342407
     }
   },
   "cache": {
@@ -2342,6 +2342,14 @@
       "pos": "",
       "en": "",
       "vi": "có thể mở rộng"
+    },
+    "impossible": {
+      "word": "impossible",
+      "ipa": "/ɪmˈpɒs.ə.bəl/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/impossible-us.mp3",
+      "pos": "noun",
+      "en": "An impossibility",
+      "vi": "vô lý"
     }
   },
   "offset": 425651725
