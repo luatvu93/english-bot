@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 293,
-      "learned": 293,
-      "lastPush": 1789003342407
+      "index": 294,
+      "learned": 294,
+      "lastPush": 1789007327033
     }
   },
   "cache": {
@@ -2350,6 +2350,14 @@
       "pos": "noun",
       "en": "An impossibility",
       "vi": "vô lý"
+    },
+    "necessary": {
+      "word": "necessary",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "cần, cần thiết, thiết yếu"
     }
   },
   "offset": 425651725
