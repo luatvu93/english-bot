@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 305,
-      "learned": 305,
-      "lastPush": 1789051496772
+      "index": 306,
+      "learned": 306,
+      "lastPush": 1789055074906
     }
   },
   "cache": {
@@ -2446,6 +2446,14 @@
       "pos": "",
       "en": "",
       "vi": "Ý nghĩa; sự quan trọng, sự đáng kể "
+    },
+    "tendency": {
+      "word": "tendency",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "khuynh hướng"
     }
   },
   "offset": 425651725
