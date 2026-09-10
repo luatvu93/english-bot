@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 294,
-      "learned": 294,
-      "lastPush": 1789007327033
+      "index": 295,
+      "learned": 295,
+      "lastPush": 1789011383683
     }
   },
   "cache": {
@@ -2358,6 +2358,14 @@
       "pos": "",
       "en": "",
       "vi": "cần, cần thiết, thiết yếu"
+    },
+    "useful": {
+      "word": "useful",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "hữu ích"
     }
   },
   "offset": 425651725
