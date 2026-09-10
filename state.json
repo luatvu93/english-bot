@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 297,
-      "learned": 297,
-      "lastPush": 1789019454826
+      "index": 298,
+      "learned": 298,
+      "lastPush": 1789023588646
     }
   },
   "cache": {
@@ -2382,6 +2382,14 @@
       "pos": "noun",
       "en": "That which is similar to, or resembles, something else, as in quality, form, etc.",
       "vi": "tương tự như"
+    },
+    "different": {
+      "word": "different",
+      "ipa": "/ˈdɪf.(ə)ɹ.ənt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/different-us.mp3",
+      "pos": "noun",
+      "en": "The different ideal.",
+      "vi": "khác biệt"
     }
   },
   "offset": 425651725
