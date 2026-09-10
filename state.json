@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 295,
-      "learned": 295,
-      "lastPush": 1789011383683
+      "index": 296,
+      "learned": 296,
+      "lastPush": 1789015540694
     }
   },
   "cache": {
@@ -2366,6 +2366,14 @@
       "pos": "",
       "en": "",
       "vi": "hữu ích"
+    },
+    "harmful": {
+      "word": "harmful",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "gây tai hại, có hại"
     }
   },
   "offset": 425651725
