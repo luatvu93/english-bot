@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 298,
-      "learned": 298,
-      "lastPush": 1789023588646
+      "index": 299,
+      "learned": 299,
+      "lastPush": 1789027133605
     }
   },
   "cache": {
@@ -2390,6 +2390,14 @@
       "pos": "noun",
       "en": "The different ideal.",
       "vi": "khác biệt"
+    },
+    "responsible": {
+      "word": "responsible",
+      "ipa": "/ɹɪˈspɒnsəbl̩/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/responsible-us.mp3",
+      "pos": "noun",
+      "en": "The individual who bears the responsibility for something.",
+      "vi": "chịu trách nhiệm về, chịu trách nhiệm trước ai"
     }
   },
   "offset": 425651725
