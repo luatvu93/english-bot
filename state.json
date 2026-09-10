@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 301,
-      "learned": 301,
-      "lastPush": 1789035008454
+      "index": 302,
+      "learned": 302,
+      "lastPush": 1789039078476
     }
   },
   "cache": {
@@ -2414,6 +2414,14 @@
       "pos": "",
       "en": "",
       "vi": "giả thiết"
+    },
+    "perspective": {
+      "word": "perspective",
+      "ipa": "/pɚˈspɛktɪv/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/perspective-us.mp3",
+      "pos": "noun",
+      "en": "A view, vista or outlook.",
+      "vi": "Góc nhìn cá nhân"
     }
   },
   "offset": 425651725
