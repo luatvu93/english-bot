@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 303,
-      "learned": 303,
-      "lastPush": 1789043522979
+      "index": 304,
+      "learned": 304,
+      "lastPush": 1789047281909
     }
   },
   "cache": {
@@ -2430,6 +2430,14 @@
       "pos": "",
       "en": "",
       "vi": "Hàm ý. important implication: hàm ý qtrong"
+    },
+    "consequence": {
+      "word": "consequence",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "hậu quả"
     }
   },
   "offset": 425651725
