@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 304,
-      "learned": 304,
-      "lastPush": 1789047281909
+      "index": 305,
+      "learned": 305,
+      "lastPush": 1789051496772
     }
   },
   "cache": {
@@ -2438,6 +2438,14 @@
       "pos": "",
       "en": "",
       "vi": "hậu quả"
+    },
+    "significance": {
+      "word": "significance",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Ý nghĩa; sự quan trọng, sự đáng kể "
     }
   },
   "offset": 425651725
