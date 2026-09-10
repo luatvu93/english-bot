@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 299,
-      "learned": 299,
-      "lastPush": 1789027133605
+      "index": 300,
+      "learned": 300,
+      "lastPush": 1789030796268
     }
   },
   "cache": {
@@ -2398,6 +2398,14 @@
       "pos": "noun",
       "en": "The individual who bears the responsibility for something.",
       "vi": "chịu trách nhiệm về, chịu trách nhiệm trước ai"
+    },
+    "successful": {
+      "word": "successful",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "thành công"
     }
   },
   "offset": 425651725
