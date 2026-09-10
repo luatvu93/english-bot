@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 302,
-      "learned": 302,
-      "lastPush": 1789039078476
+      "index": 303,
+      "learned": 303,
+      "lastPush": 1789043522979
     }
   },
   "cache": {
@@ -2422,6 +2422,14 @@
       "pos": "noun",
       "en": "A view, vista or outlook.",
       "vi": "Góc nhìn cá nhân"
+    },
+    "implication": {
+      "word": "implication",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Hàm ý. important implication: hàm ý qtrong"
     }
   },
   "offset": 425651725
