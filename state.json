@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 307,
-      "learned": 307,
-      "lastPush": 1789058815310
+      "index": 308,
+      "learned": 308,
+      "lastPush": 1789081361811
     }
   },
   "cache": {
@@ -2462,6 +2462,14 @@
       "pos": "",
       "en": "",
       "vi": "sở thích"
+    },
+    "priority": {
+      "word": "priority",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 57 MINUTES 18 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
     }
   },
   "offset": 425651725
