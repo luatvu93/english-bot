@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 308,
-      "learned": 308,
-      "lastPush": 1789081361811
+      "index": 309,
+      "learned": 309,
+      "lastPush": 1789086045433
     }
   },
   "cache": {
@@ -2470,6 +2470,14 @@
       "pos": "",
       "en": "",
       "vi": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 57 MINUTES 18 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    },
+    "criterion": {
+      "word": "criterion",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "criterion"
     }
   },
   "offset": 425651725
