@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 319,
-      "learned": 319,
-      "lastPush": 1789124330357
+      "index": 320,
+      "learned": 320,
+      "lastPush": 1789127923957
     }
   },
   "cache": {
@@ -2558,6 +2558,14 @@
       "pos": "",
       "en": "",
       "vi": "lý thuyết, học thuyết"
+    },
+    "analysis": {
+      "word": "analysis",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Phân tích"
     }
   },
   "offset": 425651725
