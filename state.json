@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 317,
-      "learned": 317,
-      "lastPush": 1789116474383
+      "index": 318,
+      "learned": 318,
+      "lastPush": 1789120467179
     }
   },
   "cache": {
@@ -2542,6 +2542,14 @@
       "pos": "noun",
       "en": "An abstract and general idea; an abstraction.",
       "vi": "Khái niệm"
+    },
+    "principle": {
+      "word": "principle",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "cơ bản, chủ yếu; nguyên lý, nguyên tắc"
     }
   },
   "offset": 425651725
