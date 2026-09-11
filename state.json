@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 314,
-      "learned": 314,
-      "lastPush": 1789105369112
+      "index": 315,
+      "learned": 315,
+      "lastPush": 1789109356667
     }
   },
   "cache": {
@@ -2518,6 +2518,14 @@
       "pos": "",
       "en": "",
       "vi": "Quy trình"
+    },
+    "mechanism": {
+      "word": "mechanism",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "thủ pháp"
     }
   },
   "offset": 425651725
