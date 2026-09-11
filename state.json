@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 322,
-      "learned": 322,
-      "lastPush": 1789135357051
+      "index": 323,
+      "learned": 323,
+      "lastPush": 1789139694505
     }
   },
   "cache": {
@@ -2577,6 +2577,14 @@
     },
     "evaluation": {
       "word": "evaluation",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "ước lượng"
+    },
+    "estimate": {
+      "word": "estimate",
       "ipa": "",
       "audio": "",
       "pos": "",
