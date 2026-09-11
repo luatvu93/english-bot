@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 316,
-      "learned": 316,
-      "lastPush": 1789112929494
+      "index": 317,
+      "learned": 317,
+      "lastPush": 1789116474383
     }
   },
   "cache": {
@@ -2534,6 +2534,14 @@
       "pos": "noun",
       "en": "A thing or being, event or process, perceptible through senses; or a fact or occurrence thereof.",
       "vi": "phenomenon"
+    },
+    "concept": {
+      "word": "concept",
+      "ipa": "/ˈkɒn.sɛpt/",
+      "audio": "",
+      "pos": "noun",
+      "en": "An abstract and general idea; an abstraction.",
+      "vi": "Khái niệm"
     }
   },
   "offset": 425651725
