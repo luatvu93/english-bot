@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 309,
-      "learned": 309,
-      "lastPush": 1789086045433
+      "index": 310,
+      "learned": 310,
+      "lastPush": 1789089642530
     }
   },
   "cache": {
@@ -2478,6 +2478,14 @@
       "pos": "",
       "en": "",
       "vi": "criterion"
+    },
+    "framework": {
+      "word": "framework",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "khuôn khổ"
     }
   },
   "offset": 425651725
