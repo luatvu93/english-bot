@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 312,
-      "learned": 312,
-      "lastPush": 1789097468957
+      "index": 313,
+      "learned": 313,
+      "lastPush": 1789101582438
     }
   },
   "cache": {
@@ -2502,6 +2502,14 @@
       "pos": "noun",
       "en": "The act of drawing near; a coming or advancing near.",
       "vi": "tiếp cận"
+    },
+    "strategy": {
+      "word": "strategy",
+      "ipa": "/ˈstɹætədʒi/",
+      "audio": "",
+      "pos": "noun",
+      "en": "The science and art of military command as applied to the overall planning and conduct of warfare.",
+      "vi": "chiến lược"
     }
   },
   "offset": 425651725
