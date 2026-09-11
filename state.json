@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 318,
-      "learned": 318,
-      "lastPush": 1789120467179
+      "index": 319,
+      "learned": 319,
+      "lastPush": 1789124330357
     }
   },
   "cache": {
@@ -2550,6 +2550,14 @@
       "pos": "",
       "en": "",
       "vi": "cơ bản, chủ yếu; nguyên lý, nguyên tắc"
+    },
+    "theory": {
+      "word": "theory",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "lý thuyết, học thuyết"
     }
   },
   "offset": 425651725
