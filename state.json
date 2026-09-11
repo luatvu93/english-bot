@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 320,
-      "learned": 320,
-      "lastPush": 1789127923957
+      "index": 321,
+      "learned": 321,
+      "lastPush": 1789131504952
     }
   },
   "cache": {
@@ -2566,6 +2566,14 @@
       "pos": "",
       "en": "",
       "vi": "Phân tích"
+    },
+    "assessment": {
+      "word": "assessment",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "đánh giá"
     }
   },
   "offset": 425651725
