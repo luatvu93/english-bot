@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 315,
-      "learned": 315,
-      "lastPush": 1789109356667
+      "index": 316,
+      "learned": 316,
+      "lastPush": 1789112929494
     }
   },
   "cache": {
@@ -2526,6 +2526,14 @@
       "pos": "",
       "en": "",
       "vi": "thủ pháp"
+    },
+    "phenomenon": {
+      "word": "phenomenon",
+      "ipa": "/fɪˈnɒmənɒn/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/phenomenon-uk.mp3",
+      "pos": "noun",
+      "en": "A thing or being, event or process, perceptible through senses; or a fact or occurrence thereof.",
+      "vi": "phenomenon"
     }
   },
   "offset": 425651725
