@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 311,
-      "learned": 311,
-      "lastPush": 1789093477910
+      "index": 312,
+      "learned": 312,
+      "lastPush": 1789097468957
     }
   },
   "cache": {
@@ -2494,6 +2494,14 @@
       "pos": "",
       "en": "",
       "vi": "giả thuyết"
+    },
+    "approach": {
+      "word": "approach",
+      "ipa": "/əˈpɹəʊt͡ʃ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/approach-us.mp3",
+      "pos": "noun",
+      "en": "The act of drawing near; a coming or advancing near.",
+      "vi": "tiếp cận"
     }
   },
   "offset": 425651725
