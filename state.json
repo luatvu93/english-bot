@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 313,
-      "learned": 313,
-      "lastPush": 1789101582438
+      "index": 314,
+      "learned": 314,
+      "lastPush": 1789105369112
     }
   },
   "cache": {
@@ -2510,6 +2510,14 @@
       "pos": "noun",
       "en": "The science and art of military command as applied to the overall planning and conduct of warfare.",
       "vi": "chiến lược"
+    },
+    "procedure": {
+      "word": "procedure",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Quy trình"
     }
   },
   "offset": 425651725
