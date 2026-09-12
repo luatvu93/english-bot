@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 340,
-      "learned": 340,
-      "lastPush": 1789224597709
+      "index": 341,
+      "learned": 341,
+      "lastPush": 1789228286463
     }
   },
   "cache": {
@@ -2726,6 +2726,14 @@
       "pos": "",
       "en": "",
       "vi": "đặt chướng ngại vật"
+    },
+    "incentive": {
+      "word": "incentive",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "gia tăng"
     }
   },
   "offset": 425651725
