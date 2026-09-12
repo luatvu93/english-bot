@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 328,
-      "learned": 328,
-      "lastPush": 1789179448492
+      "index": 329,
+      "learned": 329,
+      "lastPush": 1789183220667
     }
   },
   "cache": {
@@ -2630,6 +2630,14 @@
       "pos": "",
       "en": "",
       "vi": "phần ít, thiểu số"
+    },
+    "distinction": {
+      "word": "distinction",
+      "ipa": "/dɪˈstɪŋkʃən/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/distinction-us.mp3",
+      "pos": "noun",
+      "en": "That which distinguishes; a single occurrence of a determining factor or feature, the fact of being divided; separation, discrimination.",
+      "vi": "sự phân biệt"
     }
   },
   "offset": 425651725
