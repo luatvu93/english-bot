@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 327,
-      "learned": 327,
-      "lastPush": 1789175384220
+      "index": 328,
+      "learned": 328,
+      "lastPush": 1789179448492
     }
   },
   "cache": {
@@ -2622,6 +2622,14 @@
       "pos": "",
       "en": "",
       "vi": "phần lớn, đa số, ưu thế"
+    },
+    "minority": {
+      "word": "minority",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "phần ít, thiểu số"
     }
   },
   "offset": 425651725
