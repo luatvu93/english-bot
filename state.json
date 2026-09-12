@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 334,
-      "learned": 334,
-      "lastPush": 1789201941874
+      "index": 335,
+      "learned": 335,
+      "lastPush": 1789205496971
     }
   },
   "cache": {
@@ -2678,6 +2678,14 @@
       "pos": "noun",
       "en": "That which is produced or occurs as a result of an event or process.",
       "vi": "Kết quả"
+    },
+    "impact": {
+      "word": "impact",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "sự va chạm, tác động, ảnh hưởng"
     }
   },
   "offset": 425651725
