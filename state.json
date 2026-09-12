@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 333,
-      "learned": 333,
-      "lastPush": 1789198093210
+      "index": 334,
+      "learned": 334,
+      "lastPush": 1789201941874
     }
   },
   "cache": {
@@ -2670,6 +2670,14 @@
       "pos": "",
       "en": "",
       "vi": "Biến đổi"
+    },
+    "outcome": {
+      "word": "outcome",
+      "ipa": "/ˈaʊtkʌm/",
+      "audio": "",
+      "pos": "noun",
+      "en": "That which is produced or occurs as a result of an event or process.",
+      "vi": "Kết quả"
     }
   },
   "offset": 425651725
