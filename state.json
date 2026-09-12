@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 338,
-      "learned": 338,
-      "lastPush": 1789216767898
+      "index": 339,
+      "learned": 339,
+      "lastPush": 1789220696794
     }
   },
   "cache": {
@@ -2710,6 +2710,14 @@
       "pos": "noun",
       "en": "Something that constrains; a restriction.",
       "vi": "sự ràng buộc, sự hạn chế"
+    },
+    "obstacle": {
+      "word": "obstacle",
+      "ipa": "/ˈɒbstəkl̩/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/obstacle-us.mp3",
+      "pos": "noun",
+      "en": "Something that impedes, stands in the way of, or holds up progress",
+      "vi": "CHƯỚNG NGẠI VẬT"
     }
   },
   "offset": 425651725
