@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 339,
-      "learned": 339,
-      "lastPush": 1789220696794
+      "index": 340,
+      "learned": 340,
+      "lastPush": 1789224597709
     }
   },
   "cache": {
@@ -2718,6 +2718,14 @@
       "pos": "noun",
       "en": "Something that impedes, stands in the way of, or holds up progress",
       "vi": "CHƯỚNG NGẠI VẬT"
+    },
+    "barrier": {
+      "word": "barrier",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "đặt chướng ngại vật"
     }
   },
   "offset": 425651725
