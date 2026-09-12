@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 325,
-      "learned": 325,
-      "lastPush": 1789167765498
+      "index": 326,
+      "learned": 326,
+      "lastPush": 1789171363819
     }
   },
   "cache": {
@@ -2606,6 +2606,14 @@
       "pos": "",
       "en": "",
       "vi": "phần trăm"
+    },
+    "proportion": {
+      "word": "proportion",
+      "ipa": "/pɹəˈpɔːʃən/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/proportion-us.mp3",
+      "pos": "noun",
+      "en": "A quantity of something that is part of the whole amount or number.",
+      "vi": "cân xứng, cân đối"
     }
   },
   "offset": 425651725
