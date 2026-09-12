@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 335,
-      "learned": 335,
-      "lastPush": 1789205496971
+      "index": 336,
+      "learned": 336,
+      "lastPush": 1789209451281
     }
   },
   "cache": {
@@ -2686,6 +2686,14 @@
       "pos": "",
       "en": "",
       "vi": "sự va chạm, tác động, ảnh hưởng"
+    },
+    "benefit": {
+      "word": "benefit",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "lợi ích, lãi"
     }
   },
   "offset": 425651725
