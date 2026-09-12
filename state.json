@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 332,
-      "learned": 332,
-      "lastPush": 1789194106333
+      "index": 333,
+      "learned": 333,
+      "lastPush": 1789198093210
     }
   },
   "cache": {
@@ -2662,6 +2662,14 @@
       "pos": "",
       "en": "",
       "vi": "nhân tố"
+    },
+    "variable": {
+      "word": "variable",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Biến đổi"
     }
   },
   "offset": 425651725
