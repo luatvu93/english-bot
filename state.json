@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 329,
-      "learned": 329,
-      "lastPush": 1789183220667
+      "index": 330,
+      "learned": 330,
+      "lastPush": 1789186867436
     }
   },
   "cache": {
@@ -2638,6 +2638,14 @@
       "pos": "noun",
       "en": "That which distinguishes; a single occurrence of a determining factor or feature, the fact of being divided; separation, discrimination.",
       "vi": "sự phân biệt"
+    },
+    "contrast": {
+      "word": "contrast",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tương phản"
     }
   },
   "offset": 425651725
