@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 341,
-      "learned": 341,
-      "lastPush": 1789228286463
+      "index": 342,
+      "learned": 342,
+      "lastPush": 1789232099163
     }
   },
   "cache": {
@@ -2734,6 +2734,14 @@
       "pos": "",
       "en": "",
       "vi": "gia tăng"
+    },
+    "initiative": {
+      "word": "initiative",
+      "ipa": "/ɪˈnɪʃətɪv/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/initiative-us.mp3",
+      "pos": "noun",
+      "en": "A beginning; a first move.",
+      "vi": "bước đầu, sự khởi đầu"
     }
   },
   "offset": 425651725
