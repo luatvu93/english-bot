@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 342,
-      "learned": 342,
-      "lastPush": 1789232099163
+      "index": 343,
+      "learned": 343,
+      "lastPush": 1789254175280
     }
   },
   "cache": {
@@ -2742,6 +2742,14 @@
       "pos": "noun",
       "en": "A beginning; a first move.",
       "vi": "bước đầu, sự khởi đầu"
+    },
+    "innovation": {
+      "word": "innovation",
+      "ipa": "/ˌɪnəˈveɪʃən/",
+      "audio": "",
+      "pos": "noun",
+      "en": "The act of innovating; the introduction of something new, in customs, rites, etc.",
+      "vi": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 57 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
     }
   },
   "offset": 425651725
