@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 337,
-      "learned": 337,
-      "lastPush": 1789213051167
+      "index": 338,
+      "learned": 338,
+      "lastPush": 1789216767898
     }
   },
   "cache": {
@@ -2702,6 +2702,14 @@
       "pos": "",
       "en": "",
       "vi": "Nhược điểm"
+    },
+    "constraint": {
+      "word": "constraint",
+      "ipa": "/kənˈstɹeɪnt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/constraint-au.mp3",
+      "pos": "noun",
+      "en": "Something that constrains; a restriction.",
+      "vi": "sự ràng buộc, sự hạn chế"
     }
   },
   "offset": 425651725
