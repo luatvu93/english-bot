@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 336,
-      "learned": 336,
-      "lastPush": 1789209451281
+      "index": 337,
+      "learned": 337,
+      "lastPush": 1789213051167
     }
   },
   "cache": {
@@ -2694,6 +2694,14 @@
       "pos": "",
       "en": "",
       "vi": "lợi ích, lãi"
+    },
+    "drawback": {
+      "word": "drawback",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Nhược điểm"
     }
   },
   "offset": 425651725
