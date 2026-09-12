@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 326,
-      "learned": 326,
-      "lastPush": 1789171363819
+      "index": 327,
+      "learned": 327,
+      "lastPush": 1789175384220
     }
   },
   "cache": {
@@ -2614,6 +2614,14 @@
       "pos": "noun",
       "en": "A quantity of something that is part of the whole amount or number.",
       "vi": "cân xứng, cân đối"
+    },
+    "majority": {
+      "word": "majority",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "phần lớn, đa số, ưu thế"
     }
   },
   "offset": 425651725
