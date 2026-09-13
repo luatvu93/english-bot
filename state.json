@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 343,
-      "learned": 343,
-      "lastPush": 1789254175280
+      "index": 344,
+      "learned": 344,
+      "lastPush": 1789257900797
     }
   },
   "cache": {
@@ -2750,6 +2750,14 @@
       "pos": "noun",
       "en": "The act of innovating; the introduction of something new, in customs, rites, etc.",
       "vi": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  09 HOURS 57 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    },
+    "investment": {
+      "word": "investment",
+      "ipa": "/ɪnˈvɛsmənt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/investment-us.mp3",
+      "pos": "noun",
+      "en": "The act of investing, or state of being invested.",
+      "vi": "đầu tư"
     }
   },
   "offset": 425651725
