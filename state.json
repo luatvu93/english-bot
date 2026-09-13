@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 345,
-      "learned": 345,
-      "lastPush": 1789261916367
+      "index": 346,
+      "learned": 346,
+      "lastPush": 1789265506783
     }
   },
   "cache": {
@@ -2766,6 +2766,14 @@
       "pos": "",
       "en": "",
       "vi": "đàm phán"
+    },
+    "partnership": {
+      "word": "partnership",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "sự cộng tác"
     }
   },
   "offset": 425651725
