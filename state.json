@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 349,
-      "learned": 349,
-      "lastPush": 1789277461687
+      "index": 350,
+      "learned": 350,
+      "lastPush": 1789281722709
     }
   },
   "cache": {
@@ -2798,6 +2798,14 @@
       "pos": "",
       "en": "",
       "vi": "pháp luật"
+    },
+    "policy": {
+      "word": "policy",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Khảo sát về các quy định và chính sách đang áp dụng trong Nhà trường"
     }
   },
   "offset": 425651725
