@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 347,
-      "learned": 347,
-      "lastPush": 1789269790220
+      "index": 348,
+      "learned": 348,
+      "lastPush": 1789273511878
     }
   },
   "cache": {
@@ -2782,6 +2782,14 @@
       "pos": "",
       "en": "",
       "vi": "cuộc thi đấu"
+    },
+    "regulation": {
+      "word": "regulation",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "điểu chỉnh, điểu lệ, quy tắc"
     }
   },
   "offset": 425651725
