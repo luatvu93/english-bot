@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 351,
-      "learned": 351,
-      "lastPush": 1789285433085
+      "index": 352,
+      "learned": 352,
+      "lastPush": 1789289411005
     }
   },
   "cache": {
@@ -2814,6 +2814,14 @@
       "pos": "",
       "en": "",
       "vi": "công nhận"
+    },
+    "emphasise": {
+      "word": "emphasise",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Nhấn mạnh"
     }
   },
   "offset": 425651725
