@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 346,
-      "learned": 346,
-      "lastPush": 1789265506783
+      "index": 347,
+      "learned": 347,
+      "lastPush": 1789269790220
     }
   },
   "cache": {
@@ -2774,6 +2774,14 @@
       "pos": "",
       "en": "",
       "vi": "sự cộng tác"
+    },
+    "competition": {
+      "word": "competition",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "cuộc thi đấu"
     }
   },
   "offset": 425651725
