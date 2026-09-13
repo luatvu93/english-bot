@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 355,
-      "learned": 355,
-      "lastPush": 1789311581641
+      "index": 356,
+      "learned": 356,
+      "lastPush": 1789322276927
     }
   },
   "cache": {
@@ -2846,6 +2846,14 @@
       "pos": "",
       "en": "",
       "vi": "chỉ, cho biết; biếu thị, trình bày ngắn gọn"
+    },
+    "imply": {
+      "word": "imply",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "ngụ ý, bao hàm"
     }
   },
   "offset": 425651725
