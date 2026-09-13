@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 354,
-      "learned": 354,
-      "lastPush": 1789297733820
+      "index": 355,
+      "learned": 355,
+      "lastPush": 1789311581641
     }
   },
   "cache": {
@@ -2838,6 +2838,14 @@
       "pos": "verb",
       "en": "To show how to use (something).",
       "vi": "chứng minh, giải thích"
+    },
+    "indicate": {
+      "word": "indicate",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "chỉ, cho biết; biếu thị, trình bày ngắn gọn"
     }
   },
   "offset": 425651725
