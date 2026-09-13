@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 353,
-      "learned": 353,
-      "lastPush": 1789294084015
+      "index": 354,
+      "learned": 354,
+      "lastPush": 1789297733820
     }
   },
   "cache": {
@@ -2830,6 +2830,14 @@
       "pos": "",
       "en": "",
       "vi": "minh họa, làm rõ ý"
+    },
+    "demonstrate": {
+      "word": "demonstrate",
+      "ipa": "/ˈdɛmənstɹeɪt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/demonstrate-us.mp3",
+      "pos": "verb",
+      "en": "To show how to use (something).",
+      "vi": "chứng minh, giải thích"
     }
   },
   "offset": 425651725
