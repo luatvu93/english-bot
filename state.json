@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 344,
-      "learned": 344,
-      "lastPush": 1789257900797
+      "index": 345,
+      "learned": 345,
+      "lastPush": 1789261916367
     }
   },
   "cache": {
@@ -2758,6 +2758,14 @@
       "pos": "noun",
       "en": "The act of investing, or state of being invested.",
       "vi": "đầu tư"
+    },
+    "negotiation": {
+      "word": "negotiation",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "đàm phán"
     }
   },
   "offset": 425651725
