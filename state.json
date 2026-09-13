@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 348,
-      "learned": 348,
-      "lastPush": 1789273511878
+      "index": 349,
+      "learned": 349,
+      "lastPush": 1789277461687
     }
   },
   "cache": {
@@ -2790,6 +2790,14 @@
       "pos": "",
       "en": "",
       "vi": "điểu chỉnh, điểu lệ, quy tắc"
+    },
+    "legislation": {
+      "word": "legislation",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "pháp luật"
     }
   },
   "offset": 425651725
