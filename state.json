@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 360,
-      "learned": 360,
-      "lastPush": 1789403843869
+      "index": 361,
+      "learned": 361,
+      "lastPush": 1789417817984
     }
   },
   "cache": {
@@ -2886,6 +2886,14 @@
       "pos": "",
       "en": "",
       "vi": "căn đều,  lý lẽ, bằng chứng hoặc luận điểm để chứng minh sự đúng đắn hoặc sự hợp lý của một quyết định hoặc hành động."
+    },
+    "interpret": {
+      "word": "interpret",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "giải thích"
     }
   },
   "offset": 425651725
