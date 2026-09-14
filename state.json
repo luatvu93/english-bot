@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 356,
-      "learned": 356,
-      "lastPush": 1789322276927
+      "index": 357,
+      "learned": 357,
+      "lastPush": 1789345894428
     }
   },
   "cache": {
@@ -2854,6 +2854,14 @@
       "pos": "",
       "en": "",
       "vi": "ngụ ý, bao hàm"
+    },
+    "assume": {
+      "word": "assume",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "mang, khoác"
     }
   },
   "offset": 425651725
