@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 359,
-      "learned": 359,
-      "lastPush": 1789382796784
+      "index": 360,
+      "learned": 360,
+      "lastPush": 1789403843869
     }
   },
   "cache": {
@@ -2878,6 +2878,14 @@
       "pos": "",
       "en": "",
       "vi": "đánh giá"
+    },
+    "justify": {
+      "word": "justify",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "căn đều,  lý lẽ, bằng chứng hoặc luận điểm để chứng minh sự đúng đắn hoặc sự hợp lý của một quyết định hoặc hành động."
     }
   },
   "offset": 425651725
