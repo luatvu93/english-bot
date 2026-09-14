@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 357,
-      "learned": 357,
-      "lastPush": 1789345894428
+      "index": 358,
+      "learned": 358,
+      "lastPush": 1789363247241
     }
   },
   "cache": {
@@ -2862,6 +2862,14 @@
       "pos": "",
       "en": "",
       "vi": "mang, khoác"
+    },
+    "assess": {
+      "word": "assess",
+      "ipa": "/əˈsɛs/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/assess-us.mp3",
+      "pos": "verb",
+      "en": "To determine, estimate or judge the value of; to evaluate",
+      "vi": "đánh giá"
     }
   },
   "offset": 425651725
