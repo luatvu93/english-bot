@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 363,
-      "learned": 363,
-      "lastPush": 1789452254532
+      "index": 364,
+      "learned": 364,
+      "lastPush": 1789472181867
     }
   },
   "cache": {
@@ -2910,6 +2910,14 @@
       "pos": "",
       "en": "",
       "vi": "thấy trước, chặn trước, lường trước"
+    },
+    "undertake": {
+      "word": "undertake",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "thỏa thuận"
     }
   },
   "offset": 425651725
