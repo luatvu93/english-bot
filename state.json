@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 365,
-      "learned": 365,
-      "lastPush": 1789486803210
+      "index": 366,
+      "learned": 366,
+      "lastPush": 1789499479041
     }
   },
   "cache": {
@@ -2926,6 +2926,14 @@
       "pos": "",
       "en": "",
       "vi": "đuổi theo, đuổi bắt"
+    },
+    "maintain": {
+      "word": "maintain",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "giữ gìn, duy trì, bảo vệ"
     }
   },
   "offset": 425651725
