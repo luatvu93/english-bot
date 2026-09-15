@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 362,
-      "learned": 362,
-      "lastPush": 1789434207052
+      "index": 363,
+      "learned": 363,
+      "lastPush": 1789452254532
     }
   },
   "cache": {
@@ -2902,6 +2902,14 @@
       "pos": "verb",
       "en": "To recognize someone or something as different from others based on its characteristics.",
       "vi": "phân biệt, nhận ra, nghe ra"
+    },
+    "anticipate": {
+      "word": "anticipate",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "thấy trước, chặn trước, lường trước"
     }
   },
   "offset": 425651725
