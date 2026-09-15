@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 364,
-      "learned": 364,
-      "lastPush": 1789472181867
+      "index": 365,
+      "learned": 365,
+      "lastPush": 1789486803210
     }
   },
   "cache": {
@@ -2918,6 +2918,14 @@
       "pos": "",
       "en": "",
       "vi": "thỏa thuận"
+    },
+    "pursue": {
+      "word": "pursue",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "đuổi theo, đuổi bắt"
     }
   },
   "offset": 425651725
