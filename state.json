@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 370,
-      "learned": 370,
-      "lastPush": 1789570160370
+      "index": 371,
+      "learned": 371,
+      "lastPush": 1789583307615
     }
   },
   "cache": {
@@ -2966,6 +2966,14 @@
       "pos": "",
       "en": "",
       "vi": "thực hiện"
+    },
+    "allocate": {
+      "word": "allocate",
+      "ipa": "/ˈæl.ə.keɪt/",
+      "audio": "",
+      "pos": "verb",
+      "en": "To set aside for a purpose.",
+      "vi": "trợ cấp"
     }
   },
   "offset": 425651725
