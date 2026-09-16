@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 368,
-      "learned": 368,
-      "lastPush": 1789536129198
+      "index": 369,
+      "learned": 369,
+      "lastPush": 1789553037565
     }
   },
   "cache": {
@@ -2950,6 +2950,14 @@
       "pos": "verb",
       "en": "To lift, raise up.",
       "vi": "cải tiến"
+    },
+    "facilitate": {
+      "word": "facilitate",
+      "ipa": "/fəˈsɪləteɪt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/facilitate-us.mp3",
+      "pos": "verb",
+      "en": "To make easy or easier.",
+      "vi": "Điều phối"
     }
   },
   "offset": 425651725
