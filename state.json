@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 369,
-      "learned": 369,
-      "lastPush": 1789553037565
+      "index": 370,
+      "learned": 370,
+      "lastPush": 1789570160370
     }
   },
   "cache": {
@@ -2958,6 +2958,14 @@
       "pos": "verb",
       "en": "To make easy or easier.",
       "vi": "Điều phối"
+    },
+    "implement": {
+      "word": "implement",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "thực hiện"
     }
   },
   "offset": 425651725
