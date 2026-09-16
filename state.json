@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 367,
-      "learned": 367,
-      "lastPush": 1789519973191
+      "index": 368,
+      "learned": 368,
+      "lastPush": 1789536129198
     }
   },
   "cache": {
@@ -2942,6 +2942,14 @@
       "pos": "",
       "en": "",
       "vi": "duy trì"
+    },
+    "enhance": {
+      "word": "enhance",
+      "ipa": "/ɪnˈhɑːns/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/enhance-us.mp3",
+      "pos": "verb",
+      "en": "To lift, raise up.",
+      "vi": "cải tiến"
     }
   },
   "offset": 425651725
