@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 366,
-      "learned": 366,
-      "lastPush": 1789499479041
+      "index": 367,
+      "learned": 367,
+      "lastPush": 1789519973191
     }
   },
   "cache": {
@@ -2934,6 +2934,14 @@
       "pos": "",
       "en": "",
       "vi": "giữ gìn, duy trì, bảo vệ"
+    },
+    "sustain": {
+      "word": "sustain",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "duy trì"
     }
   },
   "offset": 425651725
