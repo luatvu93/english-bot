@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 373,
-      "learned": 373,
-      "lastPush": 1789623619315
+      "index": 374,
+      "learned": 374,
+      "lastPush": 1789640677235
     }
   },
   "cache": {
@@ -2990,6 +2990,14 @@
       "pos": "",
       "en": "",
       "vi": "đạt được, giành được"
+    },
+    "acquire": {
+      "word": "acquire",
+      "ipa": "/əˈkwaɪə/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acquire-us.mp3",
+      "pos": "verb",
+      "en": "To get.",
+      "vi": "đạt được"
     }
   },
   "offset": 425651725
