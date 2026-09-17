@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 374,
-      "learned": 374,
-      "lastPush": 1789640677235
+      "index": 375,
+      "learned": 375,
+      "lastPush": 1789657585182
     }
   },
   "cache": {
@@ -2998,6 +2998,14 @@
       "pos": "verb",
       "en": "To get.",
       "vi": "đạt được"
+    },
+    "exceed": {
+      "word": "exceed",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "quá"
     }
   },
   "offset": 425651725
