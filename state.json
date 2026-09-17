@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 375,
-      "learned": 375,
-      "lastPush": 1789657585182
+      "index": 376,
+      "learned": 376,
+      "lastPush": 1789671499032
     }
   },
   "cache": {
@@ -3006,6 +3006,14 @@
       "pos": "",
       "en": "",
       "vi": "quá"
+    },
+    "accumulate": {
+      "word": "accumulate",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tích lũy"
     }
   },
   "offset": 425651725
