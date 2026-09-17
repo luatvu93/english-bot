@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 371,
-      "learned": 371,
-      "lastPush": 1789583307615
+      "index": 372,
+      "learned": 372,
+      "lastPush": 1789606630400
     }
   },
   "cache": {
@@ -2974,6 +2974,14 @@
       "pos": "verb",
       "en": "To set aside for a purpose.",
       "vi": "trợ cấp"
+    },
+    "generate": {
+      "word": "generate",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tạo ra"
     }
   },
   "offset": 425651725
