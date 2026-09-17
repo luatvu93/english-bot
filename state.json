@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 372,
-      "learned": 372,
-      "lastPush": 1789606630400
+      "index": 373,
+      "learned": 373,
+      "lastPush": 1789623619315
     }
   },
   "cache": {
@@ -2982,6 +2982,14 @@
       "pos": "",
       "en": "",
       "vi": "tạo ra"
+    },
+    "obtain": {
+      "word": "obtain",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "đạt được, giành được"
     }
   },
   "offset": 425651725
