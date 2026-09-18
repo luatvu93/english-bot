@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 378,
-      "learned": 378,
-      "lastPush": 1789708740367
+      "index": 379,
+      "learned": 379,
+      "lastPush": 1789725102462
     }
   },
   "cache": {
@@ -3030,6 +3030,14 @@
       "pos": "",
       "en": "",
       "vi": "thay đổi bất thường"
+    },
+    "alter": {
+      "word": "alter",
+      "ipa": "/ˈɑl.tɚ/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/alter-us.mp3",
+      "pos": "verb",
+      "en": "To change the form or structure of.",
+      "vi": "thay đồi, biến đồi, sửa đồi"
     }
   },
   "offset": 425651725
