@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 380,
-      "learned": 380,
-      "lastPush": 1789739672925
+      "index": 381,
+      "learned": 381,
+      "lastPush": 1789751991670
     }
   },
   "cache": {
@@ -3046,6 +3046,14 @@
       "pos": "",
       "en": "",
       "vi": "điều chỉnh"
+    },
+    "substantial": {
+      "word": "substantial",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "thực tế, đáng kế, quan trọng"
     }
   },
   "offset": 425651725
