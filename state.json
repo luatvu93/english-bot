@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 377,
-      "learned": 377,
-      "lastPush": 1789692797277
+      "index": 378,
+      "learned": 378,
+      "lastPush": 1789708740367
     }
   },
   "cache": {
@@ -3022,6 +3022,14 @@
       "pos": "",
       "en": "",
       "vi": "giảm dần"
+    },
+    "fluctuate": {
+      "word": "fluctuate",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "thay đổi bất thường"
     }
   },
   "offset": 425651725
