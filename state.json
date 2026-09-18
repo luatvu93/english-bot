@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 379,
-      "learned": 379,
-      "lastPush": 1789725102462
+      "index": 380,
+      "learned": 380,
+      "lastPush": 1789739672925
     }
   },
   "cache": {
@@ -3038,6 +3038,14 @@
       "pos": "verb",
       "en": "To change the form or structure of.",
       "vi": "thay đồi, biến đồi, sửa đồi"
+    },
+    "modify": {
+      "word": "modify",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "điều chỉnh"
     }
   },
   "offset": 425651725
