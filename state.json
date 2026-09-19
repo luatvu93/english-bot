@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 386,
-      "learned": 386,
-      "lastPush": 1789835466494
+      "index": 387,
+      "learned": 387,
+      "lastPush": 1789843585186
     }
   },
   "cache": {
@@ -3094,6 +3094,14 @@
       "pos": "noun",
       "en": "A necessary ingredient.",
       "vi": "bản chất, thực chất, cốt yếu; yếu tố cần thiết"
+    },
+    "adequate": {
+      "word": "adequate",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "đầy đủ"
     }
   },
   "offset": 425651725
