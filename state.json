@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 385,
-      "learned": 385,
-      "lastPush": 1789823711912
+      "index": 386,
+      "learned": 386,
+      "lastPush": 1789835466494
     }
   },
   "cache": {
@@ -3086,6 +3086,14 @@
       "pos": "",
       "en": "",
       "vi": "quyết định, cốt yếu"
+    },
+    "essential": {
+      "word": "essential",
+      "ipa": "/ɪˈsɛn.ʃəl/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/essential-us.mp3",
+      "pos": "noun",
+      "en": "A necessary ingredient.",
+      "vi": "bản chất, thực chất, cốt yếu; yếu tố cần thiết"
     }
   },
   "offset": 425651725
