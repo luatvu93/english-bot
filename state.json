@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 381,
-      "learned": 381,
-      "lastPush": 1789751991670
+      "index": 382,
+      "learned": 382,
+      "lastPush": 1789778750024
     }
   },
   "cache": {
@@ -3054,6 +3054,14 @@
       "pos": "",
       "en": "",
       "vi": "thực tế, đáng kế, quan trọng"
+    },
+    "significant": {
+      "word": "significant",
+      "ipa": "/sɪɡˈnɪ.fɪ.kənt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/significant-us.mp3",
+      "pos": "noun",
+      "en": "That which has significance; a sign; a token; a symbol.",
+      "vi": "đáng kể"
     }
   },
   "offset": 425651725
