@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 382,
-      "learned": 382,
-      "lastPush": 1789778750024
+      "index": 383,
+      "learned": 383,
+      "lastPush": 1789794520443
     }
   },
   "cache": {
@@ -3062,6 +3062,14 @@
       "pos": "noun",
       "en": "That which has significance; a sign; a token; a symbol.",
       "vi": "đáng kể"
+    },
+    "considerable": {
+      "word": "considerable",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "đáng kế"
     }
   },
   "offset": 425651725
