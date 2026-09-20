@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 389,
-      "learned": 389,
-      "lastPush": 1789881198514
+      "index": 390,
+      "learned": 390,
+      "lastPush": 1789897706084
     }
   },
   "cache": {
@@ -3118,6 +3118,14 @@
       "pos": "",
       "en": "",
       "vi": "linh hoạt"
+    },
+    "reliable": {
+      "word": "reliable",
+      "ipa": "/ɹɪˈlaɪəbəl/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/reliable-us.mp3",
+      "pos": "noun",
+      "en": "Something or someone reliable or dependable",
+      "vi": "sự bảo đảm chắc chắn"
     }
   },
   "offset": 425651725
