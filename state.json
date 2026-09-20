@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 391,
-      "learned": 391,
-      "lastPush": 1789911857254
+      "index": 392,
+      "learned": 392,
+      "lastPush": 1789923568730
     }
   },
   "cache": {
@@ -3134,6 +3134,14 @@
       "pos": "noun",
       "en": "(in the plural) Objects or facts that are coexistent, or in agreement with one another.",
       "vi": "nhất quán"
+    },
+    "apparent": {
+      "word": "apparent",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "rõ ràng, rành mạch"
     }
   },
   "offset": 425651725
