@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 388,
-      "learned": 388,
-      "lastPush": 1789864178197
+      "index": 389,
+      "learned": 389,
+      "lastPush": 1789881198514
     }
   },
   "cache": {
@@ -3110,6 +3110,14 @@
       "pos": "",
       "en": "",
       "vi": "đủ, thích đáng"
+    },
+    "flexible": {
+      "word": "flexible",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "linh hoạt"
     }
   },
   "offset": 425651725
