@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 390,
-      "learned": 390,
-      "lastPush": 1789897706084
+      "index": 391,
+      "learned": 391,
+      "lastPush": 1789911857254
     }
   },
   "cache": {
@@ -3126,6 +3126,14 @@
       "pos": "noun",
       "en": "Something or someone reliable or dependable",
       "vi": "sự bảo đảm chắc chắn"
+    },
+    "consistent": {
+      "word": "consistent",
+      "ipa": "/kənˈsɪstənt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/consistent-au.mp3",
+      "pos": "noun",
+      "en": "(in the plural) Objects or facts that are coexistent, or in agreement with one another.",
+      "vi": "nhất quán"
     }
   },
   "offset": 425651725
