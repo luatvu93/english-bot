@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 396,
-      "learned": 396,
-      "lastPush": 1790008736079
+      "index": 397,
+      "learned": 397,
+      "lastPush": 1790022802389
     }
   },
   "cache": {
@@ -3174,6 +3174,14 @@
       "pos": "",
       "en": "",
       "vi": "previous"
+    },
+    "subsequent": {
+      "word": "subsequent",
+      "ipa": "/ˈsʌbsəkwənt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/subsequent-us.mp3",
+      "pos": "adjective",
+      "en": "Following in time; coming or being after something else at any time, indefinitely.",
+      "vi": "tiếp theo"
     }
   },
   "offset": 425651725
