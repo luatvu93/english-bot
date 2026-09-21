@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 395,
-      "learned": 395,
-      "lastPush": 1789987996736
+      "index": 396,
+      "learned": 396,
+      "lastPush": 1790008736079
     }
   },
   "cache": {
@@ -3166,6 +3166,14 @@
       "pos": "noun",
       "en": "A situation which allows a mutually exclusive choice between two or more possibilities; a choice between two or more possibilities.",
       "vi": "Thay thế"
+    },
+    "previous": {
+      "word": "previous",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "previous"
     }
   },
   "offset": 425651725
