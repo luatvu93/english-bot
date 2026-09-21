@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 393,
-      "learned": 393,
-      "lastPush": 1789951088846
+      "index": 394,
+      "learned": 394,
+      "lastPush": 1789968310670
     }
   },
   "cache": {
@@ -3150,6 +3150,14 @@
       "pos": "",
       "en": "",
       "vi": "của con người . "
+    },
+    "potential": {
+      "word": "potential",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tiềm năng; khả năng, tiềm lực"
     }
   },
   "offset": 425651725
