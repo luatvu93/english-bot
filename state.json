@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 392,
-      "learned": 392,
-      "lastPush": 1789923568730
+      "index": 393,
+      "learned": 393,
+      "lastPush": 1789951088846
     }
   },
   "cache": {
@@ -3142,6 +3142,14 @@
       "pos": "",
       "en": "",
       "vi": "rõ ràng, rành mạch"
+    },
+    "evident": {
+      "word": "evident",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "của con người . "
     }
   },
   "offset": 425651725
