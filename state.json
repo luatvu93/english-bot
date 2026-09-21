@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 394,
-      "learned": 394,
-      "lastPush": 1789968310670
+      "index": 395,
+      "learned": 395,
+      "lastPush": 1789987996736
     }
   },
   "cache": {
@@ -3158,6 +3158,14 @@
       "pos": "",
       "en": "",
       "vi": "tiềm năng; khả năng, tiềm lực"
+    },
+    "alternative": {
+      "word": "alternative",
+      "ipa": "/ɒl.ˈtɜː(ɹ).nə.tɪv/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/alternative-us.mp3",
+      "pos": "noun",
+      "en": "A situation which allows a mutually exclusive choice between two or more possibilities; a choice between two or more possibilities.",
+      "vi": "Thay thế"
     }
   },
   "offset": 425651725
