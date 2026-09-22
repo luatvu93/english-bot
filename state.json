@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 399,
-      "learned": 399,
-      "lastPush": 1790058064473
+      "index": 400,
+      "learned": 400,
+      "lastPush": 1790077837353
     }
   },
   "cache": {
@@ -3198,6 +3198,14 @@
       "pos": "",
       "en": "",
       "vi": "cuối cùng, sau cùng"
+    },
+    "comprehensive": {
+      "word": "comprehensive",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "toàn diện"
     }
   },
   "offset": 425651725
