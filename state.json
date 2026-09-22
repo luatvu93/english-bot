@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 400,
-      "learned": 400,
-      "lastPush": 1790077837353
+      "index": 401,
+      "learned": 401,
+      "lastPush": 1790091919268
     }
   },
   "cache": {
@@ -3206,6 +3206,14 @@
       "pos": "",
       "en": "",
       "vi": "toàn diện"
+    },
+    "nuance": {
+      "word": "nuance",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "sắc thái"
     }
   },
   "offset": 425651725
