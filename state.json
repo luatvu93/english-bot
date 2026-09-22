@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 397,
-      "learned": 397,
-      "lastPush": 1790022802389
+      "index": 398,
+      "learned": 398,
+      "lastPush": 1790040062305
     }
   },
   "cache": {
@@ -3182,6 +3182,14 @@
       "pos": "adjective",
       "en": "Following in time; coming or being after something else at any time, indefinitely.",
       "vi": "tiếp theo"
+    },
+    "initial": {
+      "word": "initial",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "ban đầu"
     }
   },
   "offset": 425651725
