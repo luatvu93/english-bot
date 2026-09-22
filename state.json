@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 401,
-      "learned": 401,
-      "lastPush": 1790091919268
+      "index": 402,
+      "learned": 402,
+      "lastPush": 1790104417921
     }
   },
   "cache": {
@@ -3214,6 +3214,14 @@
       "pos": "",
       "en": "",
       "vi": "sắc thái"
+    },
+    "paradigm": {
+      "word": "paradigm",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "mẫu hình"
     }
   },
   "offset": 425651725
