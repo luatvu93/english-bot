@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 398,
-      "learned": 398,
-      "lastPush": 1790040062305
+      "index": 399,
+      "learned": 399,
+      "lastPush": 1790058064473
     }
   },
   "cache": {
@@ -3190,6 +3190,14 @@
       "pos": "",
       "en": "",
       "vi": "ban đầu"
+    },
+    "ultimate": {
+      "word": "ultimate",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "cuối cùng, sau cùng"
     }
   },
   "offset": 425651725
