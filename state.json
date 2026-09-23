@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 402,
-      "learned": 402,
-      "lastPush": 1790104417921
+      "index": 403,
+      "learned": 403,
+      "lastPush": 1790125325529
     }
   },
   "cache": {
@@ -3222,6 +3222,14 @@
       "pos": "",
       "en": "",
       "vi": "mẫu hình"
+    },
+    "discourse": {
+      "word": "discourse",
+      "ipa": "/dɪsˈkɔː(ɹ)s/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/discourse-us.mp3",
+      "pos": "noun",
+      "en": "Verbal exchange, conversation.",
+      "vi": "đàm luận"
     }
   },
   "offset": 425651725
