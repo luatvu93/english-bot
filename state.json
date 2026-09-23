@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 405,
-      "learned": 405,
-      "lastPush": 1790158694669
+      "index": 406,
+      "learned": 406,
+      "lastPush": 1790175874395
     }
   },
   "cache": {
@@ -3246,6 +3246,14 @@
       "pos": "",
       "en": "",
       "vi": "Vị trí"
+    },
+    "inference": {
+      "word": "inference",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "suy luận"
     }
   },
   "offset": 425651725
