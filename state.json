@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 403,
-      "learned": 403,
-      "lastPush": 1790125325529
+      "index": 404,
+      "learned": 404,
+      "lastPush": 1790142511759
     }
   },
   "cache": {
@@ -3230,6 +3230,14 @@
       "pos": "noun",
       "en": "Verbal exchange, conversation.",
       "vi": "đàm luận"
+    },
+    "rhetoric": {
+      "word": "rhetoric",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Tu từ học"
     }
   },
   "offset": 425651725
