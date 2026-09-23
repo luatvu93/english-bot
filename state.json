@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 406,
-      "learned": 406,
-      "lastPush": 1790175874395
+      "index": 407,
+      "learned": 407,
+      "lastPush": 1790189942506
     }
   },
   "cache": {
@@ -3254,6 +3254,14 @@
       "pos": "",
       "en": "",
       "vi": "suy luận"
+    },
+    "paradox": {
+      "word": "paradox",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Nghịch lý đấy!"
     }
   },
   "offset": 425651725
