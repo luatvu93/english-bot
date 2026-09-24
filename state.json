@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 408,
-      "learned": 408,
-      "lastPush": 1790211450295
+      "index": 409,
+      "learned": 409,
+      "lastPush": 1790228929059
     }
   },
   "cache": {
@@ -3270,6 +3270,14 @@
       "pos": "",
       "en": "",
       "vi": "[sự; tính] nhập nhằng"
+    },
+    "discrepancy": {
+      "word": "discrepancy",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "trái ngược (của phẩm chất và trọng lượng hàng hóa)"
     }
   },
   "offset": 425651725
