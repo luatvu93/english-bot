@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 407,
-      "learned": 407,
-      "lastPush": 1790189942506
+      "index": 408,
+      "learned": 408,
+      "lastPush": 1790211450295
     }
   },
   "cache": {
@@ -3262,6 +3262,14 @@
       "pos": "",
       "en": "",
       "vi": "Nghịch lý đấy!"
+    },
+    "ambiguity": {
+      "word": "ambiguity",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "[sự; tính] nhập nhằng"
     }
   },
   "offset": 425651725
