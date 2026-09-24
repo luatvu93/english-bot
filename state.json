@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 411,
-      "learned": 411,
-      "lastPush": 1790263623190
+      "index": 412,
+      "learned": 412,
+      "lastPush": 1790277724436
     }
   },
   "cache": {
@@ -3294,6 +3294,14 @@
       "pos": "",
       "en": "",
       "vi": "đồng thuận"
+    },
+    "controversy": {
+      "word": "controversy",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tranh cãi"
     }
   },
   "offset": 425651725
