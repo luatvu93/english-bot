@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 410,
-      "learned": 410,
-      "lastPush": 1790245915893
+      "index": 411,
+      "learned": 411,
+      "lastPush": 1790263623190
     }
   },
   "cache": {
@@ -3286,6 +3286,14 @@
       "pos": "",
       "en": "",
       "vi": "dị thường"
+    },
+    "consensus": {
+      "word": "consensus",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "đồng thuận"
     }
   },
   "offset": 425651725
