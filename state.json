@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 409,
-      "learned": 409,
-      "lastPush": 1790228929059
+      "index": 410,
+      "learned": 410,
+      "lastPush": 1790245915893
     }
   },
   "cache": {
@@ -3278,6 +3278,14 @@
       "pos": "",
       "en": "",
       "vi": "trái ngược (của phẩm chất và trọng lượng hàng hóa)"
+    },
+    "anomaly": {
+      "word": "anomaly",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "dị thường"
     }
   },
   "offset": 425651725
