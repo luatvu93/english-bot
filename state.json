@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 415,
-      "learned": 415,
-      "lastPush": 1790335076322
+      "index": 416,
+      "learned": 416,
+      "lastPush": 1790351435824
     }
   },
   "cache": {
@@ -3326,6 +3326,14 @@
       "pos": "",
       "en": "",
       "vi": "tính chính trực"
+    },
+    "accountability": {
+      "word": "accountability",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "trách nhiệm giải trình"
     }
   },
   "offset": 425651725
