@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 413,
-      "learned": 413,
-      "lastPush": 1790298035725
+      "index": 414,
+      "learned": 414,
+      "lastPush": 1790315940475
     }
   },
   "cache": {
@@ -3310,6 +3310,14 @@
       "pos": "",
       "en": "",
       "vi": "xem xét kỹ lưỡng"
+    },
+    "credibility": {
+      "word": "credibility",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tín nhiệm"
     }
   },
   "offset": 425651725
