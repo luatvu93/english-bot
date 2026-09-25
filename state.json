@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 412,
-      "learned": 412,
-      "lastPush": 1790277724436
+      "index": 413,
+      "learned": 413,
+      "lastPush": 1790298035725
     }
   },
   "cache": {
@@ -3302,6 +3302,14 @@
       "pos": "",
       "en": "",
       "vi": "tranh cãi"
+    },
+    "scrutiny": {
+      "word": "scrutiny",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "xem xét kỹ lưỡng"
     }
   },
   "offset": 425651725
