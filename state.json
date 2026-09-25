@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 414,
-      "learned": 414,
-      "lastPush": 1790315940475
+      "index": 415,
+      "learned": 415,
+      "lastPush": 1790335076322
     }
   },
   "cache": {
@@ -3318,6 +3318,14 @@
       "pos": "",
       "en": "",
       "vi": "tín nhiệm"
+    },
+    "integrity": {
+      "word": "integrity",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tính chính trực"
     }
   },
   "offset": 425651725
