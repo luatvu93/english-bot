@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 417,
-      "learned": 417,
-      "lastPush": 1790364903382
+      "index": 418,
+      "learned": 418,
+      "lastPush": 1790384579323
     }
   },
   "cache": {
@@ -3342,6 +3342,14 @@
       "pos": "",
       "en": "",
       "vi": "tính minh bạch"
+    },
+    "autonomy": {
+      "word": "autonomy",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "sự tự trị (về tài chánh)"
     }
   },
   "offset": 425651725
