@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 418,
-      "learned": 418,
-      "lastPush": 1790384579323
+      "index": 419,
+      "learned": 419,
+      "lastPush": 1790402588127
     }
   },
   "cache": {
@@ -3350,6 +3350,14 @@
       "pos": "",
       "en": "",
       "vi": "sự tự trị (về tài chánh)"
+    },
+    "sovereignty": {
+      "word": "sovereignty",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Chủ quyền"
     }
   },
   "offset": 425651725
