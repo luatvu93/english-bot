@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 421,
-      "learned": 421,
-      "lastPush": 1790434730920
+      "index": 422,
+      "learned": 422,
+      "lastPush": 1790446905816
     }
   },
   "cache": {
@@ -3374,6 +3374,14 @@
       "pos": "",
       "en": "",
       "vi": "tiền lệ"
+    },
+    "mandate": {
+      "word": "mandate",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "ủy thác"
     }
   },
   "offset": 425651725
