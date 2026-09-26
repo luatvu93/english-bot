@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 419,
-      "learned": 419,
-      "lastPush": 1790402588127
+      "index": 420,
+      "learned": 420,
+      "lastPush": 1790421296306
     }
   },
   "cache": {
@@ -3358,6 +3358,14 @@
       "pos": "",
       "en": "",
       "vi": "Chủ quyền"
+    },
+    "jurisdiction": {
+      "word": "jurisdiction",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Quyền lực pháp lý"
     }
   },
   "offset": 425651725
