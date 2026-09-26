@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 420,
-      "learned": 420,
-      "lastPush": 1790421296306
+      "index": 421,
+      "learned": 421,
+      "lastPush": 1790434730920
     }
   },
   "cache": {
@@ -3366,6 +3366,14 @@
       "pos": "",
       "en": "",
       "vi": "Quyền lực pháp lý"
+    },
+    "precedent": {
+      "word": "precedent",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tiền lệ"
     }
   },
   "offset": 425651725
