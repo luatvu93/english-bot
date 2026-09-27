@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 425,
-      "learned": 425,
-      "lastPush": 1790511299397
+      "index": 426,
+      "learned": 426,
+      "lastPush": 1790528336443
     }
   },
   "cache": {
@@ -3406,6 +3406,14 @@
       "pos": "noun",
       "en": "An act of complying.",
       "vi": "sự phù hợp với"
+    },
+    "exemption": {
+      "word": "exemption",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "trường hợp được miễn"
     }
   },
   "offset": 425651725
