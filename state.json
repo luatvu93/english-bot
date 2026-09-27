@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 422,
-      "learned": 422,
-      "lastPush": 1790446905816
+      "index": 423,
+      "learned": 423,
+      "lastPush": 1790470826731
     }
   },
   "cache": {
@@ -3382,6 +3382,14 @@
       "pos": "",
       "en": "",
       "vi": "ủy thác"
+    },
+    "provision": {
+      "word": "provision",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "sự cung cấp"
     }
   },
   "offset": 425651725
