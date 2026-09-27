@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 424,
-      "learned": 424,
-      "lastPush": 1790490291140
+      "index": 425,
+      "learned": 425,
+      "lastPush": 1790511299397
     }
   },
   "cache": {
@@ -3398,6 +3398,14 @@
       "pos": "",
       "en": "",
       "vi": "điều khoản (của hợp đồng hay quy định pháp luật)"
+    },
+    "compliance": {
+      "word": "compliance",
+      "ipa": "/kəmˈplaɪəns/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/compliance-us.mp3",
+      "pos": "noun",
+      "en": "An act of complying.",
+      "vi": "sự phù hợp với"
     }
   },
   "offset": 425651725
