@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 423,
-      "learned": 423,
-      "lastPush": 1790470826731
+      "index": 424,
+      "learned": 424,
+      "lastPush": 1790490291140
     }
   },
   "cache": {
@@ -3390,6 +3390,14 @@
       "pos": "",
       "en": "",
       "vi": "sự cung cấp"
+    },
+    "clause": {
+      "word": "clause",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "điều khoản (của hợp đồng hay quy định pháp luật)"
     }
   },
   "offset": 425651725
