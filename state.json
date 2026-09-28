@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 429,
-      "learned": 429,
-      "lastPush": 1790607952948
+      "index": 430,
+      "learned": 430,
+      "lastPush": 1790629928812
     }
   },
   "cache": {
@@ -3438,6 +3438,14 @@
       "pos": "",
       "en": "",
       "vi": "suy thoái"
+    },
+    "inflation": {
+      "word": "inflation",
+      "ipa": "/ɪnˈfleɪʃən/",
+      "audio": "",
+      "pos": "noun",
+      "en": "An act, instance of, or state of expansion or increase in size, especially by injection of a gas.",
+      "vi": "sự phồng (fomat, đồ hộp)"
     }
   },
   "offset": 425651725
