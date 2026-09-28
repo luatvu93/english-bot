@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 427,
-      "learned": 427,
-      "lastPush": 1790558235406
+      "index": 428,
+      "learned": 428,
+      "lastPush": 1790578804900
     }
   },
   "cache": {
@@ -3422,6 +3422,14 @@
       "pos": "",
       "en": "",
       "vi": "trợ cấp"
+    },
+    "austerity": {
+      "word": "austerity",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "khổ hạnh"
     }
   },
   "offset": 425651725
