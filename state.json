@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 428,
-      "learned": 428,
-      "lastPush": 1790578804900
+      "index": 429,
+      "learned": 429,
+      "lastPush": 1790607952948
     }
   },
   "cache": {
@@ -3430,6 +3430,14 @@
       "pos": "",
       "en": "",
       "vi": "khổ hạnh"
+    },
+    "recession": {
+      "word": "recession",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "suy thoái"
     }
   },
   "offset": 425651725
