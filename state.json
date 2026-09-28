@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 426,
-      "learned": 426,
-      "lastPush": 1790528336443
+      "index": 427,
+      "learned": 427,
+      "lastPush": 1790558235406
     }
   },
   "cache": {
@@ -3414,6 +3414,14 @@
       "pos": "",
       "en": "",
       "vi": "trường hợp được miễn"
+    },
+    "subsidy": {
+      "word": "subsidy",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "trợ cấp"
     }
   },
   "offset": 425651725
