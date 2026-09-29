@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 432,
-      "learned": 432,
-      "lastPush": 1790671420447
+      "index": 433,
+      "learned": 433,
+      "lastPush": 1790694332615
     }
   },
   "cache": {
@@ -3462,6 +3462,14 @@
       "pos": "",
       "en": "",
       "vi": "đòn bẩy"
+    },
+    "momentum": {
+      "word": "momentum",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "phái trọng tiền"
     }
   },
   "offset": 425651725
