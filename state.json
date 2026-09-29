@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 431,
-      "learned": 431,
-      "lastPush": 1790648592276
+      "index": 432,
+      "learned": 432,
+      "lastPush": 1790671420447
     }
   },
   "cache": {
@@ -3454,6 +3454,14 @@
       "pos": "",
       "en": "",
       "vi": "tính bay hơi"
+    },
+    "leverage": {
+      "word": "leverage",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "đòn bẩy"
     }
   },
   "offset": 425651725
