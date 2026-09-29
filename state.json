@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 430,
-      "learned": 430,
-      "lastPush": 1790629928812
+      "index": 431,
+      "learned": 431,
+      "lastPush": 1790648592276
     }
   },
   "cache": {
@@ -3446,6 +3446,14 @@
       "pos": "noun",
       "en": "An act, instance of, or state of expansion or increase in size, especially by injection of a gas.",
       "vi": "sự phồng (fomat, đồ hộp)"
+    },
+    "volatility": {
+      "word": "volatility",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tính bay hơi"
     }
   },
   "offset": 425651725
