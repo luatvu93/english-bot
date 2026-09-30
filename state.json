@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 437,
-      "learned": 437,
-      "lastPush": 1790777068195
+      "index": 438,
+      "learned": 438,
+      "lastPush": 1790795238090
     }
   },
   "cache": {
@@ -3502,6 +3502,14 @@
       "pos": "",
       "en": "",
       "vi": "thứ bậc"
+    },
+    "infrastructure": {
+      "word": "infrastructure",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "cơ sở hạ tầng"
     }
   },
   "offset": 425651725
