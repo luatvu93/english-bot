@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 434,
-      "learned": 434,
-      "lastPush": 1790711799008
+      "index": 435,
+      "learned": 435,
+      "lastPush": 1790732629356
     }
   },
   "cache": {
@@ -3478,6 +3478,14 @@
       "pos": "",
       "en": "",
       "vi": "điểm bắt đầu"
+    },
+    "trajectory": {
+      "word": "trajectory",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "quỹ đạo"
     }
   },
   "offset": 425651725
