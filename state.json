@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 435,
-      "learned": 435,
-      "lastPush": 1790732629356
+      "index": 436,
+      "learned": 436,
+      "lastPush": 1790753322718
     }
   },
   "cache": {
@@ -3486,6 +3486,14 @@
       "pos": "",
       "en": "",
       "vi": "quỹ đạo"
+    },
+    "spectrum": {
+      "word": "spectrum",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "phổ, hàm phổ, mật độ phổ; đồ thị của hàm phổ"
     }
   },
   "offset": 425651725
