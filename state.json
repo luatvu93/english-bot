@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 440,
-      "learned": 440,
-      "lastPush": 1790840828176
+      "index": 441,
+      "learned": 441,
+      "lastPush": 1790866070474
     }
   },
   "cache": {
@@ -3526,6 +3526,14 @@
       "pos": "",
       "en": "",
       "vi": "sự giám sát"
+    },
+    "advocate": {
+      "word": "advocate",
+      "ipa": "/ˈæd.və.keɪt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/advocate-uk.mp3",
+      "pos": "noun",
+      "en": "Someone whose job is to speak for someone's case in a court of law; a counsel.",
+      "vi": "biện hộ"
     }
   },
   "offset": 425651725
