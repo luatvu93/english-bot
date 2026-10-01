@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 439,
-      "learned": 439,
-      "lastPush": 1790818824358
+      "index": 440,
+      "learned": 440,
+      "lastPush": 1790840828176
     }
   },
   "cache": {
@@ -3518,6 +3518,14 @@
       "pos": "",
       "en": "",
       "vi": "ngàn hậu cần"
+    },
+    "surveillance": {
+      "word": "surveillance",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "sự giám sát"
     }
   },
   "offset": 425651725
