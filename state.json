@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 441,
-      "learned": 441,
-      "lastPush": 1790866070474
+      "index": 442,
+      "learned": 442,
+      "lastPush": 1790884378076
     }
   },
   "cache": {
@@ -3534,6 +3534,14 @@
       "pos": "noun",
       "en": "Someone whose job is to speak for someone's case in a court of law; a counsel.",
       "vi": "biện hộ"
+    },
+    "contend": {
+      "word": "contend",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tranh luận"
     }
   },
   "offset": 425651725
