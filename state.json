@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 438,
-      "learned": 438,
-      "lastPush": 1790795238090
+      "index": 439,
+      "learned": 439,
+      "lastPush": 1790818824358
     }
   },
   "cache": {
@@ -3510,6 +3510,14 @@
       "pos": "",
       "en": "",
       "vi": "cơ sở hạ tầng"
+    },
+    "logistics": {
+      "word": "logistics",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "ngàn hậu cần"
     }
   },
   "offset": 425651725
