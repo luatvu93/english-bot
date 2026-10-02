@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 445,
-      "learned": 445,
-      "lastPush": 1790949879527
+      "index": 446,
+      "learned": 446,
+      "lastPush": 1790968236257
     }
   },
   "cache": {
@@ -3566,6 +3566,14 @@
       "pos": "verb",
       "en": "To verify something by supplying evidence; to authenticate or corroborate",
       "vi": "Quyết toán"
+    },
+    "corroborate": {
+      "word": "corroborate",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "chứng thực"
     }
   },
   "offset": 425651725
