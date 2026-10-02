@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 442,
-      "learned": 442,
-      "lastPush": 1790884378076
+      "index": 443,
+      "learned": 443,
+      "lastPush": 1790905943294
     }
   },
   "cache": {
@@ -3542,6 +3542,14 @@
       "pos": "",
       "en": "",
       "vi": "tranh luận"
+    },
+    "posit": {
+      "word": "posit",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Tiên đề"
     }
   },
   "offset": 425651725
