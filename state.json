@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 443,
-      "learned": 443,
-      "lastPush": 1790905943294
+      "index": 444,
+      "learned": 444,
+      "lastPush": 1790926450938
     }
   },
   "cache": {
@@ -3550,6 +3550,14 @@
       "pos": "",
       "en": "",
       "vi": "Tiên đề"
+    },
+    "refute": {
+      "word": "refute",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "bác bỏ"
     }
   },
   "offset": 425651725
