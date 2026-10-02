@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 444,
-      "learned": 444,
-      "lastPush": 1790926450938
+      "index": 445,
+      "learned": 445,
+      "lastPush": 1790949879527
     }
   },
   "cache": {
@@ -3558,6 +3558,14 @@
       "pos": "",
       "en": "",
       "vi": "bác bỏ"
+    },
+    "substantiate": {
+      "word": "substantiate",
+      "ipa": "/səbˈstanʃɪeɪt/",
+      "audio": "",
+      "pos": "verb",
+      "en": "To verify something by supplying evidence; to authenticate or corroborate",
+      "vi": "Quyết toán"
     }
   },
   "offset": 425651725
