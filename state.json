@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 450,
-      "learned": 450,
-      "lastPush": 1791045144476
+      "index": 451,
+      "learned": 451,
+      "lastPush": 1791055285937
     }
   },
   "cache": {
@@ -3606,6 +3606,14 @@
       "pos": "verb",
       "en": "To make less severe, as a pain or difficulty.",
       "vi": "giảm nhẹ"
+    },
+    "reconcile": {
+      "word": "reconcile",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": " ĐỐI SOÁT"
     }
   },
   "offset": 425651725
