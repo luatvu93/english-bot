@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 446,
-      "learned": 446,
-      "lastPush": 1790968236257
+      "index": 447,
+      "learned": 447,
+      "lastPush": 1790991160656
     }
   },
   "cache": {
@@ -3574,6 +3574,14 @@
       "pos": "",
       "en": "",
       "vi": "chứng thực"
+    },
+    "undermine": {
+      "word": "undermine",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "làm suy yếu"
     }
   },
   "offset": 425651725
