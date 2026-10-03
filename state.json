@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 447,
-      "learned": 447,
-      "lastPush": 1790991160656
+      "index": 448,
+      "learned": 448,
+      "lastPush": 1791010892685
     }
   },
   "cache": {
@@ -3582,6 +3582,14 @@
       "pos": "",
       "en": "",
       "vi": "làm suy yếu"
+    },
+    "mitigate": {
+      "word": "mitigate",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Giảm thiểu"
     }
   },
   "offset": 425651725
