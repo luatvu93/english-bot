@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 449,
-      "learned": 449,
-      "lastPush": 1791030327703
+      "index": 450,
+      "learned": 450,
+      "lastPush": 1791045144476
     }
   },
   "cache": {
@@ -3598,6 +3598,14 @@
       "pos": "",
       "en": "",
       "vi": "làm trầm trọng thêm"
+    },
+    "alleviate": {
+      "word": "alleviate",
+      "ipa": "/əˈli.vi.eɪt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/alleviate-us.mp3",
+      "pos": "verb",
+      "en": "To make less severe, as a pain or difficulty.",
+      "vi": "giảm nhẹ"
     }
   },
   "offset": 425651725
