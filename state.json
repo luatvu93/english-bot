@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 448,
-      "learned": 448,
-      "lastPush": 1791010892685
+      "index": 449,
+      "learned": 449,
+      "lastPush": 1791030327703
     }
   },
   "cache": {
@@ -3590,6 +3590,14 @@
       "pos": "",
       "en": "",
       "vi": "Giảm thiểu"
+    },
+    "exacerbate": {
+      "word": "exacerbate",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "làm trầm trọng thêm"
     }
   },
   "offset": 425651725
