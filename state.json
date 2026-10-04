@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 451,
-      "learned": 451,
-      "lastPush": 1791055285937
+      "index": 452,
+      "learned": 452,
+      "lastPush": 1791080021018
     }
   },
   "cache": {
@@ -3614,6 +3614,14 @@
       "pos": "",
       "en": "",
       "vi": " ĐỐI SOÁT"
+    },
+    "delegate": {
+      "word": "delegate",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "ủy quyền"
     }
   },
   "offset": 425651725
