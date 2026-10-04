@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 452,
-      "learned": 452,
-      "lastPush": 1791080021018
+      "index": 453,
+      "learned": 453,
+      "lastPush": 1791102409312
     }
   },
   "cache": {
@@ -3622,6 +3622,14 @@
       "pos": "",
       "en": "",
       "vi": "ủy quyền"
+    },
+    "consolidate": {
+      "word": "consolidate",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "liên kết"
     }
   },
   "offset": 425651725
