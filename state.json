@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 458,
-      "learned": 458,
-      "lastPush": 1791215949009
+      "index": 459,
+      "learned": 459,
+      "lastPush": 1791238818675
     }
   },
   "cache": {
@@ -3670,6 +3670,14 @@
       "pos": "verb",
       "en": "Of a heavenly body, to be at the highest point, reach its greatest altitude.",
       "vi": "lên đến đỉnh điểm"
+    },
+    "supersede": {
+      "word": "supersede",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Thế, thay thế, bỏ không dùng"
     }
   },
   "offset": 425651725
