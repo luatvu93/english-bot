@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 456,
-      "learned": 456,
-      "lastPush": 1791163389515
+      "index": 457,
+      "learned": 457,
+      "lastPush": 1791184358620
     }
   },
   "cache": {
@@ -3654,6 +3654,14 @@
       "pos": "",
       "en": "",
       "vi": "ước định"
+    },
+    "permeate": {
+      "word": "permeate",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  01 HOURS 47 MINUTES 21 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
     }
   },
   "offset": 425651725
