@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 457,
-      "learned": 457,
-      "lastPush": 1791184358620
+      "index": 458,
+      "learned": 458,
+      "lastPush": 1791215949009
     }
   },
   "cache": {
@@ -3662,6 +3662,14 @@
       "pos": "",
       "en": "",
       "vi": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  01 HOURS 47 MINUTES 21 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    },
+    "culminate": {
+      "word": "culminate",
+      "ipa": "/ˈkʌlmɪneɪt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/culminate-uk.mp3",
+      "pos": "verb",
+      "en": "Of a heavenly body, to be at the highest point, reach its greatest altitude.",
+      "vi": "lên đến đỉnh điểm"
     }
   },
   "offset": 425651725
