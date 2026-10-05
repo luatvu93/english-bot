@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 455,
-      "learned": 455,
-      "lastPush": 1791137366415
+      "index": 456,
+      "learned": 456,
+      "lastPush": 1791163389515
     }
   },
   "cache": {
@@ -3646,6 +3646,14 @@
       "pos": "",
       "en": "",
       "vi": "xem xét kỹ lưỡng"
+    },
+    "stipulate": {
+      "word": "stipulate",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "ước định"
     }
   },
   "offset": 425651725
