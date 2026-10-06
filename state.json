@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 462,
-      "learned": 462,
-      "lastPush": 1791302520207
+      "index": 463,
+      "learned": 463,
+      "lastPush": 1791320031145
     }
   },
   "cache": {
@@ -3702,6 +3702,14 @@
       "pos": "",
       "en": "",
       "vi": "Coi như, cho rằng."
+    },
+    "render": {
+      "word": "render",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "trả"
     }
   },
   "offset": 425651725
