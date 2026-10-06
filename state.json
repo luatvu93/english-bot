@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 461,
-      "learned": 461,
-      "lastPush": 1791278476187
+      "index": 462,
+      "learned": 462,
+      "lastPush": 1791302520207
     }
   },
   "cache": {
@@ -3694,6 +3694,14 @@
       "pos": "",
       "en": "",
       "vi": "xem xét cẩn thận, sắc sảo"
+    },
+    "deem": {
+      "word": "deem",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Coi như, cho rằng."
     }
   },
   "offset": 425651725
