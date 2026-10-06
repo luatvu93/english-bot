@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 459,
-      "learned": 459,
-      "lastPush": 1791238818675
+      "index": 460,
+      "learned": 460,
+      "lastPush": 1791254113034
     }
   },
   "cache": {
@@ -3678,6 +3678,14 @@
       "pos": "",
       "en": "",
       "vi": "Thế, thay thế, bỏ không dùng"
+    },
+    "curtail": {
+      "word": "curtail",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "cắt bớt"
     }
   },
   "offset": 425651725
