@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 465,
-      "learned": 465,
-      "lastPush": 1791359094542
+      "index": 466,
+      "learned": 466,
+      "lastPush": 1791384314925
     }
   },
   "cache": {
@@ -3726,6 +3726,14 @@
       "pos": "",
       "en": "",
       "vi": "cấu tạo"
+    },
+    "entail": {
+      "word": "entail",
+      "ipa": "/ənˈteɪl/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/entail-us.mp3",
+      "pos": "verb",
+      "en": "To imply or require.",
+      "vi": "tài sản đất đai của người thừa kế hạn định"
     }
   },
   "offset": 425651725
