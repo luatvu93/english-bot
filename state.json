@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 466,
-      "learned": 466,
-      "lastPush": 1791384314925
+      "index": 467,
+      "learned": 467,
+      "lastPush": 1791403855393
     }
   },
   "cache": {
@@ -3734,6 +3734,14 @@
       "pos": "verb",
       "en": "To imply or require.",
       "vi": "tài sản đất đai của người thừa kế hạn định"
+    },
+    "preclude": {
+      "word": "preclude",
+      "ipa": "/pɹiːˈkluːd/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/preclude-us.mp3",
+      "pos": "verb",
+      "en": "Remove the possibility of; rule out; prevent or exclude; to make impossible.",
+      "vi": "loại trừ"
     }
   },
   "offset": 425651725
