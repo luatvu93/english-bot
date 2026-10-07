@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 464,
-      "learned": 464,
-      "lastPush": 1791337999052
+      "index": 465,
+      "learned": 465,
+      "lastPush": 1791359094542
     }
   },
   "cache": {
@@ -3718,6 +3718,14 @@
       "pos": "",
       "en": "",
       "vi": "trát bắt giam"
+    },
+    "constitute": {
+      "word": "constitute",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "cấu tạo"
     }
   },
   "offset": 425651725
