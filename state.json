@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 463,
-      "learned": 463,
-      "lastPush": 1791320031145
+      "index": 464,
+      "learned": 464,
+      "lastPush": 1791337999052
     }
   },
   "cache": {
@@ -3710,6 +3710,14 @@
       "pos": "",
       "en": "",
       "vi": "trả"
+    },
+    "warrant": {
+      "word": "warrant",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "trát bắt giam"
     }
   },
   "offset": 425651725
