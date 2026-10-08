@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 467,
-      "learned": 467,
-      "lastPush": 1791403855393
+      "index": 468,
+      "learned": 468,
+      "lastPush": 1791426089709
     }
   },
   "cache": {
@@ -3742,6 +3742,14 @@
       "pos": "verb",
       "en": "Remove the possibility of; rule out; prevent or exclude; to make impossible.",
       "vi": "loại trừ"
+    },
+    "impede": {
+      "word": "impede",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "cản trở"
     }
   },
   "offset": 425651725
