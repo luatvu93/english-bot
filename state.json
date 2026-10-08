@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 469,
-      "learned": 469,
-      "lastPush": 1791450561778
+      "index": 470,
+      "learned": 470,
+      "lastPush": 1791476768946
     }
   },
   "cache": {
@@ -3758,6 +3758,14 @@
       "pos": "",
       "en": "",
       "vi": "cản trở"
+    },
+    "foster": {
+      "word": "foster",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Nuôi dưỡng"
     }
   },
   "offset": 425651725
