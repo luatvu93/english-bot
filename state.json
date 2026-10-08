@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 470,
-      "learned": 470,
-      "lastPush": 1791476768946
+      "index": 471,
+      "learned": 471,
+      "lastPush": 1791494690689
     }
   },
   "cache": {
@@ -3766,6 +3766,14 @@
       "pos": "",
       "en": "",
       "vi": "Nuôi dưỡng"
+    },
+    "profound": {
+      "word": "profound",
+      "ipa": "/pɹəˈfaʊnd/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/profound-us.mp3",
+      "pos": "noun",
+      "en": "The deep; the sea; the ocean.",
+      "vi": "sâu sắc"
     }
   },
   "offset": 425651725
