@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 473,
-      "learned": 473,
-      "lastPush": 1791538565635
+      "index": 474,
+      "learned": 474,
+      "lastPush": 1791563465296
     }
   },
   "cache": {
@@ -3790,6 +3790,14 @@
       "pos": "adjective",
       "en": "Seemingly or apparently valid, likely, or acceptable; conceivably true or likely",
       "vi": "hợp lý"
+    },
+    "arbitrary": {
+      "word": "arbitrary",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tùy ý"
     }
   },
   "offset": 425651725
