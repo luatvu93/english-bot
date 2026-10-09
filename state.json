@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 471,
-      "learned": 471,
-      "lastPush": 1791494690689
+      "index": 472,
+      "learned": 472,
+      "lastPush": 1791513545911
     }
   },
   "cache": {
@@ -3774,6 +3774,14 @@
       "pos": "noun",
       "en": "The deep; the sea; the ocean.",
       "vi": "sâu sắc"
+    },
+    "compelling": {
+      "word": "compelling",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "hấp dẫn"
     }
   },
   "offset": 425651725
