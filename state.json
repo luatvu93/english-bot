@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 472,
-      "learned": 472,
-      "lastPush": 1791513545911
+      "index": 473,
+      "learned": 473,
+      "lastPush": 1791538565635
     }
   },
   "cache": {
@@ -3782,6 +3782,14 @@
       "pos": "",
       "en": "",
       "vi": "hấp dẫn"
+    },
+    "plausible": {
+      "word": "plausible",
+      "ipa": "/ˈplɔːz.ə.bəl/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/plausible-us.mp3",
+      "pos": "adjective",
+      "en": "Seemingly or apparently valid, likely, or acceptable; conceivably true or likely",
+      "vi": "hợp lý"
     }
   },
   "offset": 425651725
