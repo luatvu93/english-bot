@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 477,
-      "learned": 477,
-      "lastPush": 1791619673198
+      "index": 478,
+      "learned": 478,
+      "lastPush": 1791642369169
     }
   },
   "cache": {
@@ -3822,6 +3822,14 @@
       "pos": "",
       "en": "",
       "vi": "tràn lan khắp"
+    },
+    "prevalent": {
+      "word": "prevalent",
+      "ipa": "/ˈpɹɛvələnt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/prevalent-us.mp3",
+      "pos": "adjective",
+      "en": "Widespread or preferred.",
+      "vi": "phổ biến"
     }
   },
   "offset": 425651725
