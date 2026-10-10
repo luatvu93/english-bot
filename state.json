@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 478,
-      "learned": 478,
-      "lastPush": 1791642369169
+      "index": 479,
+      "learned": 479,
+      "lastPush": 1791657870909
     }
   },
   "cache": {
@@ -3830,6 +3830,14 @@
       "pos": "adjective",
       "en": "Widespread or preferred.",
       "vi": "phổ biến"
+    },
+    "robust": {
+      "word": "robust",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "thực sự mạnh mẽ."
     }
   },
   "offset": 425651725
