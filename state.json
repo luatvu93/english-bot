@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 476,
-      "learned": 476,
-      "lastPush": 1791597522511
+      "index": 477,
+      "learned": 477,
+      "lastPush": 1791619673198
     }
   },
   "cache": {
@@ -3814,6 +3814,14 @@
       "pos": "",
       "en": "",
       "vi": "tu nhien"
+    },
+    "pervasive": {
+      "word": "pervasive",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tràn lan khắp"
     }
   },
   "offset": 425651725
