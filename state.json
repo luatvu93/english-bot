@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 475,
-      "learned": 475,
-      "lastPush": 1791580128343
+      "index": 476,
+      "learned": 476,
+      "lastPush": 1791597522511
     }
   },
   "cache": {
@@ -3806,6 +3806,14 @@
       "pos": "",
       "en": "",
       "vi": "Vốn có/Nội tại"
+    },
+    "intrinsic": {
+      "word": "intrinsic",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tu nhien"
     }
   },
   "offset": 425651725
