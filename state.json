@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 482,
-      "learned": 482,
-      "lastPush": 1791727946133
+      "index": 483,
+      "learned": 483,
+      "lastPush": 1791744803926
     }
   },
   "cache": {
@@ -3862,6 +3862,14 @@
       "pos": "",
       "en": "",
       "vi": "mạch lạc"
+    },
+    "cohesive": {
+      "word": "cohesive",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "dính"
     }
   },
   "offset": 425651725
