@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 480,
-      "learned": 480,
-      "lastPush": 1791681869773
+      "index": 481,
+      "learned": 481,
+      "lastPush": 1791703412873
     }
   },
   "cache": {
@@ -3846,6 +3846,14 @@
       "pos": "",
       "en": "",
       "vi": "nghiêm ngặt"
+    },
+    "nuanced": {
+      "word": "nuanced",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "nhiều sắc thái"
     }
   },
   "offset": 425651725
