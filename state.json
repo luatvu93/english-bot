@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 479,
-      "learned": 479,
-      "lastPush": 1791657870909
+      "index": 480,
+      "learned": 480,
+      "lastPush": 1791681869773
     }
   },
   "cache": {
@@ -3838,6 +3838,14 @@
       "pos": "",
       "en": "",
       "vi": "thực sự mạnh mẽ."
+    },
+    "rigorous": {
+      "word": "rigorous",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "nghiêm ngặt"
     }
   },
   "offset": 425651725
