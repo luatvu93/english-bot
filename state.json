@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 483,
-      "learned": 483,
-      "lastPush": 1791744803926
+      "index": 484,
+      "learned": 484,
+      "lastPush": 1791770065021
     }
   },
   "cache": {
@@ -3870,6 +3870,14 @@
       "pos": "",
       "en": "",
       "vi": "dính"
+    },
+    "explicit": {
+      "word": "explicit",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "rõ ràng"
     }
   },
   "offset": 425651725
