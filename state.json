@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 487,
-      "learned": 487,
-      "lastPush": 1791861353198
+      "index": 488,
+      "learned": 488,
+      "lastPush": 1791887994297
     }
   },
   "cache": {
@@ -3902,6 +3902,14 @@
       "pos": "",
       "en": "",
       "vi": "tạm định"
+    },
+    "unprecedented": {
+      "word": "unprecedented",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "chưa từng có"
     }
   },
   "offset": 425651725
