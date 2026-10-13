@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 488,
-      "learned": 488,
-      "lastPush": 1791887994297
+      "index": 489,
+      "learned": 489,
+      "lastPush": 1791913636356
     }
   },
   "cache": {
@@ -3910,6 +3910,14 @@
       "pos": "",
       "en": "",
       "vi": "chưa từng có"
+    },
+    "formidable": {
+      "word": "formidable",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "khó vượt qua"
     }
   },
   "offset": 425651725
