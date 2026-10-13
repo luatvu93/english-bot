@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 486,
-      "learned": 486,
-      "lastPush": 1791827394454
+      "index": 487,
+      "learned": 487,
+      "lastPush": 1791861353198
     }
   },
   "cache": {
@@ -3894,6 +3894,14 @@
       "pos": "",
       "en": "",
       "vi": "thử"
+    },
+    "provisional": {
+      "word": "provisional",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tạm định"
     }
   },
   "offset": 425651725
