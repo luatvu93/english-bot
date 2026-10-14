@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 490,
-      "learned": 490,
-      "lastPush": 1791941300512
+      "index": 491,
+      "learned": 491,
+      "lastPush": 1791959321987
     }
   },
   "cache": {
@@ -3926,6 +3926,14 @@
       "pos": "",
       "en": "",
       "vi": "tỉ mỉ"
+    },
+    "pragmatic": {
+      "word": "pragmatic",
+      "ipa": "/pɹæɡˈmætɪk/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/pragmatic-us.mp3",
+      "pos": "noun",
+      "en": "A man of business.",
+      "vi": "thực dụng"
     }
   },
   "offset": 425651725
