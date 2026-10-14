@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 491,
-      "learned": 491,
-      "lastPush": 1791959321987
+      "index": 492,
+      "learned": 492,
+      "lastPush": 1791980037981
     }
   },
   "cache": {
@@ -3934,6 +3934,14 @@
       "pos": "noun",
       "en": "A man of business.",
       "vi": "thực dụng"
+    },
+    "sceptical": {
+      "word": "sceptical",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Chủ nghĩa hoài nghi"
     }
   },
   "offset": 425651725
