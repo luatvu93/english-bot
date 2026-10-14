@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 489,
-      "learned": 489,
-      "lastPush": 1791913636356
+      "index": 490,
+      "learned": 490,
+      "lastPush": 1791941300512
     }
   },
   "cache": {
@@ -3918,6 +3918,14 @@
       "pos": "",
       "en": "",
       "vi": "khó vượt qua"
+    },
+    "meticulous": {
+      "word": "meticulous",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tỉ mỉ"
     }
   },
   "offset": 425651725
