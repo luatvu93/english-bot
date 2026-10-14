@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 492,
-      "learned": 492,
-      "lastPush": 1791980037981
+      "index": 493,
+      "learned": 493,
+      "lastPush": 1791997822804
     }
   },
   "cache": {
@@ -3942,6 +3942,14 @@
       "pos": "",
       "en": "",
       "vi": "Chủ nghĩa hoài nghi"
+    },
+    "ambivalent": {
+      "word": "ambivalent",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tương hợp"
     }
   },
   "offset": 425651725
