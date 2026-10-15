@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 495,
-      "learned": 495,
-      "lastPush": 1792043334865
+      "index": 496,
+      "learned": 496,
+      "lastPush": 1792059716958
     }
   },
   "cache": {
@@ -3966,6 +3966,14 @@
       "pos": "",
       "en": "",
       "vi": "cô đọng"
+    },
+    "verbose": {
+      "word": "verbose",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "dài dòng, dài dòng"
     }
   },
   "offset": 425651725
