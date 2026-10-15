@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 497,
-      "learned": 497,
-      "lastPush": 1792076859428
+      "index": 498,
+      "learned": 498,
+      "lastPush": 1792091088128
     }
   },
   "cache": {
@@ -3982,6 +3982,14 @@
       "pos": "",
       "en": "",
       "vi": "Dự phòng"
+    },
+    "obsolete": {
+      "word": "obsolete",
+      "ipa": "/ˈɒbsəliːt/",
+      "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/obsolete-us.mp3",
+      "pos": "adjective",
+      "en": "(of words, equipment, etc.) No longer in use; gone into disuse; disused or neglected (often by preference for something newer, which replaces the subject).",
+      "vi": "lỗi thời"
     }
   },
   "offset": 425651725
