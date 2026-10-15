@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 494,
-      "learned": 494,
-      "lastPush": 1792026276863
+      "index": 495,
+      "learned": 495,
+      "lastPush": 1792043334865
     }
   },
   "cache": {
@@ -3958,6 +3958,14 @@
       "pos": "",
       "en": "",
       "vi": "thẳng thắn"
+    },
+    "succinct": {
+      "word": "succinct",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "cô đọng"
     }
   },
   "offset": 425651725
