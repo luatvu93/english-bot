@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 493,
-      "learned": 493,
-      "lastPush": 1791997822804
+      "index": 494,
+      "learned": 494,
+      "lastPush": 1792026276863
     }
   },
   "cache": {
@@ -3950,6 +3950,14 @@
       "pos": "",
       "en": "",
       "vi": "tương hợp"
+    },
+    "candid": {
+      "word": "candid",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "thẳng thắn"
     }
   },
   "offset": 425651725
