@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 496,
-      "learned": 496,
-      "lastPush": 1792059716958
+      "index": 497,
+      "learned": 497,
+      "lastPush": 1792076859428
     }
   },
   "cache": {
@@ -3974,6 +3974,14 @@
       "pos": "",
       "en": "",
       "vi": "dài dòng, dài dòng"
+    },
+    "redundant": {
+      "word": "redundant",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Dự phòng"
     }
   },
   "offset": 425651725
