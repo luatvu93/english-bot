@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 499,
-      "learned": 499,
-      "lastPush": 1792112001114
+      "index": 500,
+      "learned": 500,
+      "lastPush": 1792127426448
     }
   },
   "cache": {
@@ -3998,6 +3998,14 @@
       "pos": "",
       "en": "",
       "vi": "mang lại thành tựu"
+    },
+    "feasible": {
+      "word": "feasible",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "khả thi"
     }
   },
   "offset": 425651725
