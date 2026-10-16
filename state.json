@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 500,
-      "learned": 500,
-      "lastPush": 1792127426448
+      "index": 501,
+      "learned": 501,
+      "lastPush": 1792143860520
     }
   },
   "cache": {
@@ -4006,6 +4006,14 @@
       "pos": "",
       "en": "",
       "vi": "khả thi"
+    },
+    "ephemeral": {
+      "word": "ephemeral",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "chóng tàn, ngắn đời"
     }
   },
   "offset": 425651725
