@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 501,
-      "learned": 501,
-      "lastPush": 1792143860520
+      "index": 502,
+      "learned": 502,
+      "lastPush": 1792160216641
     }
   },
   "cache": {
@@ -4014,6 +4014,14 @@
       "pos": "",
       "en": "",
       "vi": "chóng tàn, ngắn đời"
+    },
+    "ubiquitous": {
+      "word": "ubiquitous",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "phổ biến"
     }
   },
   "offset": 425651725
