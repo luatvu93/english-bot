@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 502,
-      "learned": 502,
-      "lastPush": 1792160216641
+      "index": 503,
+      "learned": 503,
+      "lastPush": 1792174013964
     }
   },
   "cache": {
@@ -4022,6 +4022,14 @@
       "pos": "",
       "en": "",
       "vi": "phổ biến"
+    },
+    "esoteric": {
+      "word": "esoteric",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "bí truyền"
     }
   },
   "offset": 425651725
