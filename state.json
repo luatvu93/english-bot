@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 508,
-      "learned": 508,
-      "lastPush": 1792253252361
+      "index": 509,
+      "learned": 509,
+      "lastPush": 1792261514671
     }
   },
   "cache": {
@@ -4070,6 +4070,14 @@
       "pos": "",
       "en": "",
       "vi": "mô phạm"
+    },
+    "didactic": {
+      "word": "didactic",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "giáo khoa"
     }
   },
   "offset": 425651725
