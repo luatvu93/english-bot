@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 503,
-      "learned": 503,
-      "lastPush": 1792174013964
+      "index": 504,
+      "learned": 504,
+      "lastPush": 1792198439813
     }
   },
   "cache": {
@@ -4030,6 +4030,14 @@
       "pos": "",
       "en": "",
       "vi": "bí truyền"
+    },
+    "idiosyncratic": {
+      "word": "idiosyncratic",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "mang phong cách riêng"
     }
   },
   "offset": 425651725
