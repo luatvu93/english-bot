@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 506,
-      "learned": 506,
-      "lastPush": 1792228362495
+      "index": 507,
+      "learned": 507,
+      "lastPush": 1792241880717
     }
   },
   "cache": {
@@ -4054,6 +4054,14 @@
       "pos": "",
       "en": "",
       "vi": "lỗi thời"
+    },
+    "iconoclastic": {
+      "word": "iconoclastic",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "iconoclastic"
     }
   },
   "offset": 425651725
