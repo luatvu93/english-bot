@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 504,
-      "learned": 504,
-      "lastPush": 1792198439813
+      "index": 505,
+      "learned": 505,
+      "lastPush": 1792213516050
     }
   },
   "cache": {
@@ -4038,6 +4038,14 @@
       "pos": "",
       "en": "",
       "vi": "mang phong cách riêng"
+    },
+    "quintessential": {
+      "word": "quintessential",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tinh túy"
     }
   },
   "offset": 425651725
