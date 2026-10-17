@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 507,
-      "learned": 507,
-      "lastPush": 1792241880717
+      "index": 508,
+      "learned": 508,
+      "lastPush": 1792253252361
     }
   },
   "cache": {
@@ -4062,6 +4062,14 @@
       "pos": "",
       "en": "",
       "vi": "iconoclastic"
+    },
+    "pedantic": {
+      "word": "pedantic",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "mô phạm"
     }
   },
   "offset": 425651725
