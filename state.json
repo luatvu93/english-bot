@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 505,
-      "learned": 505,
-      "lastPush": 1792213516050
+      "index": 506,
+      "learned": 506,
+      "lastPush": 1792228362495
     }
   },
   "cache": {
@@ -4046,6 +4046,14 @@
       "pos": "",
       "en": "",
       "vi": "tinh túy"
+    },
+    "anachronistic": {
+      "word": "anachronistic",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "lỗi thời"
     }
   },
   "offset": 425651725
