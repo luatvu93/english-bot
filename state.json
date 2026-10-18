@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 509,
-      "learned": 509,
-      "lastPush": 1792261514671
+      "index": 510,
+      "learned": 510,
+      "lastPush": 1792283349255
     }
   },
   "cache": {
@@ -4078,6 +4078,14 @@
       "pos": "",
       "en": "",
       "vi": "giáo khoa"
+    },
+    "laconic": {
+      "word": "laconic",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "laconic"
     }
   },
   "offset": 425651725
