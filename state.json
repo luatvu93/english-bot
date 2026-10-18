@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 513,
-      "learned": 513,
-      "lastPush": 1792329578978
+      "index": 514,
+      "learned": 514,
+      "lastPush": 1792341338140
     }
   },
   "cache": {
@@ -4110,6 +4110,14 @@
       "pos": "",
       "en": "",
       "vi": "ngậm ngùi"
+    },
+    "recalcitrant": {
+      "word": "recalcitrant",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "ngoan cố"
     }
   },
   "offset": 425651725
