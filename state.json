@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 512,
-      "learned": 512,
-      "lastPush": 1792314948595
+      "index": 513,
+      "learned": 513,
+      "lastPush": 1792329578978
     }
   },
   "cache": {
@@ -4102,6 +4102,14 @@
       "pos": "",
       "en": "",
       "vi": "lầm lì"
+    },
+    "obstreperous": {
+      "word": "obstreperous",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "ngậm ngùi"
     }
   },
   "offset": 425651725
