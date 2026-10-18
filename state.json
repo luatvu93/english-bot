@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 514,
-      "learned": 514,
-      "lastPush": 1792341338140
+      "index": 515,
+      "learned": 515,
+      "lastPush": 1792349541346
     }
   },
   "cache": {
@@ -4118,6 +4118,14 @@
       "pos": "",
       "en": "",
       "vi": "ngoan cố"
+    },
+    "intransigent": {
+      "word": "intransigent",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "không khoan nhượng"
     }
   },
   "offset": 425651725
