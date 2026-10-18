@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 510,
-      "learned": 510,
-      "lastPush": 1792283349255
+      "index": 511,
+      "learned": 511,
+      "lastPush": 1792299375972
     }
   },
   "cache": {
@@ -4086,6 +4086,14 @@
       "pos": "",
       "en": "",
       "vi": "laconic"
+    },
+    "garrulous": {
+      "word": "garrulous",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "khàn khàn"
     }
   },
   "offset": 425651725
