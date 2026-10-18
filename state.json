@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 511,
-      "learned": 511,
-      "lastPush": 1792299375972
+      "index": 512,
+      "learned": 512,
+      "lastPush": 1792314948595
     }
   },
   "cache": {
@@ -4094,6 +4094,14 @@
       "pos": "",
       "en": "",
       "vi": "khàn khàn"
+    },
+    "taciturn": {
+      "word": "taciturn",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "lầm lì"
     }
   },
   "offset": 425651725
