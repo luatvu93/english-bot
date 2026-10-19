@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 516,
-      "learned": 516,
-      "lastPush": 1792370114671
+      "index": 517,
+      "learned": 517,
+      "lastPush": 1792386802887
     }
   },
   "cache": {
@@ -4134,6 +4134,14 @@
       "pos": "",
       "en": "",
       "vi": "cứng nhắc"
+    },
+    "truculent": {
+      "word": "truculent",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "truculent"
     }
   },
   "offset": 425651725
