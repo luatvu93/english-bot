@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 517,
-      "learned": 517,
-      "lastPush": 1792386802887
+      "index": 518,
+      "learned": 518,
+      "lastPush": 1792406752020
     }
   },
   "cache": {
@@ -4142,6 +4142,14 @@
       "pos": "",
       "en": "",
       "vi": "truculent"
+    },
+    "belligerent": {
+      "word": "belligerent",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tham chiến"
     }
   },
   "offset": 425651725
