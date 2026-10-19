@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 515,
-      "learned": 515,
-      "lastPush": 1792349541346
+      "index": 516,
+      "learned": 516,
+      "lastPush": 1792370114671
     }
   },
   "cache": {
@@ -4126,6 +4126,14 @@
       "pos": "",
       "en": "",
       "vi": "không khoan nhượng"
+    },
+    "obdurate": {
+      "word": "obdurate",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "cứng nhắc"
     }
   },
   "offset": 425651725
