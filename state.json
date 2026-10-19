@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 518,
-      "learned": 518,
-      "lastPush": 1792406752020
+      "index": 519,
+      "learned": 519,
+      "lastPush": 1792429818479
     }
   },
   "cache": {
@@ -4150,6 +4150,14 @@
       "pos": "",
       "en": "",
       "vi": "tham chiến"
+    },
+    "magnanimous": {
+      "word": "magnanimous",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "cao thượng"
     }
   },
   "offset": 425651725
