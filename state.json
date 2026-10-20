@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 523,
-      "learned": 523,
-      "lastPush": 1792510985027
+      "index": 524,
+      "learned": 524,
+      "lastPush": 1792524910295
     }
   },
   "cache": {
@@ -4190,6 +4190,14 @@
       "pos": "",
       "en": "",
       "vi": "hoang phí"
+    },
+    "austere": {
+      "word": "austere",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "chát"
     }
   },
   "offset": 425651725
