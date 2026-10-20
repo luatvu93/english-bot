@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 521,
-      "learned": 521,
-      "lastPush": 1792476448072
+      "index": 522,
+      "learned": 522,
+      "lastPush": 1792495604190
     }
   },
   "cache": {
@@ -4174,6 +4174,14 @@
       "pos": "",
       "en": "",
       "vi": "thưa thớt"
+    },
+    "profligate": {
+      "word": "profligate",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "hoang phí"
     }
   },
   "offset": 425651725
