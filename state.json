@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 520,
-      "learned": 520,
-      "lastPush": 1792459239849
+      "index": 521,
+      "learned": 521,
+      "lastPush": 1792476448072
     }
   },
   "cache": {
@@ -4166,6 +4166,14 @@
       "pos": "",
       "en": "",
       "vi": "munificent"
+    },
+    "parsimonious": {
+      "word": "parsimonious",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "thưa thớt"
     }
   },
   "offset": 425651725
