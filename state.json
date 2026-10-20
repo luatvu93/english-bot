@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 522,
-      "learned": 522,
-      "lastPush": 1792495604190
+      "index": 523,
+      "learned": 523,
+      "lastPush": 1792510985027
     }
   },
   "cache": {
@@ -4177,6 +4177,14 @@
     },
     "profligate": {
       "word": "profligate",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "hoang phí"
+    },
+    "prodigal": {
+      "word": "prodigal",
       "ipa": "",
       "audio": "",
       "pos": "",
