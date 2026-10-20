@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 519,
-      "learned": 519,
-      "lastPush": 1792429818479
+      "index": 520,
+      "learned": 520,
+      "lastPush": 1792459239849
     }
   },
   "cache": {
@@ -4158,6 +4158,14 @@
       "pos": "",
       "en": "",
       "vi": "cao thượng"
+    },
+    "munificent": {
+      "word": "munificent",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "munificent"
     }
   },
   "offset": 425651725
