@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 528,
-      "learned": 528,
-      "lastPush": 1792598097783
+      "index": 529,
+      "learned": 529,
+      "lastPush": 1792611913002
     }
   },
   "cache": {
@@ -4230,6 +4230,14 @@
       "pos": "",
       "en": "",
       "vi": "tham lam"
+    },
+    "venal": {
+      "word": "venal",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tĩnh mạch"
     }
   },
   "offset": 425651725
