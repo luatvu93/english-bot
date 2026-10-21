@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 525,
-      "learned": 525,
-      "lastPush": 1792544802590
+      "index": 526,
+      "learned": 526,
+      "lastPush": 1792562271644
     }
   },
   "cache": {
@@ -4206,6 +4206,14 @@
       "pos": "",
       "en": "",
       "vi": "THÔNG TIN VỀ NHÀ SƯ MINH TUỆ"
+    },
+    "hedonistic": {
+      "word": "hedonistic",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "chủ nghĩa khoái lạc"
     }
   },
   "offset": 425651725
