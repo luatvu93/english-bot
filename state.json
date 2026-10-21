@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 524,
-      "learned": 524,
-      "lastPush": 1792524910295
+      "index": 525,
+      "learned": 525,
+      "lastPush": 1792544802590
     }
   },
   "cache": {
@@ -4198,6 +4198,14 @@
       "pos": "",
       "en": "",
       "vi": "chát"
+    },
+    "ascetic": {
+      "word": "ascetic",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "THÔNG TIN VỀ NHÀ SƯ MINH TUỆ"
     }
   },
   "offset": 425651725
