@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 526,
-      "learned": 526,
-      "lastPush": 1792562271644
+      "index": 527,
+      "learned": 527,
+      "lastPush": 1792580790522
     }
   },
   "cache": {
@@ -4214,6 +4214,14 @@
       "pos": "",
       "en": "",
       "vi": "chủ nghĩa khoái lạc"
+    },
+    "altruistic": {
+      "word": "altruistic",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Sự vị tha"
     }
   },
   "offset": 425651725
