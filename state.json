@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 527,
-      "learned": 527,
-      "lastPush": 1792580790522
+      "index": 528,
+      "learned": 528,
+      "lastPush": 1792598097783
     }
   },
   "cache": {
@@ -4222,6 +4222,14 @@
       "pos": "",
       "en": "",
       "vi": "Sự vị tha"
+    },
+    "avaricious": {
+      "word": "avaricious",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tham lam"
     }
   },
   "offset": 425651725
