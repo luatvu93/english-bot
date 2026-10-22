@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 532,
-      "learned": 532,
-      "lastPush": 1792668773186
+      "index": 533,
+      "learned": 533,
+      "lastPush": 1792684769464
     }
   },
   "cache": {
@@ -4262,6 +4262,14 @@
       "pos": "",
       "en": "",
       "vi": "không trung thực"
+    },
+    "ingenuous": {
+      "word": "ingenuous",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "ngây thơ"
     }
   },
   "offset": 425651725
