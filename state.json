@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 529,
-      "learned": 529,
-      "lastPush": 1792611913002
+      "index": 530,
+      "learned": 530,
+      "lastPush": 1792631088845
     }
   },
   "cache": {
@@ -4238,6 +4238,14 @@
       "pos": "",
       "en": "",
       "vi": "tĩnh mạch"
+    },
+    "mendacious": {
+      "word": "mendacious",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "xuyên tạc"
     }
   },
   "offset": 425651725
