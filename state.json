@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 533,
-      "learned": 533,
-      "lastPush": 1792684769464
+      "index": 534,
+      "learned": 534,
+      "lastPush": 1792698439231
     }
   },
   "cache": {
@@ -4270,6 +4270,14 @@
       "pos": "",
       "en": "",
       "vi": "ngây thơ"
+    },
+    "sanguine": {
+      "word": "sanguine",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "sanguine"
     }
   },
   "offset": 425651725
