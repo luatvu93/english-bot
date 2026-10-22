@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 530,
-      "learned": 530,
-      "lastPush": 1792631088845
+      "index": 531,
+      "learned": 531,
+      "lastPush": 1792648874312
     }
   },
   "cache": {
@@ -4246,6 +4246,14 @@
       "pos": "",
       "en": "",
       "vi": "xuyên tạc"
+    },
+    "duplicitous": {
+      "word": "duplicitous",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  02 HOURS 58 MINUTES 46 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
     }
   },
   "offset": 425651725
