@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 534,
-      "learned": 534,
-      "lastPush": 1792698439231
+      "index": 535,
+      "learned": 535,
+      "lastPush": 1792717497482
     }
   },
   "cache": {
@@ -4278,6 +4278,14 @@
       "pos": "",
       "en": "",
       "vi": "sanguine"
+    },
+    "morose": {
+      "word": "morose",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  07 HOURS 55 MINUTES 02 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
     }
   },
   "offset": 425651725
