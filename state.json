@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 537,
-      "learned": 537,
-      "lastPush": 1792752891317
+      "index": 538,
+      "learned": 538,
+      "lastPush": 1792769473919
     }
   },
   "cache": {
@@ -4302,6 +4302,14 @@
       "pos": "",
       "en": "",
       "vi": "sôi nổi"
+    },
+    "phlegmatic": {
+      "word": "phlegmatic",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "đờm"
     }
   },
   "offset": 425651725
