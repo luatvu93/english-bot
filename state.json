@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 536,
-      "learned": 536,
-      "lastPush": 1792735031013
+      "index": 537,
+      "learned": 537,
+      "lastPush": 1792752891317
     }
   },
   "cache": {
@@ -4294,6 +4294,14 @@
       "pos": "",
       "en": "",
       "vi": "lugubrious"
+    },
+    "ebullient": {
+      "word": "ebullient",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "sôi nổi"
     }
   },
   "offset": 425651725
