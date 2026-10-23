@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 535,
-      "learned": 535,
-      "lastPush": 1792717497482
+      "index": 536,
+      "learned": 536,
+      "lastPush": 1792735031013
     }
   },
   "cache": {
@@ -4286,6 +4286,14 @@
       "pos": "",
       "en": "",
       "vi": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  07 HOURS 55 MINUTES 02 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    },
+    "lugubrious": {
+      "word": "lugubrious",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "lugubrious"
     }
   },
   "offset": 425651725
