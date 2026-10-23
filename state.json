@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 538,
-      "learned": 538,
-      "lastPush": 1792769473919
+      "index": 539,
+      "learned": 539,
+      "lastPush": 1792783762080
     }
   },
   "cache": {
@@ -4310,6 +4310,14 @@
       "pos": "",
       "en": "",
       "vi": "đờm"
+    },
+    "mercurial": {
+      "word": "mercurial",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  13 HOURS 30 MINUTES 38 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
     }
   },
   "offset": 425651725
