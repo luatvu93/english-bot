@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 543,
-      "learned": 543,
-      "lastPush": 1792849758258
+      "index": 544,
+      "learned": 544,
+      "lastPush": 1792861285899
     }
   },
   "cache": {
@@ -4350,6 +4350,14 @@
       "pos": "",
       "en": "",
       "vi": "có thể thay đổi"
+    },
+    "tenuous": {
+      "word": "tenuous",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Mỏng manh?"
     }
   },
   "offset": 425651725
