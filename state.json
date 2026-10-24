@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 539,
-      "learned": 539,
-      "lastPush": 1792783762080
+      "index": 540,
+      "learned": 540,
+      "lastPush": 1792804478816
     }
   },
   "cache": {
@@ -4318,6 +4318,14 @@
       "pos": "",
       "en": "",
       "vi": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  13 HOURS 30 MINUTES 38 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    },
+    "capricious": {
+      "word": "capricious",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "thất thường"
     }
   },
   "offset": 425651725
