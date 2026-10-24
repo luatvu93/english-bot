@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 541,
-      "learned": 541,
-      "lastPush": 1792821312348
+      "index": 542,
+      "learned": 542,
+      "lastPush": 1792835880525
     }
   },
   "cache": {
@@ -4334,6 +4334,14 @@
       "pos": "",
       "en": "",
       "vi": "không thể lay chuyển"
+    },
+    "immutable": {
+      "word": "immutable",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "bất biến"
     }
   },
   "offset": 425651725
