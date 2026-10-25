@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 546,
-      "learned": 546,
-      "lastPush": 1792905388428
+      "index": 547,
+      "learned": 547,
+      "lastPush": 1792921845048
     }
   },
   "cache": {
@@ -4374,6 +4374,14 @@
       "pos": "",
       "en": "",
       "vi": "đặc biệt"
+    },
+    "cogent": {
+      "word": "cogent",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "cogent"
     }
   },
   "offset": 425651725
