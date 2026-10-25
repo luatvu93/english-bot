@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 548,
-      "learned": 548,
-      "lastPush": 1792936684373
+      "index": 549,
+      "learned": 549,
+      "lastPush": 1792949000980
     }
   },
   "cache": {
@@ -4390,6 +4390,14 @@
       "pos": "",
       "en": "",
       "vi": "chiến hào"
+    },
+    "incisive": {
+      "word": "incisive",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Incisive"
     }
   },
   "offset": 425651725
