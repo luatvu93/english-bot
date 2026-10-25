@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 544,
-      "learned": 544,
-      "lastPush": 1792861285899
+      "index": 545,
+      "learned": 545,
+      "lastPush": 1792888796837
     }
   },
   "cache": {
@@ -4358,6 +4358,14 @@
       "pos": "",
       "en": "",
       "vi": "Mỏng manh?"
+    },
+    "spurious": {
+      "word": "spurious",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Không th? t"
     }
   },
   "offset": 425651725
