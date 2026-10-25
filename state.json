@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 545,
-      "learned": 545,
-      "lastPush": 1792888796837
+      "index": 546,
+      "learned": 546,
+      "lastPush": 1792905388428
     }
   },
   "cache": {
@@ -4366,6 +4366,14 @@
       "pos": "",
       "en": "",
       "vi": "Không th? t"
+    },
+    "specious": {
+      "word": "specious",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "đặc biệt"
     }
   },
   "offset": 425651725
