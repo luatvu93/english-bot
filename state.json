@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 547,
-      "learned": 547,
-      "lastPush": 1792921845048
+      "index": 548,
+      "learned": 548,
+      "lastPush": 1792936684373
     }
   },
   "cache": {
@@ -4382,6 +4382,14 @@
       "pos": "",
       "en": "",
       "vi": "cogent"
+    },
+    "trenchant": {
+      "word": "trenchant",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "chiến hào"
     }
   },
   "offset": 425651725
