@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 552,
-      "learned": 552,
-      "lastPush": 1793013690987
+      "index": 553,
+      "learned": 553,
+      "lastPush": 1793035659914
     }
   },
   "cache": {
@@ -4422,6 +4422,14 @@
       "pos": "",
       "en": "",
       "vi": "Tinh Nhuệ"
+    },
+    "obtuse": {
+      "word": "obtuse",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Tù"
     }
   },
   "offset": 425651725
