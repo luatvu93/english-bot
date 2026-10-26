@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 551,
-      "learned": 551,
-      "lastPush": 1792992447664
+      "index": 552,
+      "learned": 552,
+      "lastPush": 1793013690987
     }
   },
   "cache": {
@@ -4414,6 +4414,14 @@
       "pos": "",
       "en": "",
       "vi": "sagacious"
+    },
+    "astute": {
+      "word": "astute",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Tinh Nhuệ"
     }
   },
   "offset": 425651725
