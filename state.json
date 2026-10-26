@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 550,
-      "learned": 550,
-      "lastPush": 1792975849842
+      "index": 551,
+      "learned": 551,
+      "lastPush": 1792992447664
     }
   },
   "cache": {
@@ -4406,6 +4406,14 @@
       "pos": "",
       "en": "",
       "vi": "dễ hiểu"
+    },
+    "sagacious": {
+      "word": "sagacious",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "sagacious"
     }
   },
   "offset": 425651725
