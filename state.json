@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 549,
-      "learned": 549,
-      "lastPush": 1792949000980
+      "index": 550,
+      "learned": 550,
+      "lastPush": 1792975849842
     }
   },
   "cache": {
@@ -4398,6 +4398,14 @@
       "pos": "",
       "en": "",
       "vi": "Incisive"
+    },
+    "perspicacious": {
+      "word": "perspicacious",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "dễ hiểu"
     }
   },
   "offset": 425651725
