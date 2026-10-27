@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 556,
-      "learned": 556,
-      "lastPush": 1793105076513
+      "index": 557,
+      "learned": 557,
+      "lastPush": 1793125117916
     }
   },
   "cache": {
@@ -4454,6 +4454,14 @@
       "pos": "",
       "en": "",
       "vi": "mờ"
+    },
+    "lucid": {
+      "word": "lucid",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "sáng suốt"
     }
   },
   "offset": 425651725
