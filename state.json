@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 555,
-      "learned": 555,
-      "lastPush": 1793083786082
+      "index": 556,
+      "learned": 556,
+      "lastPush": 1793105076513
     }
   },
   "cache": {
@@ -4446,6 +4446,14 @@
       "pos": "",
       "en": "",
       "vi": "recondite"
+    },
+    "opaque": {
+      "word": "opaque",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "mờ"
     }
   },
   "offset": 425651725
