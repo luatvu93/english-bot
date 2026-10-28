@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 558,
-      "learned": 558,
-      "lastPush": 1793152461089
+      "index": 559,
+      "learned": 559,
+      "lastPush": 1793173011082
     }
   },
   "cache": {
@@ -4470,6 +4470,14 @@
       "pos": "",
       "en": "",
       "vi": "chiếu lệ"
+    },
+    "assiduous": {
+      "word": "assiduous",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "siêng năng"
     }
   },
   "offset": 425651725
