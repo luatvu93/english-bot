@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 557,
-      "learned": 557,
-      "lastPush": 1793125117916
+      "index": 558,
+      "learned": 558,
+      "lastPush": 1793152461089
     }
   },
   "cache": {
@@ -4462,6 +4462,14 @@
       "pos": "",
       "en": "",
       "vi": "sáng suốt"
+    },
+    "perfunctory": {
+      "word": "perfunctory",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "chiếu lệ"
     }
   },
   "offset": 425651725
