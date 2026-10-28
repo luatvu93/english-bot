@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 559,
-      "learned": 559,
-      "lastPush": 1793173011082
+      "index": 560,
+      "learned": 560,
+      "lastPush": 1793197620847
     }
   },
   "cache": {
@@ -4478,6 +4478,14 @@
       "pos": "",
       "en": "",
       "vi": "siêng năng"
+    },
+    "sedulous": {
+      "word": "sedulous",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "quyến rũ"
     }
   },
   "offset": 425651725
