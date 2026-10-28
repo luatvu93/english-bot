@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 560,
-      "learned": 560,
-      "lastPush": 1793197620847
+      "index": 561,
+      "learned": 561,
+      "lastPush": 1793216574994
     }
   },
   "cache": {
@@ -4486,6 +4486,14 @@
       "pos": "",
       "en": "",
       "vi": "quyến rũ"
+    },
+    "indefatigable": {
+      "word": "indefatigable",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "HMS Indefatigable"
     }
   },
   "offset": 425651725
