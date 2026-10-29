@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 564,
-      "learned": 564,
-      "lastPush": 1793286699755
+      "index": 565,
+      "learned": 565,
+      "lastPush": 1793304938458
     }
   },
   "cache": {
@@ -4518,6 +4518,14 @@
       "pos": "",
       "en": "",
       "vi": "diffident"
+    },
+    "supercilious": {
+      "word": "supercilious",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "siêu phàm"
     }
   },
   "offset": 425651725
