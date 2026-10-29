@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 563,
-      "learned": 563,
-      "lastPush": 1793261440039
+      "index": 564,
+      "learned": 564,
+      "lastPush": 1793286699755
     }
   },
   "cache": {
@@ -4510,6 +4510,14 @@
       "pos": "",
       "en": "",
       "vi": "nhút nhát"
+    },
+    "diffident": {
+      "word": "diffident",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "diffident"
     }
   },
   "offset": 425651725
