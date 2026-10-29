@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 562,
-      "learned": 562,
-      "lastPush": 1793239182244
+      "index": 563,
+      "learned": 563,
+      "lastPush": 1793261440039
     }
   },
   "cache": {
@@ -4502,6 +4502,14 @@
       "pos": "",
       "en": "",
       "vi": "gan"
+    },
+    "timorous": {
+      "word": "timorous",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "nhút nhát"
     }
   },
   "offset": 425651725
