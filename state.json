@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 561,
-      "learned": 561,
-      "lastPush": 1793216574994
+      "index": 562,
+      "learned": 562,
+      "lastPush": 1793239182244
     }
   },
   "cache": {
@@ -4494,6 +4494,14 @@
       "pos": "",
       "en": "",
       "vi": "HMS Indefatigable"
+    },
+    "intrepid": {
+      "word": "intrepid",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "gan"
     }
   },
   "offset": 425651725
