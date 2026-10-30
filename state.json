@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 567,
-      "learned": 567,
-      "lastPush": 1793349657265
+      "index": 568,
+      "learned": 568,
+      "lastPush": 1793373568017
     }
   },
   "cache": {
@@ -4542,6 +4542,14 @@
       "pos": "",
       "en": "",
       "vi": "tiếp theo"
+    },
+    "sycophantic": {
+      "word": "sycophantic",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "ninh bo"
     }
   },
   "offset": 425651725
