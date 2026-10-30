@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 565,
-      "learned": 565,
-      "lastPush": 1793304938458
+      "index": 566,
+      "learned": 566,
+      "lastPush": 1793326547080
     }
   },
   "cache": {
@@ -4526,6 +4526,14 @@
       "pos": "",
       "en": "",
       "vi": "siêu phàm"
+    },
+    "imperious": {
+      "word": "imperious",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "độc đoán"
     }
   },
   "offset": 425651725
