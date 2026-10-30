@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 568,
-      "learned": 568,
-      "lastPush": 1793373568017
+      "index": 569,
+      "learned": 569,
+      "lastPush": 1793390201937
     }
   },
   "cache": {
@@ -4550,6 +4550,14 @@
       "pos": "",
       "en": "",
       "vi": "ninh bo"
+    },
+    "unctuous": {
+      "word": "unctuous",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "không ngoan ngoãn"
     }
   },
   "offset": 425651725
