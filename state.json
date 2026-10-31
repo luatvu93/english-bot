@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 571,
-      "learned": 571,
-      "lastPush": 1793432471990
+      "index": 572,
+      "learned": 572,
+      "lastPush": 1793454777761
     }
   },
   "cache": {
@@ -4574,6 +4574,14 @@
       "pos": "",
       "en": "",
       "vi": "ầm ĩ"
+    },
+    "strident": {
+      "word": "strident",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "strident"
     }
   },
   "offset": 425651725
