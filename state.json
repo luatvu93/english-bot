@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 570,
-      "learned": 570,
-      "lastPush": 1793411699448
+      "index": 571,
+      "learned": 571,
+      "lastPush": 1793432471990
     }
   },
   "cache": {
@@ -4566,6 +4566,14 @@
       "pos": "",
       "en": "",
       "vi": "querulous"
+    },
+    "vociferous": {
+      "word": "vociferous",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "ầm ĩ"
     }
   },
   "offset": 425651725
