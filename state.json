@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 569,
-      "learned": 569,
-      "lastPush": 1793390201937
+      "index": 570,
+      "learned": 570,
+      "lastPush": 1793411699448
     }
   },
   "cache": {
@@ -4558,6 +4558,14 @@
       "pos": "",
       "en": "",
       "vi": "không ngoan ngoãn"
+    },
+    "querulous": {
+      "word": "querulous",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "querulous"
     }
   },
   "offset": 425651725
