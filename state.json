@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 572,
-      "learned": 572,
-      "lastPush": 1793454777761
+      "index": 573,
+      "learned": 573,
+      "lastPush": 1793469543719
     }
   },
   "cache": {
@@ -4582,6 +4582,14 @@
       "pos": "",
       "en": "",
       "vi": "strident"
+    },
+    "mellifluous": {
+      "word": "mellifluous",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "kẹo mellifluous"
     }
   },
   "offset": 425651725
