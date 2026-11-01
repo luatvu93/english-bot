@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 574,
-      "learned": 574,
-      "lastPush": 1793497084091
+      "index": 575,
+      "learned": 575,
+      "lastPush": 1793520338794
     }
   },
   "cache": {
@@ -4598,6 +4598,14 @@
       "pos": "",
       "en": "",
       "vi": "phởn phơ"
+    },
+    "cacophonous": {
+      "word": "cacophonous",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Không thể chịu đựng được"
     }
   },
   "offset": 425651725
