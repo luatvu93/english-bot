@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 576,
-      "learned": 576,
-      "lastPush": 1793545135665
+      "index": 577,
+      "learned": 577,
+      "lastPush": 1793560968688
     }
   },
   "cache": {
@@ -4614,6 +4614,14 @@
       "pos": "",
       "en": "",
       "vi": "Vũng trong, khu neo bên trong."
+    },
+    "pernicious": {
+      "word": "pernicious",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Chết"
     }
   },
   "offset": 425651725
