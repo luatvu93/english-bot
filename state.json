@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 579,
-      "learned": 579,
-      "lastPush": 1793609424633
+      "index": 580,
+      "learned": 580,
+      "lastPush": 1793645534538
     }
   },
   "cache": {
@@ -4638,6 +4638,14 @@
       "pos": "",
       "en": "",
       "vi": "lời khen ngợi"
+    },
+    "propitious": {
+      "word": "propitious",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "thuận lợi"
     }
   },
   "offset": 425651725
