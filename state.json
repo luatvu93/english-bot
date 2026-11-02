@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 577,
-      "learned": 577,
-      "lastPush": 1793560968688
+      "index": 578,
+      "learned": 578,
+      "lastPush": 1793584670070
     }
   },
   "cache": {
@@ -4622,6 +4622,14 @@
       "pos": "",
       "en": "",
       "vi": "Chết"
+    },
+    "deleterious": {
+      "word": "deleterious",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "có hại"
     }
   },
   "offset": 425651725
