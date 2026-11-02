@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 578,
-      "learned": 578,
-      "lastPush": 1793584670070
+      "index": 579,
+      "learned": 579,
+      "lastPush": 1793609424633
     }
   },
   "cache": {
@@ -4630,6 +4630,14 @@
       "pos": "",
       "en": "",
       "vi": "có hại"
+    },
+    "salutary": {
+      "word": "salutary",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "lời khen ngợi"
     }
   },
   "offset": 425651725
