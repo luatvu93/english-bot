@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 582,
-      "learned": 582,
-      "lastPush": 1793704984062
+      "index": 583,
+      "learned": 583,
+      "lastPush": 1793730564229
     }
   },
   "cache": {
@@ -4662,6 +4662,14 @@
       "pos": "",
       "en": "",
       "vi": "đáng ngại"
+    },
+    "portentous": {
+      "word": "portentous",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "điềm gở"
     }
   },
   "offset": 425651725
