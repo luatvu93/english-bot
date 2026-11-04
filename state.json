@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 584,
-      "learned": 584,
-      "lastPush": 1793760563043
+      "index": 585,
+      "learned": 585,
+      "lastPush": 1793814123156
     }
   },
   "cache": {
@@ -4678,6 +4678,14 @@
       "pos": "",
       "en": "",
       "vi": "tiên tri"
+    },
+    "clairvoyant": {
+      "word": "clairvoyant",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "có khả năng thấu thị"
     }
   },
   "offset": 425651725
