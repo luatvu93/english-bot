@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 583,
-      "learned": 583,
-      "lastPush": 1793730564229
+      "index": 584,
+      "learned": 584,
+      "lastPush": 1793760563043
     }
   },
   "cache": {
@@ -4670,6 +4670,14 @@
       "pos": "",
       "en": "",
       "vi": "điềm gở"
+    },
+    "prescient": {
+      "word": "prescient",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "tiên tri"
     }
   },
   "offset": 425651725
