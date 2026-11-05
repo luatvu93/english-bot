@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 586,
-      "learned": 586,
-      "lastPush": 1793847442639
+      "index": 587,
+      "learned": 587,
+      "lastPush": 1793873706345
     }
   },
   "cache": {
@@ -4694,6 +4694,14 @@
       "pos": "",
       "en": "",
       "vi": "mơ hồ"
+    },
+    "amorphous": {
+      "word": "amorphous",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "vô định hình"
     }
   },
   "offset": 425651725
