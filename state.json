@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 585,
-      "learned": 585,
-      "lastPush": 1793814123156
+      "index": 586,
+      "learned": 586,
+      "lastPush": 1793847442639
     }
   },
   "cache": {
@@ -4686,6 +4686,14 @@
       "pos": "",
       "en": "",
       "vi": "có khả năng thấu thị"
+    },
+    "nebulous": {
+      "word": "nebulous",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "mơ hồ"
     }
   },
   "offset": 425651725
