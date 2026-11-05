@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 587,
-      "learned": 587,
-      "lastPush": 1793873706345
+      "index": 588,
+      "learned": 588,
+      "lastPush": 1793901703516
     }
   },
   "cache": {
@@ -4702,6 +4702,14 @@
       "pos": "",
       "en": "",
       "vi": "vô định hình"
+    },
+    "protean": {
+      "word": "protean",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Proteus"
     }
   },
   "offset": 425651725
