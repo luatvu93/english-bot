@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 589,
-      "learned": 589,
-      "lastPush": 1793933831992
+      "index": 590,
+      "learned": 590,
+      "lastPush": 1793960253102
     }
   },
   "cache": {
@@ -4718,6 +4718,14 @@
       "pos": "",
       "en": "",
       "vi": "Liền khối"
+    },
+    "ossified": {
+      "word": "ossified",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "hóa thạch"
     }
   },
   "offset": 425651725
