@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 588,
-      "learned": 588,
-      "lastPush": 1793901703516
+      "index": 589,
+      "learned": 589,
+      "lastPush": 1793933831992
     }
   },
   "cache": {
@@ -4710,6 +4710,14 @@
       "pos": "",
       "en": "",
       "vi": "Proteus"
+    },
+    "monolithic": {
+      "word": "monolithic",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Liền khối"
     }
   },
   "offset": 425651725
