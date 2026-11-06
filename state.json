@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 590,
-      "learned": 590,
-      "lastPush": 1793960253102
+      "index": 591,
+      "learned": 591,
+      "lastPush": 1793986302506
     }
   },
   "cache": {
@@ -4726,6 +4726,14 @@
       "pos": "",
       "en": "",
       "vi": "hóa thạch"
+    },
+    "burgeoning": {
+      "word": "burgeoning",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Bò tót"
     }
   },
   "offset": 425651725
