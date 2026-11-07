@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 591,
-      "learned": 591,
-      "lastPush": 1793986302506
+      "index": 592,
+      "learned": 592,
+      "lastPush": 1794018406924
     }
   },
   "cache": {
@@ -4734,6 +4734,14 @@
       "pos": "",
       "en": "",
       "vi": "Bò tót"
+    },
+    "nascent": {
+      "word": "nascent",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "mới ra đời"
     }
   },
   "offset": 425651725
