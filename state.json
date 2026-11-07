@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 594,
-      "learned": 594,
-      "lastPush": 1794065478625
+      "index": 595,
+      "learned": 595,
+      "lastPush": 1794080005421
     }
   },
   "cache": {
@@ -4758,6 +4758,14 @@
       "pos": "",
       "en": "",
       "vi": "hấp hối"
+    },
+    "defunct": {
+      "word": "defunct",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "không còn tồn tại"
     }
   },
   "offset": 425651725
