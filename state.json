@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 593,
-      "learned": 593,
-      "lastPush": 1794042018566
+      "index": 594,
+      "learned": 594,
+      "lastPush": 1794065478625
     }
   },
   "cache": {
@@ -4750,6 +4750,14 @@
       "pos": "",
       "en": "",
       "vi": "phôi thai"
+    },
+    "moribund": {
+      "word": "moribund",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "hấp hối"
     }
   },
   "offset": 425651725
