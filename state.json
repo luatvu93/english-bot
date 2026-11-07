@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 592,
-      "learned": 592,
-      "lastPush": 1794018406924
+      "index": 593,
+      "learned": 593,
+      "lastPush": 1794042018566
     }
   },
   "cache": {
@@ -4742,6 +4742,14 @@
       "pos": "",
       "en": "",
       "vi": "mới ra đời"
+    },
+    "incipient": {
+      "word": "incipient",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "phôi thai"
     }
   },
   "offset": 425651725
