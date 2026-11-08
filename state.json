@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 596,
-      "learned": 596,
-      "lastPush": 1794102985777
+      "index": 597,
+      "learned": 597,
+      "lastPush": 1794126335396
     }
   },
   "cache": {
@@ -4774,6 +4774,14 @@
       "pos": "",
       "en": "",
       "vi": "1.(thuộc) di tích, vết tích 2.(có) cơ quan tiêu giảm"
+    },
+    "quixotic": {
+      "word": "quixotic",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "\"Quixotic\" à?"
     }
   },
   "offset": 425651725
