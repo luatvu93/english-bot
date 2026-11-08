@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 595,
-      "learned": 595,
-      "lastPush": 1794080005421
+      "index": 596,
+      "learned": 596,
+      "lastPush": 1794102985777
     }
   },
   "cache": {
@@ -4766,6 +4766,14 @@
       "pos": "",
       "en": "",
       "vi": "không còn tồn tại"
+    },
+    "vestigial": {
+      "word": "vestigial",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "1.(thuộc) di tích, vết tích 2.(có) cơ quan tiêu giảm"
     }
   },
   "offset": 425651725
