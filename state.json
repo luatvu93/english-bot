@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 597,
-      "learned": 597,
-      "lastPush": 1794126335396
+      "index": 598,
+      "learned": 598,
+      "lastPush": 1794151582305
     }
   },
   "cache": {
@@ -4782,6 +4782,14 @@
       "pos": "",
       "en": "",
       "vi": "\"Quixotic\" à?"
+    },
+    "halcyon": {
+      "word": "halcyon",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "halcyon"
     }
   },
   "offset": 425651725
