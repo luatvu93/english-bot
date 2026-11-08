@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 598,
-      "learned": 598,
-      "lastPush": 1794151582305
+      "index": 599,
+      "learned": 599,
+      "lastPush": 1794167412775
     }
   },
   "cache": {
@@ -4790,6 +4790,14 @@
       "pos": "",
       "en": "",
       "vi": "halcyon"
+    },
+    "zenith": {
+      "word": "zenith",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "thiên đỉnh"
     }
   },
   "offset": 425651725
