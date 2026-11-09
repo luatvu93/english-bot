@@ -1,9 +1,9 @@
 {
   "subscribers": {
     "7583091901": {
-      "index": 599,
-      "learned": 599,
-      "lastPush": 1794167412775
+      "index": 0,
+      "learned": 600,
+      "lastPush": 1794190339871
     }
   },
   "cache": {
@@ -4798,6 +4798,14 @@
       "pos": "",
       "en": "",
       "vi": "thiên đỉnh"
+    },
+    "nadir": {
+      "word": "nadir",
+      "ipa": "",
+      "audio": "",
+      "pos": "",
+      "en": "",
+      "vi": "Nadir."
     }
   },
   "offset": 425651725
